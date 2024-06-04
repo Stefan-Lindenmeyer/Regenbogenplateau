@@ -1,0 +1,1 @@
+Der Steinbruch in dem die [[Artificer]] für die [[Neue Siedlung]] Steine abbauen.

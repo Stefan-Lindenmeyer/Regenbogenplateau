@@ -1,0 +1,6 @@
+Eine Ansammlung von Säulen verschiedensten Durchmessers und Länge die über die ganze Ostseite des Plateaus verstreut sind. Die großen Säulen mit Durchmessern bis zu 500m bilden Schluchten welche von diversen kleineren Säulen in verschiedenen Orientierungen überbrückt, durchtunnelt oder überdacht werden.
+Die unteren Teile der Säulen haben die Farben des Regenbogens angenommen und beherbergen somit die größte Feywildüberlagerung des Gebietes. [[Die Feywildüberlappung]]
+Die Flora des Säulenwaldes kommt einem Dschungel nahe. Viele der offenen Teile werden durch große Bäume und viele Lianen oder anderes Gebüsch verschlossen, sodass es schwierig ist einen Weg von oben hindurch zu finden. Zudem weiß man dann nicht was einen unten erwartet.
+Tief in einer der Schluchten wartet [[Hunter]] auf Miruna wo sich eine große Anzahl an Ranken um eine Perlsteinsäule winden und ein Dach darüber bilden. Es sieht aus wie ein Baum.
+
+Diverse Feykreaturen des Waldes sind hier aufzufinden, jedoch stets die veränderte Variante welche durch den Einfluss der Regenbogenflüssigkeit hervorgerufen wurde.

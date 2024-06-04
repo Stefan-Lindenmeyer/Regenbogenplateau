@@ -1,0 +1,17 @@
+Die Party geht zu den Spelljammern und lässt dort Iloril den Bericht für Galinor zu Ende schreiben während die anderen die Gegend untersuchen, aber nichts interressantes finden.
+
+Danach gehen sie tiefer in den Wald in Richtung des großen Baumes. Sie begegnen Geisterfischen und interagieren kurz mit ihnen, bis Miruna den Regenbogenstein aus ihrer Tasche holt und die Fische sie angreifen. Sie besiegen die Fische mit Verlust von BobFredBitteMach. Während des Kampfes beschwört Peter zum ersten Mal seine Spektralarme über welche Miruna ihn danach ausfragt während Iloril kurz rastet.
+Sie gehen weiter in den Wald und bemerken dass es sehr dunkel wird und der weg deutlich länger ist als sie ursprungluch gedacht hatten.
+Letztendlich kommen sie aber an dem riesigen Baum an welcher mit Moos und Pilzen bewachsen ist.
+Sie finden den Eingang und gehen hinein. Dort bemerken sie den gleichen Saturierungseffekt den sie auch schon in der Mühle gesehen hatten.
+Ihnen fällt in dem großen offenen Raum in der Mitte eine Säule aus Regenbogenstein auf und eine Treppe die zu einer Terrasse führt.
+Miruna ruft nach Meria welche sie bemerkt und begrüßt.
+Meria erzählt ein wenig über sich, dass sie aus dem Feywild kommt und hier hergekommen ist um die Regenbogenflüssigkeit zu erforschen. Dass sie keinen Einfluss auf die Artificer hat, da diese ihre Trank- und Naturmagie nicht mögen. Dass sie bei den Schutzzaubern zusammengearbeitet haben aus Notwendigkeit. Dass sie viele Kinder mit ihnen hat aus gegenseitigem Interesse der Familienbildung. Dass sie das Feywild nicht verlassen kann.
+Sie erzählt auch ein wenig über die Geschichte des Gebietes auf der Feywildseite: Die Bewohner hier wurden durch den Einfluss der Regenbogenflüssigkeit krank und starben langsam aus, aber ihre Geister oder korrupte Formen von ihnen blieben zurück und beschützen nun den Wald.
+Die Party spricht die Situation mit Elitre an, aber Meria sagt, dass sie nicht wirklich helfen kann und schlägt direkte Konfrontation oder mehr Nachforschung vor.
+Meria erzählt ihnen auch noch, dass die Artificer von einer Art Fluch befallen sind, sie weigern sich jedoch Hilfe von Meria anzunehmen und es scheint auch nicht als wären sie sich selbst bewusst, dass sie unter diesem Einfluss stehen. Meria schätzt, dass die Schutzzauber ein Faktor darin sein könnte und schlägt vor, dass die Party einen Knotenpunkt der Schutzzauber entweder komplett zerstört oder temporär ausschaltet. Hierzu bietet sie an einen Trank zu brauen, der dies bewirkt, jedoch benötigt sie dafür noch eine Zutat welche in der naheliegenden Grotte geerntet werden kann. Sie würde eine ihrer Töchter mitschicken.
+Sie hat auch noch eine weitere Vermutung über den Ursprung der Flüche zu welcher sie keine Details offenbart. Sie sagt nur, dass es etwas geben muss was alle Männer verbindet.
+
+Nach der Konversation fragt Iloril ob Meria ihm beibringen kann wie man Heiltränke braut und sie geht seine Nachfrage nach während die anderen beiden das Essen für die Kinder vorbereiten die währenddessen vom Teich wieder zurückkommen wo sie gebadet haben.
+Miruna macht ein wenig Small Talk mit Ai-Mia, der ältesten Tochter und belustigt ein wenig die anderen Mädchen mit ihren Illusionen.
+Nach dem Essen verabschieden sie sich und gehen auf dem regulären Weg zurück ins Dorf.
