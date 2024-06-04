@@ -14,7 +14,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Search()),
     Component.MobileOnly(Component.Spacer()),
     Component.MobileOnly(Component.Spacer()),
-    Component.MobileOnly(Component.Darkmode()),
+    
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
@@ -26,6 +26,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Search()),
     Component.DesktopOnly(Component.Darkmode()),
     Component.Explorer(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.MobileOnly(Component.Darkmode()),
     //Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
