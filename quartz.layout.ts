@@ -13,6 +13,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.MobileOnly(Component.Search()),
     Component.MobileOnly(Component.Spacer()),
+    Component.MobileOnly(Component.Spacer()),
     Component.MobileOnly(Component.Darkmode()),
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
