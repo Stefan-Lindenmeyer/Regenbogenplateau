@@ -8,4 +8,4 @@ Wiki für meine DND Kampagne.
 
 [[Artificer]]
 
-![[public/Bilder/Karte_iso.png]]
+![[Karte_iso.png]]
