@@ -12,10 +12,18 @@ Hier unten finden sie auch verschiedene vergammelte Früchte und einige Raupen w
 
 
 #### Shrike
-
+[[Shrike-Ship.png]]
 Hier ist der Gravitationsfeldgenerator welcher durch den Einfluss der [[Regenbogengrütze]] dauerhaft angeschaltet ist. Dieser ist auch für ein leichtes protektives Feld um die Schiffshülle herum verantwortlich, welche es vor Witterung besser als die anderen Schiffe geschützt hat. Mit etwas Arbeit könnte man dieses Schiff renovieren. Die Metallhülle ist noch immer stabil, wenn auch ein wenig angerostet und an Stellen mit Algen und Muscheln überdeckt.
 
 Der Gravitationsgenerator ist ein [[Spelljammer]] Helm.
+
+## Reparaturen
+Hülle
+Seiten- und Heckstabilisatoren
+Kontaminierungen reinigen
+Navigationssystem rekalibrieren
+Autopilot neu Anweisen
+Kraftstoff oder -quelle benötigt
 
 #### Kalmar
 Das Kalmarschiff sieht aus wie eine riesige Leiche des namensgebenden Meeresbewohners. Die rote Farbe ist jedoch stark verblasst weswegen es sehr geisterhaft aussieht. Die Tentakel sind mit der Galleone verbunden und versperren den Weg.
