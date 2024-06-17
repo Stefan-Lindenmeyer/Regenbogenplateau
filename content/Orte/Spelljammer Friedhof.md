@@ -3,7 +3,7 @@
 Hier befindet sich das Nest der [[Schmetterlinge]].
 Die Masten sind nicht mehr vorhanden, weil sie umgefallen und komplett verfault sind.
 Das Holz hat sich sehr gut mit der Regenbogengrütze verbunden, weswegen es seine Form erstaunlich gut behalten konnte. Als Folge davon hat es sich jedoch mit dem Boden und den Pflanzen verbunden und ist mehr Pflanze als Schiff.
-Das Schiff ist leicht getiltet, deswegen ist alles Difficult Terrain, wenn man sich darauf oder darin bewegt.
+Das Schiff ist leicht gekippt, deswegen ist alles Difficult Terrain, wenn man sich darauf oder darin bewegt.
 Die Galeone ist in der Mitte auseinandergerissen (genau gegenüber der Ladebucht, wo die zwei Räume sind) und teils überwachsen, sodass man sich eventuell verheddert, wenn man in dem Riss hinuntersteigen möchte.
 Auf dem Cargo Deck sind 10 Kokons und auf dem Steerage Deck sind weitere 10 für Minor Butterflies und im Steerage Deck sind nochmal 2 für Giant Butterflies.
 Ausgeschlüpft sind bereits 3 Giant und 7 Minor, von denen 2|4 auf dem Cargo Deck sind und 1|3 darunter.
@@ -12,18 +12,25 @@ Hier unten finden sie auch verschiedene vergammelte Früchte und einige Raupen w
 
 
 #### Shrike
-![[Shrike-Ship.png]]
+![[Shrike_Ship.png]]
 Hier ist der Gravitationsfeldgenerator welcher durch den Einfluss der [[Regenbogengrütze]] dauerhaft angeschaltet ist. Dieser ist auch für ein leichtes protektives Feld um die Schiffshülle herum verantwortlich, welche es vor Witterung besser als die anderen Schiffe geschützt hat. Mit etwas Arbeit könnte man dieses Schiff renovieren. Die Metallhülle ist noch immer stabil, wenn auch ein wenig angerostet und an Stellen mit Algen und Muscheln überdeckt.
 
-Der Gravitationsgenerator ist ein [[Spelljammer]] Helm.
+Der Gravitationsgenerator ist ein Spelljammer Helm.
 
 ## Reparaturen
-Hülle
-Seiten- und Heckstabilisatoren
-Kontaminierungen reinigen
-Navigationssystem rekalibrieren
-Autopilot neu Anweisen
-Kraftstoff oder -quelle benötigt
+Diese Reparaturen sind laut dem Helm nötig damit dass Schiff wieder voll funktionsfähig ist.
+- Hülle
+- Seiten- und Heckstabilisatoren
+- Kontaminierungen reinigen
+- Navigationssystem rekalibrieren
+- Autopilot neu Anweisen
+- Kraftstoff oder -quelle benötigt
+
+## Gegenstände (Shrike)
+- Ein altes Silberschwert
+- Eine Goldstatue einer unbekannten Göttin? (10cm)
+- Ein uraltes Werkzeugset eingewickelt in einer wasserdichten Ledertasche
+- Ein Glaszylinder mit einer unbekannten Flüssigkeit
 
 #### Kalmar
 Das Kalmarschiff sieht aus wie eine riesige Leiche des namensgebenden Meeresbewohners. Die rote Farbe ist jedoch stark verblasst weswegen es sehr geisterhaft aussieht. Die Tentakel sind mit der Galleone verbunden und versperren den Weg.
@@ -45,8 +52,3 @@ Ansonsten kann man Kleintiere und viele Insekten dort finden teils.
 Es sind ein paar kleine Bäume (wegen Gravitation) vorzufinden, aber hauptsächlich gibt es hier Büsche, Pilze, Moos, Ranken, Blumen, Gräser und Kräuter welche die Wracks überwachsen. Es gibt auch kleine "Riffe" aus alten Schiffsteilen an denen Pilze wachsen.
 Die Gewächse sind sehr farbenfroh und robust
 
-## Gegenstände
-- Ein altes Silberschwert
-- Eine Goldstatue einer unbekannten Göttin? (10cm)
-- Ein uraltes Werkzeugset eingewickelt in einer wasserdichten Ledertasche
-- Ein Glaszylinder mit einer unbekannten Flüssigkeit

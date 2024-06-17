@@ -1,3 +1,5 @@
+Mitglied der [[Terraner]]
+
 ## Persönlichkeit
 
 Wertet Stärke über alles, wenn er besiegt wird, hat er großen Respekt vor seinem Gegenüber.

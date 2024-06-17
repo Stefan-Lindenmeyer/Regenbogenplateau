@@ -16,7 +16,7 @@ Alle Artificer wurden durch selektive "Züchtungsprogramme" geboren und wurden v
 
 ### Mitglieder
 
-| Name           | Age | Job                  | Augmentiertes Körperteil        | Frau          | [[Dorfkinder]]                           | Wohnort       |
+| Name           | Age | Job                  | Augmentiertes Körperteil        | Frau          | Kinder                                   | Wohnort       |
 | -------------- | :-: | -------------------- | ------------------------------- | ------------- | ---------------------------------------- | ------------- |
 | [[Rolen]]      | 58  | Admin                | Rechter Oberschenkel            | [[Glorie]]    | Adara(13), Elara(9), Blaize(4), Quinn(1) | 2.1           |
 | [[Malakai]]    | 57  | Schmied              | Unterkiefer                     | [[Pristina]]  | Kiran(12), Lian(8), Galen(3)             | 1.1           |
@@ -69,7 +69,7 @@ Tot♧: 2
 \*Noch nicht verheiratet (weil zu jung) bei Frauen
 ## Spezialisierungen
 
-Jeder angegebene Beruf ist nicht zwingend eine Vollzeitbeschäftigung, sondern eher eine Spezialisierung. Wenn in irgendeinem Feld Leute gebraucht werden, wird geholfen vor allem während der Erntezeit.
+Jeder angegebene Beruf ist nicht zwingend eine Vollzeitbeschäftigung, sondern eher eine Spezialisierung. Wenn in irgendeinem Feld Leute gebraucht werden, wird geholfen, vor allem während der Erntezeit.
 
 [[Meteorforscher]]
 [[Farmer]]

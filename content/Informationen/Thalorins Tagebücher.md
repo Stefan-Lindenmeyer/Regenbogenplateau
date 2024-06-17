@@ -1,4 +1,4 @@
-Auszüge aus Thalorins Tagebüchern
+Auszüge aus Thalorins Tagebüchern, gefunden unter seinem Bett im Boden versteckt.
 
 39. Reburt Jahr 7
 Anfangs war ich ja noch mit an Bord bei der ganzen Sache hier, aber mit der Zeit hab ich meine Zweifel, ob das wirklich eine gute Idee war. Naja im Moment sieht zumindest alles noch gut aus und wir können alle unseren Spaß haben.
@@ -38,6 +38,10 @@ Ich wusste es, war mir sicher. Die anderen werden sehen, wenn es zu spät ist.
 
 1111.  30
 Geräusche, Klink, klink klink bald ja tssss sicher weit
+
+
+Weiterführung der Tagebücher.
+Gefunden im [[Obsidian Spider Nest]].
 
 Tag 1
 Heute habe ich den Durchbruch geschafft. Das lange Rackern hat sich endlich ausgezahlt, ich habe mich vom kollektiv getrennt und bin meine Sorgen los. 

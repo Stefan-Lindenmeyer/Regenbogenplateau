@@ -1,6 +1,8 @@
 
 Aussehen zwischen Halbelf und Elf. Lange blonde Haare und grüne Augen.  Äußerst attraktiv. Sehr jung aussehend (20er) obwohl sie behauptet viel älter zu sein.
 ## Backstory
+Das erzählt sie der Party:
+
 Sie ist so etwas wie ein Elf.
 Sie kommt aus einer kleinen Gemeinde im Feywild.
 Sie ist mit vielen Geschwistern aufgewachsen.

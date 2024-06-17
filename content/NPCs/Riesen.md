@@ -1,4 +1,4 @@
-Die Riesen sind bezahlte Gastarbeiter in der [[Neue Siedlung]] welche von den [[Artificer]]n durch Maschinen, Medizin, Rezepte und Gegenstände und Essen für die man Feinarbeit braucht, bezahlt werden um Schweres Gerät zu bedienen, Steine zu transportieren und andere Arbeiten zu verrichten.
+Die Riesen sind bezahlte Gastarbeiter in der [[Neue Siedlung]] welche von den [[Artificer]]n durch Maschinen, Medizin, Rezepte Essen und Gegenstände für die man Feinarbeit braucht, bezahlt werden um Schweres Gerät zu bedienen, Steine zu transportieren und andere Arbeiten zu verrichten.
 
 Sie sind primär Arbeiter und keine Kämpfer und helfen deswegen nicht die Fey zu bekämpfen. Außerdem fürchten sie die Fey.
 

@@ -1,6 +1,6 @@
 ## Gegner
 3 [[Obsidian Spider]]
-## Belohnungen
+## Gegenstände
 3 Kristalleier der Obsidian Spider
 Diamantring Wert 200gp
 Bag of Holding

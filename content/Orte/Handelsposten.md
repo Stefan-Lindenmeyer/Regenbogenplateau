@@ -1,5 +1,6 @@
 Haus am Eingang des Plateaus. Wird zum Handeln und als Gasthaus für Außenseiter benutzt wenn die Artificer doch einmal etwas von ihnen brauchen oder sich Abenteurer hierher verirren.
 
+**Besteht aus:**
 Lagerhaus
 	Lebensmittel
 	Feste Güter
@@ -9,9 +10,9 @@ Shop
 Empfang
 Mauer (Ruine, erneuert)
 Gastzimmer
-Bad? Wasserzufuhr?
+Bad
 Miniwerkstatt
-Park?
+Park
 
 | Rohstoff | Produkt |
 | ---- | ---- |

@@ -1,3 +1,5 @@
+Brief der die Kampagne angefangen hat von Nael an Peter.
+
 Lieber Peter,
 
 ich möchte euch meinen Dank für eure wertvolle Arbeit im Waisenhaus und die Erfüllung vergangener Missionen ausdrücken. Ihr leistest einen großen Dienst an den Kindern, die eure Fürsorge und Liebe brauchen. Ich schätze eure Fähigkeiten, Diskretheit, und hoffe unser Arrangement trägt in der Zukunft für uns beide und das Königreich Früchte.
@@ -39,7 +41,7 @@ Veil Erolfg,
 Neal Lrdaian
 
 
-## Scrambled
+## More Scrambled
 ebieLr etPer,
 
 chi möhtec echu meinne knDa für ruee wovlerlet bAitre im ansWiasehu und edi frEüunlgl aeverernngg sioeisMnn ausrdüeckn. rIh teislest eeinn rogßne tniDse na edn iKnrned, eid reue Fügserro dun eebiL uerbncah. hIc cshätez reeu Fäinetikheg, seDkheiitrt, nud hffeo srune reAganetmrn rtätg ni dre kuufZnt für nsu eedib ndu sad Köhgercini Frühetc.
