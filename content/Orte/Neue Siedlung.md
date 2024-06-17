@@ -6,7 +6,7 @@ Das Dorf der [[Artificer]] befindet sich im Norden des Plateaus auf erhöhten Te
 ![[Dorf.jpg]]
 
 # Architektur
-Die Häuser wurden aus einem weißen Gestein gebaut welches in dem Steinbruch über dem Dorf gefunden werden kann. Die Architektur ist recht simpel. Rechteckige Grundrisse, mittelgroße Fenster, meist 2 Stockwerke und ein generell flaches Schrägdach aus Ziegeln. Die Wände sind kaum verputzt oder gestrichen, der _ hat eine leichte Regenbogenfarbe da er aus dem Schlamm des Sees gewonnen wurde.
+Die Häuser wurden aus einem weißen Gestein gebaut welches in dem Steinbruch über dem Dorf gefunden werden kann. Die Architektur ist recht simpel. Rechteckige Grundrisse, mittelgroße Fenster, meist 2 Stockwerke und ein generell flaches Schrägdach aus Ziegeln. Die Wände sind kaum verputzt oder gestrichen, der Mörtel hat eine leichte Regenbogenfarbe da er aus dem Schlamm des Sees gewonnen wurde.
 
 # Infrastruktur
 Durch das Dorf führen Lorengleise welche mit Aufzügen von der Kohlemine auf der untersten Terrasse bis zur Werkstatt auf der obersten Mine transportiert werden kann. Die Aufzüge werden durch Wasserräder betrieben welche an den Fluss gebaut sind, der das Dorf durchzieht.
