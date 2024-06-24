@@ -12,7 +12,7 @@ Hier unten finden sie auch verschiedene vergammelte Früchte und einige Raupen w
 
 
 #### Shrike
-![[Shrike_Ship.png]]
+![[Shrike_Ship.jpg]]
 Hier ist der Gravitationsfeldgenerator welcher durch den Einfluss der [[Regenbogengrütze]] dauerhaft angeschaltet ist. Dieser ist auch für ein leichtes protektives Feld um die Schiffshülle herum verantwortlich, welche es vor Witterung besser als die anderen Schiffe geschützt hat. Mit etwas Arbeit könnte man dieses Schiff renovieren. Die Metallhülle ist noch immer stabil, wenn auch ein wenig angerostet und an Stellen mit Algen und Muscheln überdeckt.
 
 Der Gravitationsgenerator ist ein Spelljammer Helm.

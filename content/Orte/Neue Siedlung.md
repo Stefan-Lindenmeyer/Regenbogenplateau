@@ -1,7 +1,7 @@
 
 Das Dorf der [[Artificer]] befindet sich im Norden des Plateaus auf erhöhten Terrassen welche früher oberhalb des Sees waren und deswegen anfangs nicht so versumpft waren. Es war demnach möglich dort stabile Häuser und Keller zu bauen.
 
-[[Karte_iso.png]]
+[[Karte_iso.jpg]]
 
 ![[Dorf.jpg]]
 
