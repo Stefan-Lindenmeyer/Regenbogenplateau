@@ -1,4 +1,4 @@
-Brief der die Kampagne angefangen hat von Nael an Peter.
+Brief der die Kampagne angefangen hat von Nael (Sponsor des Waisenhauses und "Prinz" des Hauses der Elfen) an Peter.
 
 Lieber Peter,
 

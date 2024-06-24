@@ -1,4 +1,3 @@
-Hausregeln
 
 ## Leveling
 
@@ -22,7 +21,7 @@ Alle Spieler bekommen in den meisten Fällen gleichzeitig, gleich viele XP, auch
 - Healing Word and Misty Step as bonus actions (no leveled spell restrictions)
 - Bonus Action Healing potions: use as bonus action = roll dice, use as action = full heal
 - 1 Gold = 100€
-- A downed creature gains on level of exhaustion
+- A downed creature gains one level of exhaustion
 
 ## Charakterbau
 
@@ -33,11 +32,9 @@ Alle Spieler bekommen in den meisten Fällen gleichzeitig, gleich viele XP, auch
   
 
 ## Experimental / Unsure
+Regeln die gelten aber noch verändert werden können
 
-- Rations?
-- roll boni as “reaction” (bardic inspiration, guidance)
-- Inspiration Trigger (session 0)
-
+- reactive bonus rolls (bardic inspiration, guidance)
 - [5e - Crafting | GM Binder](https://www.gmbinder.com/share/-LmaScNJZakjqNPScSO4)
 	- Kein Enchanting
 	- Zeug erstmal nicht verkaufbar bis bekannt ist wieviel im Gameplay gecraftet werden kann
@@ -62,3 +59,6 @@ Alle Spieler bekommen in den meisten Fällen gleichzeitig, gleich viele XP, auch
 - Healing a creature when it is downed automatically succeeds one death save. If the total healing done to this creature while downed exceeds the creature hp max, it is instantly stabilized and regains 1 hp
 
 	Alternatively: Healing a downed creature stabilizes it and it regains consciousness, but does not restore any hp.
+
+- Inspiration Trigger (session 0)
+- Rations?

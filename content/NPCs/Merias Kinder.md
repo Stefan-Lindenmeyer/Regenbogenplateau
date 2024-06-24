@@ -1,5 +1,5 @@
 
-Kinder die von der [[Meria]] und den [[Artificer]]n gezeugt wurden.
+Kinder die von [[Meria]] und den [[Artificer]]n gezeugt wurden.
 
 Wohnen zusammen mit Meria in [[Meria Baumhaus]] und werden von Meria aufgezogen.
 Wenn sie ihren 15. Geburtstag erreichen werden sie an einen der Artificer verheiratet und verlassen den Wald.

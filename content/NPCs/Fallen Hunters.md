@@ -1,5 +1,5 @@
 Sind mit einem Halsband gebunden an den [[Hunter]]
-Humanoide Kreaturen welche physich stark verändert aussehen.
+Humanoide Kreaturen welche physisch stark verändert aussehen.
 Alle von ihnen haben ein Halsband mit einer Kette welche sich nach ca 30 cm "auflöst".
 
 ***Bisher 3 bekannt:***
@@ -7,5 +7,5 @@ Alle von ihnen haben ein Halsband mit einer Kette welche sich nach ca 30 cm "auf
 
 **Blade:** Hat 5 Arme mit je einem Schwert. Ist 2 Meter groß und scheint nicht zu schlau zu sein. Teilweise ist das Fleisch von den Knochen gerissen und macht diese sichtbar.
 
-**Tome:** Ist in einen schwarzen Schleier gehüllt aus dem 2 blau leuchtende Augen hinausblicken. Wirkt hauptsächlich Zauber wie Eldritch Blast.
+**Tome:** Ist in einen schwarzen rauchartigen Schleier gehüllt aus dem 2 blau leuchtende Augen hinausblicken. Wirkt hauptsächlich Zauber wie Eldritch Blast.
 

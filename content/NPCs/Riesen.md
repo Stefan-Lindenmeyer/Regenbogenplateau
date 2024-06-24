@@ -1,9 +1,9 @@
 Die Riesen sind bezahlte Gastarbeiter in der [[Neue Siedlung]] welche von den [[Artificer]]n durch Maschinen, Medizin, Rezepte Essen und Gegenstände für die man Feinarbeit braucht, bezahlt werden um Schweres Gerät zu bedienen, Steine zu transportieren und andere Arbeiten zu verrichten.
 
-Sie sind primär Arbeiter und keine Kämpfer und helfen deswegen nicht die Fey zu bekämpfen. Außerdem fürchten sie die Fey.
+Sie sind primär Arbeiter und keine Kämpfer und helfen deswegen nicht die Fey oder Zyrann Thronns Gefolge zu bekämpfen, sie helfen jedoch in der Defensive wenn sie können. Außerdem fürchten sie die Fey.
 
 ### Mitglieder
-Es sind dauerhaft 4 Riesen auf dem Plateau die sich oft auswechseln, der Rest von ihnen lebt weiter oben tiefer in den Bergen bei dem Rest ihres Volkes.
+Es sind dauerhaft 4 Riesen auf dem Plateau , der Rest von ihnen lebt weiter oben tiefer in den Bergen bei dem Rest ihres Volkes.
 #### Gnarl
 Poser, überheblich
 #### Bam

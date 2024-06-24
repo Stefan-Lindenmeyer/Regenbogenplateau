@@ -1,19 +1,19 @@
 {
 	"nodes":[
 		{"id":"76b4c270d8c76172","type":"text","text":"Source: https://www.gmbinder.com/share/-LmaScNJZakjqNPScSO4","x":-600,"y":-380,"width":360,"height":100},
-		{"id":"428743ed84849428","type":"text","text":"Learn the innovation difficulty of the recipe and number of materials needed for the recipe.","x":300,"y":-213,"width":260,"height":133},
-		{"id":"f1b6186cae3b7c4d","type":"text","text":"Learn the recipe, and this counts as the first successful crafting roll toward crafting the product of that recipe.\nThe crafting time still has to be invested seperately.","x":300,"y":-480,"width":250,"height":200},
 		{"id":"09dd7b66f103549f","type":"text","text":"All materials put toward the check are lost.","x":300,"y":60,"width":250,"height":60},
 		{"id":"d27bba970f2a6e1c","type":"text","text":"Learn the materials needed for the recipe (this does not require any materials to be expended)","x":300,"y":205,"width":250,"height":131},
-		{"id":"f501943b8973e1df","type":"text","text":"","x":-70,"y":-173,"width":50,"height":53},
 		{"id":"641544a7973b7dfd","type":"text","text":"","x":-70,"y":180,"width":50,"height":50},
-		{"id":"176281a7ef16d3d3","type":"text","text":"","x":-140,"y":685,"width":50,"height":50},
-		{"id":"614de9f966a28bfd","type":"text","text":"Do Checks\nRemember previously succeded checks","x":120,"y":658,"width":250,"height":95},
 		{"id":"a168ff3b7242cb7e","type":"text","text":"## Recipe Invention\n**Recipe Innovation Roll** = \nd20 + crafting Skill + Wis or Int modifier.\n\nTakes one hour.\nOnce per long rest per recipe.\nExpends selected materials\nDoes not need to be all materials, just one of each.","x":-680,"y":-89,"width":395,"height":294},
-		{"id":"0b5f60e4bca7471a","type":"text","text":"Item is crafted","x":755,"y":685,"width":250,"height":60},
-		{"id":"a80d270b56d2f644","type":"text","text":"Loss of the time and materials spent","x":755,"y":860,"width":250,"height":60},
-		{"id":"99be02adf5227700","type":"text","text":"Item is crafted instantly and may be higher quality\n+Potential innovation check for better item (healing pot -> greater healing pot)","x":720,"y":420,"width":250,"height":200},
-		{"id":"7be1aeed7db88f9c","type":"text","text":"## Crafting\n\n**Crafting Roll Result** = \nd6 + Proficiency Bonus + Crafting Skill Level\n\nProficiency with tool -> Add proficiency to crafting check\n\nMust have materials and recipe.\nNo recipe -> disadvantage\nNo tools/improvised tools -> stacking disadvantage\n\n","x":-680,"y":535,"width":475,"height":350}
+		{"id":"614de9f966a28bfd","type":"text","text":"Do Checks\nRemember previously succeded checks","x":120,"y":538,"width":250,"height":95},
+		{"id":"99be02adf5227700","type":"text","text":"Item is crafted instantly and may be higher quality\n+Potential innovation check for better item (healing pot -> greater healing pot)","x":720,"y":300,"width":250,"height":200},
+		{"id":"0b5f60e4bca7471a","type":"text","text":"Item is crafted","x":755,"y":565,"width":250,"height":60},
+		{"id":"a80d270b56d2f644","type":"text","text":"Loss of the time and materials spent","x":755,"y":740,"width":250,"height":60},
+		{"id":"7be1aeed7db88f9c","type":"text","text":"## Crafting\n\n**Crafting Roll Result** = \nd6 + Proficiency Bonus + Crafting Skill Level\n\nProficiency with tool -> Add proficiency to crafting check\n\nMust have materials and recipe.\nNo recipe -> disadvantage\nNo tools/improvised tools -> stacking disadvantage\n\n","x":-680,"y":415,"width":475,"height":350},
+		{"id":"176281a7ef16d3d3","type":"text","text":"","x":-140,"y":565,"width":50,"height":50},
+		{"id":"428743ed84849428","type":"text","text":"Learn the innovation difficulty of the recipe and number of materials needed for the recipe.","x":300,"y":-163,"width":260,"height":133},
+		{"id":"f501943b8973e1df","type":"text","text":"","x":-70,"y":-123,"width":50,"height":53},
+		{"id":"f1b6186cae3b7c4d","type":"text","text":"Learn the recipe, and this counts as the first successful crafting roll toward crafting the product of that recipe.\nThe crafting time still has to be invested seperately.","x":300,"y":-400,"width":250,"height":200}
 	],
 	"edges":[
 		{"id":"99f048d25f1055cf","fromNode":"a168ff3b7242cb7e","fromSide":"right","toNode":"f501943b8973e1df","toSide":"left","label":"Correct materials"},
