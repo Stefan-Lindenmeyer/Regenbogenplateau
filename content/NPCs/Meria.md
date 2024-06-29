@@ -1,4 +1,4 @@
-Aussehen zwischen Halbelf und Elf. Lange blonde Haare und grüne Augen.  Äußerst attraktiv. Sehr jung aussehend (20er) obwohl sie behauptet viel älter zu sein.
+Aussehen zwischen Halbelf und Elf. Lange blonde Haare und grüne Augen. Äußerst attraktiv. Sehr jung aussehend (20er) obwohl sie behauptet viel älter zu sein.
 ## Backstory
 Das erzählt sie der Party:
 
