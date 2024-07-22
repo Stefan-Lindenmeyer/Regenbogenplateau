@@ -1,6 +1,18 @@
+### Transformiertes Aussehen
 Aussehen zwischen Halbelf und Elf. Lange blonde Haare und grüne Augen. Äußerst attraktiv. Sehr jung aussehend (20er) obwohl sie behauptet viel älter zu sein.
-## Backstory
-Das erzählt sie der Party:
+### Wahres Aussehen
+Grüne Haut welche mit öliger Regenbogenflüssigkeit überzogen ist. Fettiges helles Haar.
+
+## Geschichte mit Dorfbewohnern
+Sie hat die Männer getroffen als sie am Plateau ankamen und vorgespielt ihnen zu helfen.
+Nachdem sie jedoch in einem Kampf mit den Blauen stark verwundet wurde kam ihre wahre Natur zum Vorschein.
+Sie ist eine Hag.
+Sie war schwanger mit einem der Kinder der Artificer, und wollte dieses in eine Hag verwandeln und die Männer leiden lassen bis sie sterben aufgrunddessen was sie ihr angetan haben. (Sie referenziert hierbei die Korruption und Sterben ihrer Schwestern durch die Regenbogenfüssigkeit)
+Hiernach nahmen die Männer Kontrolle über sie benutzten sie um eine Barriere gegen die Blauen aufzusetzen und hatten mehrere Kinder mit ihr, welche Meria aufzog und die Männer später heirateten.
+
+
+## Fake Backstory?
+Das erzählt sie der Party als sie Sie das erste Mal treffen:
 
 Sie ist so etwas wie ein Elf.
 Sie kommt aus einer kleinen Gemeinde im Feywild.
