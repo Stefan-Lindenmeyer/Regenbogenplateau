@@ -21,7 +21,9 @@ There are additional optional techniques that can be applied to add modifiers to
 
 ## Increasing Blacksmithing Skill
 
-Blacksmithing skill <= 1 + (Strength + [Intelligence or Wisdom]) modifier divided by two (rounded down). 
+You start with Blacksmithing Skill 0.
+Blacksmithing skill cannot be higher than 1 + (Strength + [Intelligence or Wisdom]) modifier divided by two (rounded down). 
+
 
 You can get Blacksmithing Skill 1 by...
 

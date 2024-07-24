@@ -1,5 +1,7 @@
 Wiki Regenbogenplateau
 
+## [[Changelog]]
+
 [[Artificer]]
 
 [[Frauen]]
