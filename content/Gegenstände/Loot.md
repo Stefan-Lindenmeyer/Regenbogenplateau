@@ -1,3 +1,5 @@
+
+Jump to [[#Bottom]]
 # Session 1
 **Mahlbach**
 - Perlstein, Roter Sandstein, Kaleidoskopkristall, das innere sieht von jeder Seite anders aus
@@ -73,3 +75,10 @@
 - Blauer Körper
 - 3 Mini Kraken Körper
 - 1 Kraken lebendig
+
+# Session 19
+**Wald**
+- 3 common poison
+- 3 uncommon reactive
+
+# Bottom

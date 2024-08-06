@@ -1,4 +1,12 @@
 
+# XX.0X.2024
+- Updated [[Loot]] Session 19
+- Updated [[_Timeline]] Session 19
+- Added "Jump to Bottom" to Loot and Timeline
+- Added [[Diary Session 18]]
+- Added [[Insight (Dice Game)]]
+- Added [[Taming]] rules
+
 # 24.07.2024
 
 - Added Changelog

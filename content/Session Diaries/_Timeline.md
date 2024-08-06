@@ -2,6 +2,7 @@
 Für eine Liste welcher Loot an welchem Tag gefunden wurde, siehe [[Loot]]
 Für mehr Details zu jeder Session, siehe die respektiven Einträge im Diary Ordner
 
+Jump to [[#Bottom]]
 # Tag -1
 ### Session 1
 Untersuchen von Überlagerung bei Mühle in Mahlbach
@@ -152,5 +153,14 @@ Althir Konfrontation
 Kampf mit Trident Blauem und Kraken in Grotte
 Blauen zu Corvus bringen
 
+### Session 19
+(Tommy/Miruna abwesend)
+Trankzutaten im Wald sammeln
+Blauen zu Corvus bringen
+Trank brauen
+Würfelspiel spielen
+
 # Tag 9
 Neuer Vertrag aushandeln
+
+# Bottom
