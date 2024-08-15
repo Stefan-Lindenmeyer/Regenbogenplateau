@@ -81,4 +81,15 @@ Jump to [[#Bottom]]
 - 3 common poison
 - 3 uncommon reactive
 
+# Session 20
+**Corvus**
+- 3 Dosen Regenbogenblut
+- Sending Implantat Miruna
+**Spelljammer**
+- -Spelljammer Helm
+**Lager**
+- Brennbares Öl
+- Brennbarer Alkohol
+
+# Session 21
 # Bottom

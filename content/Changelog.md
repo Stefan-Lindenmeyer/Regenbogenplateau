@@ -1,10 +1,16 @@
+# 14.08.2024
+- Updated [[Intuition]] to include removal of injections
+- Added [[Kaiser Klipp]]
+- Updated [[Loot]] Session 20
+- Updated [[Crafting]] with Errata
+- Added [[Diary Session 19]]
+- Added [[A Courtly Discussion]]
 
-# XX.0X.2024
+# 05.08.2024
 - Updated [[Loot]] Session 19
 - Updated [[_Timeline]] Session 19
 - Added "Jump to Bottom" to Loot and Timeline
 - Added [[Diary Session 18]]
-- Added [[Insight (Dice Game)]]
 - Added [[Taming]] rules
 
 # 24.07.2024
