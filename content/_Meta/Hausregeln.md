@@ -25,7 +25,7 @@ Alle Spieler bekommen in den meisten Fällen gleichzeitig, gleich viele XP, auch
 
 ## Charakterbau
 
-- Keine Sorlocks
+- Keine Sorlocks (Coffeelocks)
 - Jeder bekommt einen gratis Feat auf Level 0 der mit der Backstory übereinstimmen sollte
 - Artificer Infusion spellwrought tattoo: For spells with a duration longer than instantaneous the tattoo glows while the spell is active and still counts as an active infusion. If the infusion ends, so does the spell effect.
 

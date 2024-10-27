@@ -161,6 +161,20 @@ Trank brauen
 Würfelspiel spielen
 
 # Tag 9
-Neuer Vertrag aushandeln
+Neuer Vertrag tritt in Kraft
 
+Session 21
+Miruna Traum
+Peter und Iloril bauen Aqauarium
+Iloril schmiedet Rüstung
+Miruna berichtet von Traum und Party schmiedet Pläne
+
+### Session 22
+(Tommy/Miruna abwesend)
+Lirion und Aricor kommen vorbei und wollen Kraken und Bob sehen
+Lederhandschuh bei Falion abholen
+Kraken Taming erfolgreich
+Peter entschuldigt sich bei Silvaren
+Iloril braut Gift
+Wirtshaus Luise Rematch
 # Bottom

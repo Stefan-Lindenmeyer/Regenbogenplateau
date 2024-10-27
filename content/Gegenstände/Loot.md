@@ -1,3 +1,5 @@
+Alle Items oder Besitztümer welche die Party erhält, findet, oder craftet sind hier aufgelistet. (Außer gecraftete Tränke aus irgendeinem Grund)
+
 
 Jump to [[#Bottom]]
 # Session 1
@@ -40,7 +42,7 @@ Jump to [[#Bottom]]
 
 # Session 8
 **Wald**
-- X Trankzutaten (Foraging)
+- ? Trankzutaten (Foraging)
 **Corvus**
 - 3 Dosen Regenbogenblut
 
@@ -86,10 +88,14 @@ Jump to [[#Bottom]]
 - 3 Dosen Regenbogenblut
 - Sending Implantat Miruna
 **Spelljammer**
-- -Spelljammer Helm
+- Spelljammer Helm "abgegeben"
 **Lager**
 - Brennbares Öl
 - Brennbarer Alkohol
 
-# Session 21
+# Session 22
+**Dorf**
+- Lederhandschuh
+- Aquarium
+- Tamed Kraken
 # Bottom
