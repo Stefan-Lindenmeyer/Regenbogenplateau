@@ -98,4 +98,18 @@ Jump to [[#Bottom]]
 - Lederhandschuh
 - Aquarium
 - Tamed Kraken
+
+## Session 23
+**Schmiede**
+- ~~Scale~~ Chain mail (geschmiedet von Iloril)
+
+## Session 24
+**Grotte**
+- 2 Kraken lebendig
+
+## Session 25
+**Meteor**
+- Harmon?
+**Schmiede**
+- Verbessertes Schild (geschmiedet von Iloril)
 # Bottom

@@ -1,3 +1,11 @@
+# -
+- Added [[Diary Session 23]]
+- Added [[Diary Session 24]]
+- Added [[Diary Session 25]]
+- Updated [[Loot]] Session 23, 24, 25
+- Updated [[_Timeline]] Session 23, 24, 25
+- Added rules for Wild shape in [[Hausregeln]]
+
 # 27.10.2024
 - Added [[Diary Session 20]]
 - Added [[Diary Session 21]]

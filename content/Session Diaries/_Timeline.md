@@ -33,7 +33,7 @@ Party untersucht Überlagerung mit schwarzem Nebel
 Party holt Drohne und geht zu Varian um zu schlafen
 
 # Tag 3
-### Session 6
+### Session 6 cont.
 Party geht ins Dorf.
 Trifft Corvus.
 Trifft Malakai.
@@ -57,7 +57,7 @@ Peter geht ins Wirtshaus, trifft Eldarian, Lita und Iloya.
 Peter und Iloril schlafen, Miruna nicht.
 
 # Tag 4
-### Session 8
+### Session 8 cont.
 Iloril schmiedet.
 Peter geht Zutaten im Wald sammeln.
 Miruna trifft Tira und geht auf ein "Abenteuer" mit ihr.
@@ -99,7 +99,7 @@ Lange Rast
 
 # Tag 6
 Quest Schutzzauber
-### Session 12
+### Session 12 cont.
 Iloril schmiedet Schild
 Miruna bleibt zurück um Althirs/Elitres Haus zu untersuchen
 Peter und Iloril gehen voraus und treffen Minion Drone
@@ -130,7 +130,7 @@ Miruna Traum
 
 
 # Tag 7
-### Session 16
+### Session 16 cont.
 Corvus über Meria befragen
 Tira auf Weg treffen
 Meria Gespräch
@@ -147,7 +147,7 @@ Streich an Iloril
 
 # Tag 8
 
-### Session 18
+### Session 18 cont.
 Iloril schmiedet
 Althir Konfrontation
 Kampf mit Trident Blauem und Kraken in Grotte
@@ -163,13 +163,14 @@ Würfelspiel spielen
 # Tag 9
 Neuer Vertrag tritt in Kraft
 
-Session 21
+### Session 21
 Miruna Traum
 Peter und Iloril bauen Aqauarium
 Iloril schmiedet Rüstung
 Miruna berichtet von Traum und Party schmiedet Pläne
 
 ### Session 22
+[5700 XP]
 (Tommy/Miruna abwesend)
 Lirion und Aricor kommen vorbei und wollen Kraken und Bob sehen
 Lederhandschuh bei Falion abholen
@@ -177,4 +178,46 @@ Kraken Taming erfolgreich
 Peter entschuldigt sich bei Silvaren
 Iloril braut Gift
 Wirtshaus Luise Rematch
+
+### Session 23
+[5900 XP]
+Gut Nacht
+
+# Tag 10
+### Session 23 cont.
+Peter bringt Miruna zu Corvus und kümmert sich um sie
+Peter meditiert mit Pristina
+Peter bringt Lirion Obsidianspinneneier und diskutiert Spinnen zähmen
+Peter versucht Thandorin zu verkuppeln
+Peter hat Panikattacke
+Iloril geht zu Meteor
+Iloril spricht mit Elaris über Kristalle und Warforged
+Iloril spricht mit Corin
+Iloril arbeitet weiter an Schild und schmiedet ~~Scale~~ Chain Mail
+
+### Session 24
+[6000 XP]
+Thandorin und Riesen mit Steinblöcken anweisen
+Nessy treffen
+2 Elektrokraken sammeln
+Mit Nessy Gespräch
+Nessy knuddelt Klipp
+Lange Rast
+
+# Tag 11
+
+### Session 24 cont.
+Galinor Nessy vorstellen
+Zu Meteor gehen
+Kampf mit Warforged & Scharfscshütze & Armadilloochsen
+### Session 25
+[6890 XP | Level 5]
+Konversation mit Harmon über seine Herkunft
+Rush Sniper
+Galinor Situation berichten
+Peter & Nessy tragen Paket in Dorf zu Corvus
+Iloril begleitet Artificer ins Dorf
+Iloril & Harmon schmieden Schild
+Peter & Nessy geben Kraken bei Lirion ab
+Lange Rast.
 # Bottom
