@@ -1,29 +1,35 @@
-Die Alte Siedlung wurde durch den schwarzen Nebel zu einem Labyrinthartigen Gebiet welches den Geisteszustand von Kreaturen darin beeinflusst.
+Die Alte Siedlung wurde durch den schwarzen Nebel zu einem Labyrinthartigen Gebiet welches den Geisteszustand von Kreaturen darin beeinflusst und viele physische Gefahren birgt.
 
-Die Spieler müssen 5 Rewards bekommen um zu ihrem Ziel, dem Baum in der Mitte, zu kommen.
-
-Pro Runde:
-Jeder Spieler rollt einmal auf dem Impediment und einmal auf dem Insanity Table.
-Dann rollt die Party auf dem Encounter Table. Encounter die schon drankamen gehen zum nächsten der noch nicht drankam nach unten.
-Spieler können entscheiden öfters auf dem Impediment und Insanity Table zu rollen wenn sie möchten.
-Spieler können den gleichen Effekt nicht zweimal haben.
+Die Spieler müssen 5 Rewards bekommen oder 10 Encounter schaffen um zu ihrem Ziel, dem Baum in der Mitte, zu kommen.
+Wenn sie 5 oder mehr Rewards haben und entscheiden zum Baum zu gehen können sie danach keine Rewards mehr bekommen.
 
 
-Spieler starten mit einer Chance von 40% einen Reward aussuchen zu dürfen, nachdem sie je ein Impediment, eine Insanity und einen Encounter hinter sich haben.
-Wenn sie entscheiden öfters auf dem Impediment und Insanity Table zu rolllen erhöht sich diese Chance wie folgt
-Beim ersten extra roll auf jedem table erhöht sich die Chance um 10%. Beim zweiten um 5%, beim dritten 2,5% und danach nicht mehr.
+##### Pro Runde:
+1. Der DM rollt auf dem Encounter Table für das Abschnittssetting.
+2. Jeder PC rollt mindestens einmal auf dem [[#Impediment]] und dem [[#Insanity]] Table.
+3. Der Encounter passiert.
+4. Der DM rollt wie viele Rewards die Spieler bekommen
+5. Die Spieler können [[#Reward]]s aussuchen.
+6. Die Spieler können versuchen eine Rast zu machen. [[#Resting guidelines]]
 
-Nach einem Encounter können die Spieler einen oder mehrere Rewards aussuchen (je nach Chance)
+**Anmerkungen**
+- Encounter die schon drankamen gehen zum nächsten der noch nicht drankam nach unten.
+- Wenn zweimal der gleiche Effekt gerollt wird, entscheidet sich je nach Effekt ob er ersetzt wird, stackt oder ignoriert wird.
+- Auf den Tables rollen erhöht die Chance einen Reward zu bekommen. [[#Reward Percentages]]
+- Spieler können im Gebiet immer ihre Spells austauschen. Dauert eine Aktion.
+- Seid vorsichtig da draußen, wer weiß was der DM geplant hat.
 
-Die Chance wird nach jedem Roll für einen Reward auf 40% zurückgesetzt.
-Die Spieler sehen nur die Namen der Rewards, nicht die Effekte.
-(Roll einen d10)
+### Reward Percentages
+***NEW and IMPROVED!*** 
 
-Nach einem Encounter & Reward können die Spieler versuchen eine Rast zu machen.
-
-Spieler können im Gebiet immer ihre Spells austauschen. Dauert eine Aktion.
-
-Seid vorsichtig da draußen, wer weiß ob der DM noch ein Ass im Ärmel hat.
+| Name                                   | %   | %Full |
+| -------------------------------------- | --- | ----- |
+| Base (Party, 1 Imp + 1 Ins per Person) | 40  | 40    |
+| Encounter (Party)                      | 10  | 50    |
+| Round 1 (per Person)                   | 5   | 90    |
+| Round 2 (per Person)                   | 10  | 170   |
+| Round 3 (per Person)                   | 15  | 290   |
+| Round 4+                               | 1   | 298   |
 
 ## Impediment
 Gibt negative modifier auf Werte oder hindert einen in irgendeiner Form.
@@ -31,7 +37,7 @@ Gibt negative modifier auf Werte oder hindert einen in irgendeiner Form.
 | Roll | Event                    |
 | ---- | ------------------------ |
 | 1    | ???                      |
-| 2    | Sudden Lull in the Fog   |
+| 2    | Dark Radiance            |
 | 3    | Rotting Food             |
 | 4    | Mysterious Liquid Puddle |
 | 5    | Root Trip                |
@@ -60,13 +66,13 @@ Beeinflusst die Psyche (Verwirrung, Orientierung, Erinnerung etc.) was oft nach 
 | 1      | Shuffling Sounds                                          |
 | 2      | Shared pain...                                            |
 | 3      | Familiar Voice                                            |
-| 4      | Magic Inhibition                                          |
+| 4      | Chaos Magic                                               |
 | 5      | Scared                                                    |
-| 6      | Introversion                                              |
+| 6      | Hyperfocus                                                |
 | 7      | Respec                                                    |
-| 8      | The silent treatment                                      |
+| 8      | Ken (k) u understand me?                                  |
 | 9      | Loneliness                                                |
-| 10     | Art Gallery                                               |
+| 10     | Emotional DAMAGE                                          |
 | 11     | Compulsive Counting                                       |
 | 12     | Too much energy                                           |
 | 13     | Love hurts                                                |
@@ -80,17 +86,15 @@ Beeinflusst die Psyche (Verwirrung, Orientierung, Erinnerung etc.) was oft nach 
 
 ## Reward
 
-| Roll | Event                               |
-| ---- | ----------------------------------- |
-| 1    | Shelter                             |
-| 2    | Small Chest                         |
-| 3    | The Magical Library                 |
-| 4    | Bottle Rack                         |
-| 5    | Blacksmiths Delivery                |
-| 6    | Old Alchemical Stash                |
-| 7    | Reflecting on Past Experience       |
-| 8    | Restoring Hope (among other things) |
-
+| Roll | Reward                                     |
+| ---- | ------------------------------------------ |
+| 1    | Shelter                                    |
+| 2    | Small Chest                                |
+| 3    | The Magical Library (or what's left of it) |
+| 4    | Bottle Rack                                |
+| 5    | Blacksmiths Delivery                       |
+| 6    | Old Alchemical Stash                       |
+| 7    | Reflecting on Past Experience              |
 
 
 ## Resting guidelines
@@ -109,3 +113,18 @@ Players can invest in their defenses (Actions must make sense to secure the area
 - Investing a character who does not benefit from the rest lowers it by 50%.
 - Investing the correct spell or item (if on hand/prepared) lowers it by 95%
 - Investing "something the DM did not think of" lowers it by "amount the DM will determine"%
+
+
+
+| Roll | Emotion                  |
+| ---- | ------------------------ |
+| 1    | Happy                    |
+| 2    | Sad/Depressed/Grieving   |
+| 3    | Angy                     |
+| 4    | Hungry                   |
+| 5    | Sulking                  |
+| 6    | Frightened               |
+| 7    | Ashamed/Guilty/Regretful |
+| 8    | Envious/Jealousy         |
+| 9    | Despaired                |
+| 10   | Doubtful                 |

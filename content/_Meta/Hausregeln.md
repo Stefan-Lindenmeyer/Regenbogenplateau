@@ -16,8 +16,9 @@ Alle Spieler bekommen in den meisten Fällen gleichzeitig, gleich viele XP, auch
 - OneDND Exhaustion (10 Levels, each level gives -1)
 - High ground and Flanking gives +2
 - You can switch out a number of prepared spells equal to your spellcasting modifier in a short rest
-- Better crits: full damage + dice 
-- Help action only with proficiency 
+- Better Crits (for players): full damage of dice + dice 
+- Effect Crits (for non-players): full damage on simple creatures, special effects on more interesting creatures
+- Help action only with proficiency
 - Healing Word and Misty Step as bonus actions (no leveled spell restrictions)
 - Bonus Action Healing potions: use as bonus action = roll dice, use as action = full heal
 - 1 Gold = 100€

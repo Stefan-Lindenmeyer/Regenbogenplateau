@@ -1,4 +1,7 @@
 # -
+- Added "Effect Crit" in [[Hausregeln]] 
+
+# 19.11.2024
 - Added [[Diary Session 23]]
 - Added [[Diary Session 24]]
 - Added [[Diary Session 25]]
@@ -14,6 +17,7 @@
 - Added missing augments in the [[Artificer]] table
 - Updated [[Loot]] Session 22 & Description
 - Updated [[_Timeline]] Session 21 & 22
+
 # 14.08.2024
 - Updated [[Intuition]] to include removal of injections
 - Added [[Kaiser Klipp]]
