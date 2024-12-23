@@ -1,10 +1,10 @@
 Die Alte Siedlung wurde durch den schwarzen Nebel zu einem Labyrinthartigen Gebiet welches den Geisteszustand von Kreaturen darin beeinflusst und viele physische Gefahren birgt.
 
-Die Spieler müssen 5 Rewards bekommen oder 10 Encounter schaffen um zu ihrem Ziel, dem Baum in der Mitte, zu kommen.
+Die Spieler müssen 5 Rewards bekommen oder 7 Encounter/Zyklen schaffen um zu ihrem Ziel, dem Baum in der Mitte, zu kommen.
 Wenn sie 5 oder mehr Rewards haben und entscheiden zum Baum zu gehen können sie danach keine Rewards mehr bekommen.
 
 
-##### Pro Runde:
+##### Pro Zyklus:
 1. Der DM rollt auf dem Encounter Table für das Abschnittssetting.
 2. Jeder PC rollt mindestens einmal auf dem [[#Impediment]] und dem [[#Insanity]] Table.
 3. Der Encounter passiert.
@@ -34,67 +34,68 @@ Wenn sie 5 oder mehr Rewards haben und entscheiden zum Baum zu gehen können sie
 ## Impediment
 Gibt negative modifier auf Werte oder hindert einen in irgendeiner Form.
 
-| Roll | Event                    |
-| ---- | ------------------------ |
-| 1    | ???                      |
-| 2    | Dark Radiance            |
-| 3    | Rotting Food             |
-| 4    | Mysterious Liquid Puddle |
-| 5    | Root Trip                |
-| 6    | Fog Hug                  |
-| 7    | Heavy Fog                |
-| 8    | Sinkhole                 |
-| 9    | Rust Swords              |
-| 10   | Weak armor               |
-| 11   | Weak hitter              |
-| 12   | Rotten storeroom         |
-| 13   | Lost Item                |
-| 14   | Muffled Moans            |
-| 15   | Dark Whispers            |
-| 16   | Spice Mix                |
-| 17   | Wet Adventure            |
-| 18   | Exhaustion               |
-| 19   | Demotivated              |
-| 20   | Heavy lifting            |
+| Roll | Event                    | Info                                              | Until       |
+| ---- | ------------------------ | ------------------------------------------------- | ----------- |
+| 1    | ???                      | ???                                               | ???         |
+| 2    | Dark Radiance            | Stealth checks disadvantage                       | Not glowing |
+| 3    | Rotting Food             | -food & -water                                    | Not rotten  |
+| 4    | Mysterious Liquid Puddle | -2 on Dex checks, saves & attack rolls            | Rest        |
+| 5    | Root Trip                | RAFO                                              | Healing     |
+| 6    | Fog Hug                  | Blinded                                           | Rest        |
+| 7    | Heavy Fog                | Con score reduced by 2                            | Rest        |
+| 8    | Sinkhole                 | 3d6 bludgeoning damage                            | Healing     |
+| 9    | Rusty Metal              | Ouch! RAFO                                        | ???         |
+| 10   | Weak armor               | -2 to AC                                          | Rest        |
+| 11   | Weak hitter              | No benefit from Str or Dex to attack rolls/damage | Rest        |
+| 12   | Rotten storeroom         | RAFO                                              | Not hungry  |
+| 13   | Lost Item                | -myyyy precious (3 DC17)                          | Find        |
+| 14   | Muffled Moans            | Wis saves & checks disadvantage                   | Rest        |
+| 15   | Dark Whispers            | Reroll Charisma (3d6)                             | Long Rest   |
+| 16   | Spice Mix                | RAFO                                              | Not thirsty |
+| 17   | Wet Adventure            | Int modifier reduced by 5                         | Warm & dry  |
+| 18   | Exhaustion               | 1 level of exhaustion                             | Rest        |
+| 19   | Demotivated              | While HP > 50%, no temp HP.                       | Long Rest   |
+| 20   | Heavy lifting            | Strength stat halved.                             | Rest        |
 
 
 ## Insanity
 Beeinflusst die Psyche (Verwirrung, Orientierung, Erinnerung etc.) was oft nach einem Save mehrfach zu verschiedenen Effekten führen kann oder direkt die Aktion und Reaktion auf die Umgebung verändert.
 
-| Roll   | Event                                                     |
-| ------ | --------------------------------------------------------- |
-| 1      | Shuffling Sounds                                          |
-| 2      | Shared pain...                                            |
-| 3      | Familiar Voice                                            |
-| 4      | Chaos Magic                                               |
-| 5      | Scared                                                    |
-| 6      | Hyperfocus                                                |
-| 7      | Respec                                                    |
-| 8      | Ken (k) u understand me?                                  |
-| 9      | Loneliness                                                |
-| 10     | Emotional DAMAGE                                          |
-| 11     | Compulsive Counting                                       |
-| 12     | Too much energy                                           |
-| 13     | Love hurts                                                |
-| 14     | First rule of koboldfightclub                             |
-| 15     | A game of Chance                                          |
-| 16<br> | Monkeys dowsing rod                                       |
-| 17     | Cursed Connection<br>                                     |
-| 18     | Did I ever tell you what the definition of _insanity_ is? |
-| 19     | Frustum culling                                           |
-| 20     | Could I be the one who's insane?                          |
+| Roll   | Event                                                     | Effect                                                                                                | Until |
+| ------ | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----- |
+| 1      | Shuffling Sounds                                          | Footsteps (1/turn) -> **DC13** Wis save -> frightened                                                 | Rest  |
+| 2      | Shared pain...                                            | See linked creature take damage -> **DC15** Cha save -> same psychic damage.                          | Rest  |
+| 3      | Familiar Voice                                            | **DC18** Wis save or follow voice. (3 chances)                                                        | -     |
+| 4      | Chaos Magic                                               | RAFO                                                                                                  | 3     |
+| 5      | Scared                                                    | 1/turn -> **DC13** Int save -> grapple closest                                                        | Safe  |
+| 6      | Hyperfocus                                                | 1 mental stat modifier = +10. <br>2 mental stat modifier = -3. <br>Person gains Imp/Ins -> Can change | Rest  |
+| 7      | Respec                                                    | Different class                                                                                       | Rest  |
+| 8      | Ken (k) u understand me?                                  | Mimic sounds/phrases heard in last 10 mins.                                                           | Rest  |
+| 9      | Loneliness                                                | Sound -> **DC12** Cha save -> walk toward it                                                          | Rest  |
+| 10     | ***Emotional DAMAGE***                                    | RAFO                                                                                                  | -     |
+| 11     | Compulsive Counting                                       | Disadv. on Investigation, Insight & Perception                                                        | Rest  |
+| 12     | Too much energy                                           | 1/turn -> **DC15** Con save -> Dash & move                                                            | Rest  |
+| 13     | Love hurts                                                | Healing -> **DC13** Int save -> healing = dmg                                                         | Rest  |
+| 14     | First rule of koboldfightclub                             | Attack -> **DC10** Wis save -> target yourself                                                        | Rest  |
+| 15     | A game of Chance                                          | Decision -> flip coin                                                                                 | Rest  |
+| 16<br> | Monkeys dowsing rod                                       | Follow -> 1 Impediment/person<br>Not Follow -> 1d4-1 Insanities for finder                            | -     |
+| 17     | Cursed Connection<br>                                     | Attack -> **DC14** Wis save -> no attack creature last harmed                                         | Rest  |
+| 18     | Did I ever tell you what the definition of _insanity_ is? | RAFO                                                                                                  | Rest  |
+| 19     | Frustum culling                                           | Turn -> **DC15** Int save -> forget behind you.                                                       | Rest  |
+| 20     | Could I be the one who's insane?                          | Party = stupid                                                                                        | Rest  |
 
+\*RAFO = ~~Read~~ Roll and find out
 ## Reward
 
-| Roll | Reward                                     |
-| ---- | ------------------------------------------ |
-| 1    | Shelter                                    |
-| 2    | Small Chest                                |
-| 3    | The Magical Library (or what's left of it) |
-| 4    | Bottle Rack                                |
-| 5    | Blacksmiths Delivery                       |
-| 6    | Old Alchemical Stash                       |
-| 7    | Reflecting on Past Experience              |
+| Roll | Reward                                     | Description                                                                                                             |
+| ---- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| 1    | Shelter                                    | You find a place that can be barricaded easily.                                                                         |
+| 2    | Small Chest                                |                                                                                                                         |
+| 3    | The Magical Library (or what's left of it) | You find 1d4+1 spell scrolls, 1 Remove Curse spell scroll, 1 Cure Wounds/3 spell scroll and 1 Uncommon Enchanting Tome. |
+| 4    | Bottle Rack                                |                                                                                                                         |
+| 5    | Blacksmiths Delivery                       |                                                                                                                         |
+| 6    | Old Alchemical Stash                       | You get 1d4 rare, 2d4 uncommon, 4d4 common alchemical ingredients                                                       |
+| 7    | Reflecting on Past Experience              |                                                                                                                         |
 
 
 ## Resting guidelines
@@ -125,6 +126,6 @@ Players can invest in their defenses (Actions must make sense to secure the area
 | 5    | Sulking                  |
 | 6    | Frightened               |
 | 7    | Ashamed/Guilty/Regretful |
-| 8    | Envious/Jealousy         |
+| 8    | Envious/Jealous          |
 | 9    | Despaired                |
 | 10   | Doubtful                 |

@@ -99,17 +99,25 @@ Jump to [[#Bottom]]
 - Aquarium
 - Tamed Kraken
 
-## Session 23
+# Session 23
 **Schmiede**
 - ~~Scale~~ Chain mail (geschmiedet von Iloril)
 
-## Session 24
+# Session 24
 **Grotte**
 - 2 Kraken lebendig
 
-## Session 25
+# Session 25
 **Meteor**
 - Harmon?
 **Schmiede**
 - Verbessertes Schild (geschmiedet von Iloril)
+
+# Session 26
+Shadowfell**
+- 6 Scrolls (Feather Fall, Warding Bond, Remove Curse, Cure Wounds/3, Catnap, *Daylight or Feather Fall?*) & Uncommon Enchanting Tome
+
+# Session 27
+**Shadowfell**
+- Alchemical ingredients: 10 common, 4? uncommon, 3? rare (no exotics)
 # Bottom

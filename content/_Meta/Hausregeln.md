@@ -31,6 +31,7 @@ Alle Spieler bekommen in den meisten Fällen gleichzeitig, gleich viele XP, auch
 - Jeder bekommt einen gratis Feat auf Level 0 der mit der Backstory übereinstimmen sollte
 - Artificer Infusion spellwrought tattoo: For spells with a duration longer than instantaneous the tattoo glows while the spell is active and still counts as an active infusion. If the infusion ends, so does the spell effect.
 - Wild Shape: Statt einem zweiten HP pool in Wild shape bekommen Druiden die Kreatur HP als Temporäre HP. Dafür verlieren sie ihre Wild Shape nicht wenn sie die temp HP verlieren. Moon Druids können mit ihrem Level 3 feature spell slots zu temp HP umwandeln anstatt normalen HP.
+- Druids Spell list: Haste statt Conjure Animals
   
 
 ## Experimental / Unsure

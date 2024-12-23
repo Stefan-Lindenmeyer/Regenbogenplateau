@@ -222,5 +222,16 @@ Peter & Nessy geben Kraken bei Lirion ab
 Lange Rast.
 
 ### Session 26
+[7290 XP]
+Frühstück
+Zu Eldrin gehen und Infos über Shadowfellüberlagerung einholen
+Zur Shadowfellüberlagerung gehen
+Encounter 1: Mindless Wanderer
+Encounter 2: Mindless Patrol
 
+### Session 27
+[7600 XP]
+Encounter 2: Mindless Patrol
+In Gärten Ilorils Mutter und verlorene Gegenstände suchen
+Encounter 3: Bloodsuckle
 # Bottom
