@@ -1,3 +1,6 @@
+# -
+- Added [[Diary Session 27]]
+
 # 23.12.2024
 - Added "Effect Crit" and "Druid Spell list" in [[Hausregeln]]
 - Added [[Diary Session 26]]

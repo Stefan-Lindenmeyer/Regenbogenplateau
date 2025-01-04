@@ -5,7 +5,7 @@ Er erzählt von den verschiedenen relevanten Orten im Dorf, welche damals schon 
 Er berichtet, dass sie nicht allzu viel Zeit hatten um das Gebiet weiter zu erforschen, auch wenn sie es gewollt hätten, da die Mindless an jeder Ecke vorzufinden waren und sie ihnen ausweichen mussten. Das Ziel welches er ihnen nahe legte befand sich in der Mitte des Dorfes auf einer Insel im Fluss. Es handelt sich um einen großen Baum, welcher den negativen Einfluss der Umgebung abstößt und somit ein sicherer Rastort sein sollte von dem aus man das restliche Gebiet besser erforschen kann.
 Die Party dankt und macht sich auf zu dem Gebiet. Auf dem Weg stellen sie fest, dass Thandorin 20/20 sexy ist und Nessy möchte ihn wirklich gerne kennen lernen.
 Dort angekommen denken sie nicht lange nach und wagen sich in die Überlagerung und den schwarzen Nebel. Dieser begrenzt ihre Sicht direkt und erschlägt ihre Gefühle. Die Umgebung wirkt als wäre sie nur noch in grau und grünstufen. Ab und zu kann man Geräusche und Schreie aus dem dichten Nebel vernehmen.
-Die Umgebung hat einen starken Einfluss auf die Psyche der Charaktere und mehrere Effekte beeinflussen ihre Aktionen (siehe [[#Runde 1]]). Nach kurzer Zeit begegnen sie einem weiblichen Mindless welche geradewegs auf sie zugelaufen kommt und währenddessen kaum verstehbare Laute von sich gibt. Man kann jedoch ein paar Worte heraushören wie "GIB", "teuer", "WICHTIG". 
+Die Umgebung hat einen starken Einfluss auf die Psyche der Charaktere und mehrere Effekte beeinflussen ihre Aktionen (siehe [[#Cycle 1]]). Nach kurzer Zeit begegnen sie einem weiblichen Mindless welche geradewegs auf sie zugelaufen kommt und währenddessen kaum verstehbare Laute von sich gibt. Man kann jedoch ein paar Worte heraushören wie "GIB", "teuer", "WICHTIG". 
 Die Party versucht zuerst ihr auszuweichen, jedoch ohne großen Erfolg. Peter beobachtet, wie sie mit den anderen interagiert und stellt fest, dass sie persönliche Gegenstände von ihnen haben möchte. Sie versucht Peters Rassel, Nessys Monsterbuch, Ilorils Rüstung oder irgendetwas in der Bag of Holding und Harmons ganzen Körper an sich zu nehmen.
 Die Party versucht zuerst sie loszuwerden, worauf sie jedoch unruhiger und lauter wird und noch viel stärker darauf besteht etwas zu erhalten.
 Nessy versucht vergeblich sie zuerst zu überzeugen, dass ihr eine Musikbox ""von ihrer Mutter"" wichtig ist, und danach präsentiert sie ein Feuerzeug ""von ihrem Vater"" welches die Kreatur überzeugt.
@@ -16,18 +16,17 @@ Die Mindless nimmt die Gegenstände nacheinander an, beruhigt sich währenddesse
 Zuletzt gibt Harmon ihr noch einen Segen mit auf den Weg und sie zieht sich glücklich und erfüllt in den Nebel zurück.
 Danach findet die Party ein paar Steintableaus auf welchen Anleitungen für Zauber graviert sind.
 Sie präparieren hierauf eine Ruine für eine kurze Rast welche sie erfolgreich abschließen und tiefer in den Nebel hinein ziehen. Sie merken direkt, dass es ab jetzt schwerer wird einen Weg ins Zentrum zu finden.
-Nach ein paar weiteren kleinen Herausforderungen (siehe [[#Runde 2]]) begegnen sie einer Gruppe von 6 Mindless welche aus dem Nebel auf sie zugelaufen kommen. Sie versuchen zuerst sie aufzuhalten und zu überzeugen sie nicht anzugreifen, jedoch schaffen sie es nicht zu allen von den verstandshungrigen Kreaturen durchzudringen und es kommt zum Kampf 
+Nach ein paar weiteren kleinen Herausforderungen (siehe [[#Cycle 2]]) begegnen sie einer Gruppe von 6 Mindless welche aus dem Nebel auf sie zugelaufen kommen. Sie versuchen zuerst sie aufzuhalten und zu überzeugen sie nicht anzugreifen, jedoch schaffen sie es nicht zu allen von den verstandshungrigen Kreaturen durchzudringen und es kommt zum Kampf 
 
 ## Appendix - Einflüsse auf die PCs
-Please reference [[Benebeltes Dorf]] for more info on effects
-#### Runde 1
-
+Please reference [[Nebelzone]] for more info on effects
+#### Cycle 1
 
 | Name   | Insanity                           | Impediment             |
 | ------ | ---------------------------------- | ---------------------- |
 | Peter  | 11 - Compulsive Counting           | 13 - Lost Item (Staff) |
 |        | 1 - Shuffling Sounds               | *Missing*              |
-|        | 17 - Cursed Connection??           |                        |
+|        |                                    |                        |
 | Iloril | 10 - Art Gallery                   | 5 - Fog Hug            |
 |        | 15 - Dark Whispers                 | *Missing*              |
 |        | 14 - First rule of koboldfightclub |                        |
@@ -52,12 +51,13 @@ Please reference [[Benebeltes Dorf]] for more info on effects
 Sonstiges:
 Harmon -1 Hit Dice
 Purify Food and Drink
-#### Runde 2
+#### Cycle 2
 
 | Name   | Insanity                              | Impediment                 |
 | ------ | ------------------------------------- | -------------------------- |
 | Peter  | 7 - Respec (Barbarian)                | 20 - Heavy lifting         |
-|        | 15 - Dark Whispers                    | 1 ???                      |
+|        | 17 - Cursed Connection                | 1 ???                      |
+|        |                                       | 15 - Dark Whispers?        |
 | Iloril | 20 - Could I be the one who's insane? | 7 - Heavy Fog              |
 |        | 5 - Scared                            | *Missing*                  |
 | Nessy  | 16 - Monkeys dowsing rod              | 13 - Lost Item (Staff)     |

@@ -62,7 +62,7 @@ Gibt negative modifier auf Werte oder hindert einen in irgendeiner Form.
 Beeinflusst die Psyche (Verwirrung, Orientierung, Erinnerung etc.) was oft nach einem Save mehrfach zu verschiedenen Effekten führen kann oder direkt die Aktion und Reaktion auf die Umgebung verändert.
 
 | Roll   | Event                                                     | Effect                                                                                                | Until |
-| ------ | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----- |
+| ----   | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----- |
 | 1      | Shuffling Sounds                                          | Footsteps (1/turn) -> **DC13** Wis save -> frightened                                                 | Rest  |
 | 2      | Shared pain...                                            | See linked creature take damage -> **DC15** Cha save -> same psychic damage.                          | Rest  |
 | 3      | Familiar Voice                                            | **DC18** Wis save or follow voice. (3 chances)                                                        | -     |
@@ -78,8 +78,8 @@ Beeinflusst die Psyche (Verwirrung, Orientierung, Erinnerung etc.) was oft nach 
 | 13     | Love hurts                                                | Healing -> **DC13** Int save -> healing = dmg                                                         | Rest  |
 | 14     | First rule of koboldfightclub                             | Attack -> **DC10** Wis save -> target yourself                                                        | Rest  |
 | 15     | A game of Chance                                          | Decision -> flip coin                                                                                 | Rest  |
-| 16<br> | Monkeys dowsing rod                                       | Follow -> 1 Impediment/person<br>Not Follow -> 1d4-1 Insanities for finder                            | -     |
-| 17     | Cursed Connection<br>                                     | Attack -> **DC14** Wis save -> no attack creature last harmed                                         | Rest  |
+| 16     | Monkeys dowsing rod                                       | Follow -> 1 Impediment/person<br>Not Follow -> 1d4-1 Insanities for finder                            | -     |
+| 17     | Cursed Connection                                         | Attack -> **DC14** Wis save -> no attack creature last harmed                                         | Rest  |
 | 18     | Did I ever tell you what the definition of _insanity_ is? | RAFO                                                                                                  | Rest  |
 | 19     | Frustum culling                                           | Turn -> **DC15** Int save -> forget behind you.                                                       | Rest  |
 | 20     | Could I be the one who's insane?                          | Party = stupid                                                                                        | Rest  |
