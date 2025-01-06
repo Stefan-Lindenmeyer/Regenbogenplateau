@@ -1,5 +1,6 @@
 # -
 - Added [[Diary Session 27]]
+- Changed Image Links to Google Drive instead of local
 
 # 23.12.2024
 - Added "Effect Crit" and "Druid Spell list" in [[Hausregeln]]

@@ -10,9 +10,11 @@ Ausgeschlüpft sind bereits 3 Giant und 7 Minor, von denen 2|4 auf dem Cargo Dec
 Die Schmetterlinge können durch die Lücken in den Ranken laufen, aber nicht fliegen.
 Hier unten finden sie auch verschiedene vergammelte Früchte und einige Raupen welche harmlos sind
 
-
+https://drive.google.com/file/d//view?usp=sharing
 #### Shrike
-![[Shrike_Ship.jpg]]
+
+![Shrike Ship Map](https://lh3.googleusercontent.com/d/19Eyq1ikcJ3ZcbVwJrMBbtmEhoxhFPbf-)
+
 Hier ist der Gravitationsfeldgenerator welcher durch den Einfluss der [[Regenbogengrütze]] dauerhaft angeschaltet ist. Dieser ist auch für ein leichtes protektives Feld um die Schiffshülle herum verantwortlich, welche es vor Witterung besser als die anderen Schiffe geschützt hat. Mit etwas Arbeit könnte man dieses Schiff renovieren. Die Metallhülle ist noch immer stabil, wenn auch ein wenig angerostet und an Stellen mit Algen und Muscheln überdeckt.
 
 Der Gravitationsgenerator ist ein Spelljammer Helm.

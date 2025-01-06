@@ -7,4 +7,4 @@ Es ist ca. 10 km lang und breit.
 An der Klippe ist eine große Mauer welche das Wasser des Sees zurückgehalten hat bis ein Meteor ein Loch hineingerissen hat und das Wasser abfließen konnte.
 
 
-![[Karte_iso.jpg]]
+![Regenbogenplateau](https://lh3.googleusercontent.com/d/10vRBH8OiAVdASbUaiYjgUovr7m1wQeN1)

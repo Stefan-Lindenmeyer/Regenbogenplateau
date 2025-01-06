@@ -3,9 +3,7 @@ Siehe Canvas (Ist noch nicht möglich auf Website, stattdessen hier ein Bild dav
 - Recipe Invention does not use up the materials on 1/2 Success
 - New [[#Crafting]] Box
 
-
-
-![[crafting.jpg]]
+![Crafting Flow Chart](https://lh3.googleusercontent.com/d/17gd98se2oKJQ5lfH8myZSJAxnhbu0OOH)
 
 ## Crafting
 **Crafting Roll Result** = 
