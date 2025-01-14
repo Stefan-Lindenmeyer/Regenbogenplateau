@@ -32,17 +32,20 @@ Jump to [[#Bottom]]
 **Thandorins Haus**
 - Thandorins Tagebuch
 - "Thandorins Maschinen" 
+
 **Obsidian Höhle**
 - 3 Obsidian Spinneneier
 - Thandorins Tagebuch Part 2
 - Bag of Holding
 - Diamantring ~200gp
+
 **Galinor**
 - 10 SP + 1 Stahlbarren (Quest) 
 
 # Session 8
 **Wald**
 - ? Trankzutaten (Foraging)
+
 **Corvus**
 - 3 Dosen Regenbogenblut
 
@@ -53,8 +56,10 @@ Jump to [[#Bottom]]
 # Session 12
 **Galinor**
 - 15 SP (Quest Vorbezahlung)
+
 **Corvus**
 - Bless Prothese für Iloril
+
 **Schmiede**
 - Schild (geschmiedet von Iloril)
 
@@ -110,14 +115,25 @@ Jump to [[#Bottom]]
 # Session 25
 **Meteor**
 - Harmon?
+
 **Schmiede**
 - Verbessertes Schild (geschmiedet von Iloril)
 
 # Session 26
-Shadowfell**
+**Shadowfell**
 - 6 Scrolls (Feather Fall, Warding Bond, Remove Curse, Cure Wounds/3, Catnap, *Daylight or Feather Fall?*) & Uncommon Enchanting Tome
 
 # Session 27
 **Shadowfell**
 - Alchemical ingredients: 10 common, 4? uncommon, 3? rare (no exotics)
+
+# Session 28
+**Shadowfell**
+- Metal bars: 5 Platin, 5 Electrum, 9 Silber, 5 Magent
+- Potions: Climbing, Speed, Angelic Reprieve
+- 500 XP
+
+
+
+
 # Bottom

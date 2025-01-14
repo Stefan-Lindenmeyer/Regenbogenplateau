@@ -234,4 +234,9 @@ Encounter 2: Mindless Patrol
 Encounter 2: Mindless Patrol
 In Gärten Ilorils Mutter und verlorene Gegenstände suchen
 Encounter 3: Bloodsuckle
+
+### Session 28
+[8000 XP]
+Encounter 3: Bloodsuckle finished
+
 # Bottom

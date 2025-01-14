@@ -87,15 +87,15 @@ Beeinflusst die Psyche (Verwirrung, Orientierung, Erinnerung etc.) was oft nach 
 \*RAFO = ~~Read~~ Roll and find out
 ## Reward
 
-| Roll | Reward                                     | Description                                                                                                             |
-| ---- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
-| 1    | Shelter                                    | You find a place that can be barricaded easily.                                                                         |
-| 2    | Small Chest                                |                                                                                                                         |
-| 3    | The Magical Library (or what's left of it) | You find 1d4+1 spell scrolls, 1 Remove Curse spell scroll, 1 Cure Wounds/3 spell scroll and 1 Uncommon Enchanting Tome. |
-| 4    | Bottle Rack                                |                                                                                                                         |
-| 5    | Blacksmiths Delivery                       |                                                                                                                         |
-| 6    | Old Alchemical Stash                       | You get 1d4 rare, 2d4 uncommon, 4d4 common alchemical ingredients                                                       |
-| 7    | Reflecting on Past Experience              |                                                                                                                         |
+| Roll | Reward                                     | Description                                                                                                                                                   |
+| ---- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Shelter                                    | You find a place that can be barricaded easily.                                                                                                               |
+| 2    | Small Chest                                |                                                                                                                                                               |
+| 3    | The Magical Library (or what's left of it) | You find 1d4+1 spell scrolls, 1 Remove Curse spell scroll, 1 Cure Wounds/3 spell scroll and 1 Uncommon Enchanting Tome.                                       |
+| 4    | Bottle Rack                                | You find a rotten wooden potion rack with 1d4+1 potions, still sealed. The recipes are engraved in the bottles but you cannot decipher them easily right now. |
+| 5    | Blacksmiths Delivery                       | Roll 4 times on the rare metal table                                                                                                                          |
+| 6    | Old Alchemical Stash                       | You get 1d4 rare, 2d4 uncommon, 4d4 common alchemical ingredients                                                                                             |
+| 7    | Reflecting on Past Experience              | You find a quiet place to turn inward for a moment and reflect on what you have learned. Each Party Member gains 500XP                                        |
 
 
 ## Resting guidelines
@@ -129,3 +129,48 @@ Players can invest in their defenses (Actions must make sense to secure the area
 | 8    | Envious/Jealous          |
 | 9    | Despaired                |
 | 10   | Doubtful                 |
+
+
+| Roll | Metal              | Ingots |
+| ---- | ------------------ | ------ |
+| 1    | Magent _legendary_ | 2d4+1  |
+| 2    | _rare_             | 1d4+1  |
+| 3    | _legendary_        | 1      |
+| 4    | _rare_             | 1d4+1  |
+| 5    | _uncommon_         | 3d4+1  |
+| 6    | _uncommon_         | 2d4+1  |
+| 7    | Platinum           | 2d4+1  |
+| 8    | Electrum           | 2d4+1  |
+
+
+| Roll | Scroll       |
+| ---- | ------------ |
+| 1    |              |
+| 2    |              |
+| 3    | Feather Fall |
+| 4    |              |
+| 5    |              |
+| 6    |              |
+| 7    | Warding Bond |
+| 8    | Catnap       |
+| 9    | Daylight     |
+| 10   |              |
+| 11   |              |
+| 12   |              |
+
+
+| **Roll** | **Potion** | **Beschreibung**                                                                                                             |
+| -------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1        |            | Eine leuchtend grüne Flüssigkeit, die in der Flasche brodelt und Blasen wirft, als würde sie das Glas durchdringen.          |
+| 2        |            | Eine schimmernde rote Flüssigkeit, die beim Schütteln Funken erzeugt und eine beunruhigende Wärme abstrahlt.                 |
+| 3        |            | Ein silbernes, metallisch glänzendes Öl, das sich wie flüssige Klingen bewegt und bei Berührung eisig kalt wirkt.            |
+| 4        |            | Eine kristallklare Flüssigkeit mit kleinen, schwebenden Lichtpartikeln, die wie winzige Sternenbilder rotieren.              |
+| 5        |            | Ein dickflüssiger, erdig brauner Trank mit winzigen, eingelagerten Kristallen, die wie Miniaturhaken wirken.                 |
+| 6        |            | Eine orange Flüssigkeit, die von selbst kleine Rauchfäden ausstößt und nach verbrannter Zitrusfrucht riecht.                 |
+| 7        |            | Eine tiefblaue Flüssigkeit, die beim Schütteln langsame Wellenbewegungen macht, als würde sie wachsen.                       |
+| 8        |            | Ein goldener Trank mit kleinen, schimmernden Partikeln, die wie schwebende Schilde und Schwerter wirken.                     |
+| 9        |            | Ein fast unsichtbarer Trank, bei dem nur leichte Verzerrungen des Lichts und ein zarter Regenbogenschimmer zu erkennen sind. |
+| 10       |            | Eine funkelnde, gelbe Flüssigkeit, die wild im Behälter pulsiert, als könnte sie kaum stillstehen.                           |
+| 11       |            | Eine perlmuttfarbene Flüssigkeit, die sanft glüht und beim Öffnen einen beruhigenden Duft nach Blumenwiese verströmt.        |
+| 12       |            | Eine milchig weiße Flüssigkeit, die sich wie eine federleichte Wolke bewegt und einen süßen Lavendelduft abgibt.             |
+|          |            | Descriptions from ChatGPT                                                                                                    |

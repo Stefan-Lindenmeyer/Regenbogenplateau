@@ -1,6 +1,10 @@
-# -
+# 14.01.2025
 - Added [[Diary Session 27]]
 - Changed Image Links to Google Drive instead of local
+- Updated [[Loot]] Session 28
+- Updated [[_Timeline]] Session 28
+- Updated [[Metalworking Techniques]]
+- Added [[Bloodsuckle]]
 
 # 23.12.2024
 - Added "Effect Crit" and "Druid Spell list" in [[Hausregeln]]
