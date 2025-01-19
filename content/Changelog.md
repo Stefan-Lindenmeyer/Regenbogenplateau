@@ -1,3 +1,10 @@
+# 19.01.2025
+- Updated [[Loot]] Session 29
+- Updated [[_Timeline]] Session 29
+- Added [[Diary Session 28]]
+- Added [[Diary Session 29]]
+- Updated [[Metalworking Techniques]]
+
 # 14.01.2025
 - Added [[Diary Session 27]]
 - Changed Image Links to Google Drive instead of local

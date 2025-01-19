@@ -15,7 +15,7 @@ Dann campen in der Wildnis
 
 # Tag 1
 ### Session 3
-(Happy/Peter abwesend)
+(Peter Spieler abwesend)
 Party geht zu Handelshaus, trifft Galinor
 Gehen zu Varian auf Plantage, schlafen auf Plantage
 
@@ -89,7 +89,7 @@ Iloril lernt Heiltrank
 Sie treffen Ai-Mia
 
 ### Session 12
-(Tommy/Miruna abwesend)
+(Miruna Spieler abwesend)
 Zurück ins Dorf gehen
 Bericht bei Galinor abgeben
 Auftrag von Galinor bekommen (Eskort zur Verstärkung der Schutzzauber)
@@ -154,7 +154,7 @@ Kampf mit Trident Blauem und Kraken in Grotte
 Blauen zu Corvus bringen
 
 ### Session 19
-(Tommy/Miruna abwesend)
+(Miruna Spieler abwesend)
 Trankzutaten im Wald sammeln
 Blauen zu Corvus bringen
 Trank brauen
@@ -171,7 +171,7 @@ Miruna berichtet von Traum und Party schmiedet Pläne
 
 ### Session 22
 [5700 XP]
-(Tommy/Miruna abwesend)
+(Miruna Spieler abwesend)
 Lirion und Aricor kommen vorbei und wollen Kraken und Bob sehen
 Lederhandschuh bei Falion abholen
 Kraken Taming erfolgreich
@@ -226,17 +226,29 @@ Lange Rast.
 Frühstück
 Zu Eldrin gehen und Infos über Shadowfellüberlagerung einholen
 Zur Shadowfellüberlagerung gehen
-Encounter 1: Mindless Wanderer
-Encounter 2: Mindless Patrol
+Zyklus 1: Mindless Wanderer
+Zyklus 2: Mindless Patrol
 
 ### Session 27
 [7600 XP]
-Encounter 2: Mindless Patrol
+Zyklus 2: Mindless Patrol
+Zyklus 3: Garten Bloodsuckle
 In Gärten Ilorils Mutter und verlorene Gegenstände suchen
-Encounter 3: Bloodsuckle
+
 
 ### Session 28
 [8000 XP]
-Encounter 3: Bloodsuckle finished
+Zyklus 3: Bloodsuckle Encounter
+
+### Session 29
+[9200 XP]
+(Nessy Spieler abwesend)
+(Iloril Spieler teilweise abwesend)
+Zyklus 4: Farmgebiet, Mindless+Stampede & Nightmare
+
+# Tag 12
+
+### Session 30
+[10000 XP]
 
 # Bottom

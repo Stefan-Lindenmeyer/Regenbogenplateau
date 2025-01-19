@@ -17,7 +17,7 @@ An alloy of Adamant with all the hardness and none of the brittleness used to fo
 ## Cold Iron
 _common material_
 
-Superior in durability to Iron, and also known as Meteoric Iron. Can be used to forged slightly inferior (but easier to make) armor and weapons. Attempting to make armor from pure iron lowers it's AC by 1. Attempting to make weapons out of this substance grants them the _Fragile_ property.
+Superior in durability to Iron, and also known as Meteoric Iron. Can be used to forge slightly inferior (but easier to make) armor and weapons. Attempting to make armor from pure iron lowers it's AC by 1. Attempting to make weapons out of this substance grants them the _Fragile_ property.
 
 **Crafting Base Difficulty:** 0
 **Crafting Penalty:** +1
@@ -70,7 +70,8 @@ Unknown (to the party)
 ## Gold
 _uncommon material_
 
-It's gold...
+It's gold ...
+Can be used to forge inferior (but easier to make) armor and weapons. Attempting to make armor from gold lowers it's AC by 2. Attempting to make weapons out of this substance grants them the _Fragile_ property.
 
 **Crafting Base Difficulty:** +1
 **Crafting Penalty:** +3

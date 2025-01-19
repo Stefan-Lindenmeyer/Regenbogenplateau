@@ -1,6 +1,6 @@
 Die Alte Siedlung wurde durch den schwarzen Nebel zu einem Labyrinthartigen Gebiet welches den Geisteszustand von Kreaturen darin beeinflusst und viele physische Gefahren birgt.
 
-Die Spieler müssen 5 Rewards bekommen oder 7 Encounter/Zyklen schaffen um zu ihrem Ziel, dem Baum in der Mitte, zu kommen.
+Die Spieler müssen 5 Rewards bekommen oder alle Encounter/Zyklen schaffen um zu ihrem Ziel, dem Baum in der Mitte, zu kommen.
 Wenn sie 5 oder mehr Rewards haben und entscheiden zum Baum zu gehen können sie danach keine Rewards mehr bekommen.
 
 
@@ -47,8 +47,8 @@ Gibt negative modifier auf Werte oder hindert einen in irgendeiner Form.
 | 9    | Rusty Metal              | Ouch! RAFO                                        | ???         |
 | 10   | Weak armor               | -2 to AC                                          | Rest        |
 | 11   | Weak hitter              | No benefit from Str or Dex to attack rolls/damage | Rest        |
-| 12   | Rotten storeroom         | RAFO                                              | Not hungry  |
-| 13   | Lost Item                | -myyyy precious (3 DC17)                          | Find        |
+| 12   | Rotten storeroom         | 1d6 poison dmg + poisoned                         | Not hungry  |
+| 13   | Lost Item                | -myyyy precious (3 chances to find DC17)          | Find        |
 | 14   | Muffled Moans            | Wis saves & checks disadvantage                   | Rest        |
 | 15   | Dark Whispers            | Reroll Charisma (3d6)                             | Long Rest   |
 | 16   | Spice Mix                | RAFO                                              | Not thirsty |
@@ -61,28 +61,28 @@ Gibt negative modifier auf Werte oder hindert einen in irgendeiner Form.
 ## Insanity
 Beeinflusst die Psyche (Verwirrung, Orientierung, Erinnerung etc.) was oft nach einem Save mehrfach zu verschiedenen Effekten führen kann oder direkt die Aktion und Reaktion auf die Umgebung verändert.
 
-| Roll   | Event                                                     | Effect                                                                                                | Until |
-| ----   | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----- |
-| 1      | Shuffling Sounds                                          | Footsteps (1/turn) -> **DC13** Wis save -> frightened                                                 | Rest  |
-| 2      | Shared pain...                                            | See linked creature take damage -> **DC15** Cha save -> same psychic damage.                          | Rest  |
-| 3      | Familiar Voice                                            | **DC18** Wis save or follow voice. (3 chances)                                                        | -     |
-| 4      | Chaos Magic                                               | RAFO                                                                                                  | 3     |
-| 5      | Scared                                                    | 1/turn -> **DC13** Int save -> grapple closest                                                        | Safe  |
-| 6      | Hyperfocus                                                | 1 mental stat modifier = +10. <br>2 mental stat modifier = -3. <br>Person gains Imp/Ins -> Can change | Rest  |
-| 7      | Respec                                                    | Different class                                                                                       | Rest  |
-| 8      | Ken (k) u understand me?                                  | Mimic sounds/phrases heard in last 10 mins.                                                           | Rest  |
-| 9      | Loneliness                                                | Sound -> **DC12** Cha save -> walk toward it                                                          | Rest  |
-| 10     | ***Emotional DAMAGE***                                    | RAFO                                                                                                  | -     |
-| 11     | Compulsive Counting                                       | Disadv. on Investigation, Insight & Perception                                                        | Rest  |
-| 12     | Too much energy                                           | 1/turn -> **DC15** Con save -> Dash & move                                                            | Rest  |
-| 13     | Love hurts                                                | Healing -> **DC13** Int save -> healing = dmg                                                         | Rest  |
-| 14     | First rule of koboldfightclub                             | Attack -> **DC10** Wis save -> target yourself                                                        | Rest  |
-| 15     | A game of Chance                                          | Decision -> flip coin                                                                                 | Rest  |
-| 16     | Monkeys dowsing rod                                       | Follow -> 1 Impediment/person<br>Not Follow -> 1d4-1 Insanities for finder                            | -     |
-| 17     | Cursed Connection                                         | Attack -> **DC14** Wis save -> no attack creature last harmed                                         | Rest  |
-| 18     | Did I ever tell you what the definition of _insanity_ is? | RAFO                                                                                                  | Rest  |
-| 19     | Frustum culling                                           | Turn -> **DC15** Int save -> forget behind you.                                                       | Rest  |
-| 20     | Could I be the one who's insane?                          | Party = stupid                                                                                        | Rest  |
+| Roll | Event                                                     | Effect                                                                                                | Until |
+| ---- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----- |
+| 1    | Shuffling Sounds                                          | Footsteps (1/turn) -> **DC13** Wis save -> frightened                                                 | Rest  |
+| 2    | Shared pain...                                            | See linked creature take damage -> **DC15** Cha save -> same psychic damage.                          | Rest  |
+| 3    | Familiar Voice                                            | **DC18** Wis save or follow voice. (3 chances)                                                        | -     |
+| 4    | Chaos Magic                                               | Magical action -> **DC12** Con save -> Wild magic surge.                                              | 3     |
+| 5    | Scared                                                    | 1/turn -> **DC13** Int save -> grapple closest                                                        | Safe  |
+| 6    | Hyperfocus                                                | 1 mental stat modifier = +10. <br>2 mental stat modifier = -3. <br>Person gains Imp/Ins -> Can change | Rest  |
+| 7    | Respec                                                    | Different class                                                                                       | Rest  |
+| 8    | Ken (k) u understand me?                                  | Mimic sounds/phrases heard in last 10 mins.                                                           | Rest  |
+| 9    | Loneliness                                                | Sound -> **DC12** Cha save -> walk toward it                                                          | Rest  |
+| 10   | ***Emotional DAMAGE***                                    | RAFO                                                                                                  | -     |
+| 11   | Compulsive Counting                                       | Disadv. on Investigation, Insight & Perception                                                        | Rest  |
+| 12   | Too much energy                                           | 1/turn -> **DC15** Con save -> Dash & move                                                            | Rest  |
+| 13   | Love hurts                                                | Healing -> **DC13** Int save -> healing = dmg                                                         | Rest  |
+| 14   | First rule of koboldfightclub                             | Attack -> **DC10** Wis save -> target yourself                                                        | Rest  |
+| 15   | A game of Chance                                          | Decision -> flip coin                                                                                 | Rest  |
+| 16   | Monkeys dowsing rod                                       | Follow -> 1 Impediment/person<br>Not Follow -> 1d4-1 Insanities for finder                            | -     |
+| 17   | Cursed Connection                                         | Attack -> **DC14** Wis save -> no attack creature last harmed                                         | Rest  |
+| 18   | Did I ever tell you what the definition of _insanity_ is? | 1/turn -> **DC15** Int save -> repeat last turn.                                                      | Rest  |
+| 19   | Frustum culling                                           | Turn around -> **DC15** Int save -> forget behind you.                                                | Rest  |
+| 20   | Could I be the one who's insane?                          | Party = stupid                                                                                        | Rest  |
 
 \*RAFO = ~~Read~~ Roll and find out
 ## Reward
@@ -90,10 +90,10 @@ Beeinflusst die Psyche (Verwirrung, Orientierung, Erinnerung etc.) was oft nach 
 | Roll | Reward                                     | Description                                                                                                                                                   |
 | ---- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | Shelter                                    | You find a place that can be barricaded easily.                                                                                                               |
-| 2    | Small Chest                                |                                                                                                                                                               |
+| 2    | Small Chest                                | You find a stash of 4d4 gold, 6d6 silver and 8d8 copper and a large gem from the gem table worth 10d10gp.                                                     |
 | 3    | The Magical Library (or what's left of it) | You find 1d4+1 spell scrolls, 1 Remove Curse spell scroll, 1 Cure Wounds/3 spell scroll and 1 Uncommon Enchanting Tome.                                       |
 | 4    | Bottle Rack                                | You find a rotten wooden potion rack with 1d4+1 potions, still sealed. The recipes are engraved in the bottles but you cannot decipher them easily right now. |
-| 5    | Blacksmiths Delivery                       | Roll 4 times on the rare metal table                                                                                                                          |
+| 5    | Blacksmiths Delivery                       | Roll 4 times on the rare metal table.                                                                                                                         |
 | 6    | Old Alchemical Stash                       | You get 1d4 rare, 2d4 uncommon, 4d4 common alchemical ingredients                                                                                             |
 | 7    | Reflecting on Past Experience              | You find a quiet place to turn inward for a moment and reflect on what you have learned. Each Party Member gains 500XP                                        |
 
@@ -130,6 +130,21 @@ Players can invest in their defenses (Actions must make sense to secure the area
 | 9    | Despaired                |
 | 10   | Doubtful                 |
 
+
+| Roll | Gem          |
+| ---- | ------------ |
+| 1    | Jade         |
+| 2    | Diamond      |
+| 3    | Ruby         |
+| 4    | Emerald      |
+| 5    | Amber        |
+| 6    | Azurite      |
+| 7    | Opal         |
+| 8    | Moonstone    |
+| 9    | Smoke quartz |
+| 10   | Amethyst     |
+| 11   | Aquamarin    |
+| 12   | Topaz        |
 
 | Roll | Metal              | Ingots |
 | ---- | ------------------ | ------ |

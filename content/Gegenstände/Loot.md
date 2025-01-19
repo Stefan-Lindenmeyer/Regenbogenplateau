@@ -133,6 +133,10 @@ Jump to [[#Bottom]]
 - Potions: Climbing, Speed, Angelic Reprieve
 - 500 XP
 
+# Session 29
+**Shadowfell**
+- Geld: 9 Gold, 28 Silber, 40 Kupfer, 1 Grüner Edelstein
+- 500 XP
 
 
 
