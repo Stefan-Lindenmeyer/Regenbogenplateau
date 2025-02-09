@@ -76,29 +76,34 @@ Can be used to forge inferior (but easier to make) armor and weapons. Attempting
 **Crafting Base Difficulty:** +1
 **Crafting Penalty:** +3
 
-## Silver
+##### Silver
 _uncommon material_
 
-It's steel but it's silver.
+Useful to create weapons for killing werebeasts, vampires or other creatures vulnerable to silver.
+Silver armor and weapons are often used as a status symbol of the lower nobility.
 
 **Crafting Base Difficulty:** +1
 **Crafting Penalty:** +3
 
-## Platinum
-_? material_
+##### Platinum
+_Rare material_
 
-???
+A soft non-corroding metal often used in medical or laboratory equipment because of its low reactiveness and smooth surface.
+It is used in many rituals to reflect the truth of a situation or bind two points in space together.
 
-**Crafting Base Difficulty:** +?
-**Crafting Penalty:** +?
+Weapons made from platinum deal an extra d4 force damage to plane shifters and shapechangers.
+Armor made from platinum grants the wearer resistance to acid damage.
 
-## Electrum
-_? material_
+**Crafting Base Difficulty:** +3
+**Crafting Penalty:** +5
 
-???
+##### Electrum
+_Rare material_
 
-**Crafting Base Difficulty:** +?
-**Crafting Penalty:** +?
+A proper ratio of gold and silver can give electrum weapons and armor properties that are often associated with divine fighters. Weapons made from electrum deal extra radiant damage equal to the wielders proficiency modifier against celestials, fiends or undead. Similarly, armor made from electrum reduces all damage taken from celestials, fiends or undead by the wearers proficiency modifier.
+
+**Crafting Base Difficulty:** +2
+**Crafting Penalty:** +4
 
 # Properties
 #### Fragile

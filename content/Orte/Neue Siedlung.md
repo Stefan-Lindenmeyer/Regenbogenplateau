@@ -2,7 +2,7 @@
 Das Dorf der [[Artificer]] befindet sich im Norden des Plateaus auf erhöhten Terrassen welche früher oberhalb des Sees waren und deswegen anfangs nicht so versumpft waren. Es war demnach möglich dort stabile Häuser und Keller zu bauen.
 
 
-![Test](https://lh3.googleusercontent.com/d/1J0QBLhAqEf2DUxMYu0LxlaMc892mspeS)
+![Karte Siedlung](https://lh3.googleusercontent.com/d/1J0QBLhAqEf2DUxMYu0LxlaMc892mspeS)
 
 ![Regenbogenplateau](https://lh3.googleusercontent.com/d/10vRBH8OiAVdASbUaiYjgUovr7m1wQeN1)
 # Architektur

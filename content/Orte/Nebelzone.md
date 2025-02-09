@@ -102,6 +102,7 @@ Beeinflusst die Psyche (Verwirrung, Orientierung, Erinnerung etc.) was oft nach 
 
 Short Rest Chance of failure at the start is 100%
 Long Rest Chance of failure is 350%.
+3 Short Rests must be taken before a long rest can be attempted.
 
 Players can invest in their defenses (Actions must make sense to secure the area):
 - Investing the "Shelter" reward lowers it by 95%.

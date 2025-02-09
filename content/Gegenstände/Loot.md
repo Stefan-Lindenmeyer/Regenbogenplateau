@@ -135,9 +135,18 @@ Jump to [[#Bottom]]
 
 # Session 29
 **Shadowfell**
-- Geld: 9 Gold, 28 Silber, 40 Kupfer, 1 Grüner Edelstein
+- Geld: 9 Gold, 28 Silber, 40 Kupfer, 1 Grüner Edelstein (Jade) im Wert von 100gp
 - 500 XP
 
+# Session 30
+**Shadowfell**
+- Metal bars: 2 Platin, 16 Electrum, 10 Silber
+- Potions: Firebreath, Oil of Sharpness, Invisibility, Speed
+**Tania**
+- Metal bars: 3 Mithral, 12 Gold, 4 Platin
+- Metal bars: 32 Silber
+- Potions: Clairvoyance, Growth, Angelic Slumber, Alchemical Fire, Growth
+- 500 XP
 
 
 # Bottom

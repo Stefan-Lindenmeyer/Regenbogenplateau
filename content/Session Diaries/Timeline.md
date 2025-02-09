@@ -250,5 +250,11 @@ Zyklus 4: Farmgebiet, Mindless+Stampede & Nightmare
 
 ### Session 30
 [10000 XP]
+Zyklus 5: Shopping District & Stealth & Nightwing Bat
+Mindless ausrauben
+Tanias (verlassenes) Haus besuchen
+
+### Session 31
+[10850 XP]
 
 # Bottom
