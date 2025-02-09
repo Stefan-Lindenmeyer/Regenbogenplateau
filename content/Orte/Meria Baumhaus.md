@@ -1,5 +1,6 @@
 [[Meria]] wohnt hier. Ist grosser (groß groß) Baum aus Feywild der innen Wohnung hat. 
 Im Zentrum des Baums ist ein Perlsteinpfeiler. Somit ist innerhalb des Baums eine Überlagerung und wenn man aus dem Fenster schaut sieht man das Feywild.
+Befindet sich im [[Wald]].
 
 # Außen
 Vor euch erhebt sich ein riesiger Baum, der aus einer anderen Welt zu kommen scheint so alt und verwachsen wie er aussieht. Seine Wurzeln, die weitaus dicker sind als die Baumstämme um euch herum, ragen an mehreren Stellen aus dem Boden und sind mit Moos und Pilzen überwachsen.

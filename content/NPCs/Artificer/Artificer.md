@@ -4,7 +4,7 @@ Alles Halbelfen in ihren ~20ern als sie am Plateau ankamen.
 Früher angestellt bei der Cephaloprothesis durch die Ladrian Familie.
 Nach einem Streit mit den Ladrians, ob die Technologie benutzt werden sollte welche sie in einem Keller gefunden haben, haben sie Artefakte gestohlen und sich in Richtung des Regenbogenplateaus gemacht, welches zu der Zeit noch ein See war. Sie erfuhren den Ort durch alte Unterlagen von den Ladrians und wollten die Forschungen von Erevan Ladrian (einstiger König) dort untersuchen. Als sie am See ankamen sahen sie von unten im Tal wie ein [[Meteorit]] in die Mauer einschlug.
 Sie ließen sich für kurze Zeit in dem Eingang zum Plateau nieder, bis der Sumpf ein wenig getrocknet war. Dann bauten sie sich dort ein Dorf in der [[Neue Siedlung]] auf.
-Während der Bauten trafen sie auf [[Meria]] mit der sie eine Schutzbarriere gegen die [[Zyrann Thronns Volk]] errichteten welche sie angriffen.
+Während der Bauten trafen sie auf [[Meria]] mit der sie eine Schutzbarriere gegen die [[Drowned]] errichteten welche sie angriffen.
 
 Alle [[Merias Kinder]] wurden mit Meria und den Artificern gezeugt. Wenn die Kinder alt genug sind werden sie von ihnen als [[Frauen]] genommen.
 

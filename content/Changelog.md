@@ -9,6 +9,9 @@
 - Removed custom potions for now
 - Removed Errata from [[Crafting]] and created new image
 - Added [[Enchanting]] rules
+- Added text to [[Shadowfell]], [[Meria Baumhaus]], [[Obsidian Spider Nest]], [[Schutzzauberbäume]], [[Spelljammer Friedhof]]
+- Added [[Alte Siedlung]] & [[Trankblutwelt]]
+- Renamed Terraner and Zyrann Thronns Volk into [[Drohnen]] and [[Drowned]] and changed some info about them
 # 19.01.2025
 - Updated [[Loot]] Session 29
 - Updated [[Timeline]] Session 29

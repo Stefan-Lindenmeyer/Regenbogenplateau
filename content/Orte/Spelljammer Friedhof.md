@@ -1,3 +1,5 @@
+Hier liegen 5 alte Spelljammer schon seit mehreren tausenden Jahren. Solche Schiffe werden schon seit Ewigkeiten aus diversen Gründen nicht mehr benutzt und sind generell in Vergessenheit geraten.
+Unter den 5 Schiffen ist lediglich eines in einem reparierbaren Zustand. Die anderen wurden durch den Einfluss des Wassers oder der Pflanzen zu stark zerstört und haben zudem keinen Helm mehr um sich steuern zu lassen.
 ## Spelljammer 
 #### Galeone
 Hier befindet sich das Nest der [[Schmetterlinge]].
@@ -10,7 +12,6 @@ Ausgeschlüpft sind bereits 3 Giant und 7 Minor, von denen 2|4 auf dem Cargo Dec
 Die Schmetterlinge können durch die Lücken in den Ranken laufen, aber nicht fliegen.
 Hier unten finden sie auch verschiedene vergammelte Früchte und einige Raupen welche harmlos sind
 
-https://drive.google.com/file/d//view?usp=sharing
 #### Shrike
 
 ![Shrike Ship Map](https://lh3.googleusercontent.com/d/19Eyq1ikcJ3ZcbVwJrMBbtmEhoxhFPbf-)
@@ -47,7 +48,7 @@ Dieses Schiff ist am stärksten von allen zersetzt aufgrund seines organischen A
 Diverse andere Teile von verschiedenen Spelljammern sind in dem Gebiet verstreut welche kleine "Riffe" bildeten und nun mit anderen Pflanzen überwachsen sind
 
 ## Bewohner
-Die [[Schmetterlinge]] haben ihr Nest in der Galleone. Dort ist auch einer der [[Terraner]] zu finden welche ein kleiner Miniboss sein wird.
+Die [[Schmetterlinge]] haben ihr Nest in der Galleone. Dort ist auch einer der [[Drohnen]] zu finden welche ein kleiner Miniboss sein wird.
 Ansonsten kann man Kleintiere und viele Insekten dort finden teils.
 
 ## Flora

@@ -1,4 +1,3 @@
-Die Alte Siedlung wurde durch den schwarzen Nebel zu einem Labyrinthartigen Gebiet welches den Geisteszustand von Kreaturen darin beeinflusst und viele physische Gefahren birgt.
 
 Die Spieler müssen 5 Rewards bekommen oder alle Encounter/Zyklen schaffen um zu ihrem Ziel, dem Baum in der Mitte, zu kommen.
 Wenn sie 5 oder mehr Rewards haben und entscheiden zum Baum zu gehen können sie danach keine Rewards mehr bekommen.
