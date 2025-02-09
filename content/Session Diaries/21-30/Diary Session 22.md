@@ -1,0 +1,20 @@
+## Peter & Iloril
+Die Party geht wieder nach Hause und wird nach kurzer Zeit durch ein Klopfen an der Tür unterbrochen. Peter sprintet zur Tür bevor Iloril spionieren kann wer davor steht.
+Lirion, der Kreaturenforscher, und Aricor, der Waffenschmied und -forscher. wollten den Elektrokraken und Ilorils Familiar untersuchen und sie darüber befragen. Die beiden gehen auf die Anfrage ein und sie besprechen einige Dinge über die Kreaturen.
+Aricor ist sehr interessiert an dem Blut der zwei und fragt ob er eine Probe davon bekommen kann. Er wirkt sehr aufdringlich und ist auch interessiert an der Prothese welche Iloril von Corvus bekommen hat und versucht diese anzufassen, jedoch erfolglos. Peter gibt sein Blut nicht zur Untersuchung frei, Iloril gibt ihm eine Probe und erhofft sich einige Erkenntnisse über die Magie darin. Er verlässt die Gruppe um es in seinem Labor zu untersuchen.
+Die drei anderen begeben sich zu Falion um den Lederhandschuh abzuholen. Dabei bemerken sie dass Falion nicht nur teils wie ein Tier aussieht und unter ihnen wohnt, sondern sich auch des öfteren wie eines verhält. Danach machen sie Halt bei Lirions Haus damit er dort den Kraken näher betrachten kann.
+Peter versucht den Kraken, welcher nun in einen Holzkäfig gesperrt wurde, zu zähmen jedoch ohne Erfolg. Lirion möchte ihn anfassen und wird beim Versuch geschockt, was Iloril auf Anfrage schnell heilt. Lirion will den Kraken hier behalten und ihn sezieren, so wie er es mit vielen anderen Kreaturen, sichtbar in anderen Käfigen im Raum. schon gemacht hat. Peter ist damit aber nicht einverstanden und sie einigen sich darauf, dass wenn die Party Zeit hat, sie einen weiteren der Kraken besorgen im Austausch für die Forschungsdaten die daraus entstehen.
+Lirion fragt Iloril noch über BobFred + seine gewonnenen Bionikkentnisse aus, und was man aus dem Kraken für Prinzipien ziehen kann, woraufhin Iloril sein Wissen teilt. Er schlägt Tentakelgreifarme sowie Lampen und Blitzspeicherzellen vor, was Lirion sehr interessante Ideen findet. Peter bemerkt auch noch, dass man eventuell Muskelkrämpfe behandeln oder auslösen könnte, Lirion verweist sie aber auf Aricor für Waffenentwicklungen.
+
+Den Nachmittag verbringen die beiden damit das Aquarium fertig zu bauen und auszustatten. Klipp findet sein neues Heim akzeptabel und lässt sich nun auf deren Partnerschaft ein.
+Danach geht Peter zu Luises Haus um mit Silvaren über den Meteoriten zu sprechen.
+Luise öffnet die Tür und verweist ihn auf die Forschungsstätte beim Meteoriten. Es scheint als würden sie die schrumpfende Kristallkugel weiterhin untersuchen.
+Peter begibt sich dorthin und trifft auf Eldrin, Elaris und Silvaren welche mit Geräten und Klemmbrettern diverse Nachforschungen an der leuchtenden Kugel vornehmen. Er beobachtet sie eine Weile lang und versucht dann Silvaren anzusprechen. Dieser scheint recht häufig seine Aufmerksamkeit zu wechseln und bemerkt ihn zunächst gar nicht. Im Gespräch wickelt Silvaren ihn in seine Experimente mit ein und lässt ihn Dinge halten welche er promt vergisst oder ignoriert.
+Er beschwert sich über Peters Inkompetenz nach seiner Entschuldigung und fragt warum Iloril nicht gekommen sei um ihnen behilflich zu sein. Er verliert die Konversation jedoch schnell wieder als er sich auf etwas anderes konzentriert.
+Peter fragt bei Eldrin nach ob Silvaren sich immer so verhält. Dieser gibt ihm Auskunft, dass er schon immer leicht kurzfristig abzulenken war, dies jedoch in den letzten Jahren deutlich schlimmer geworden ist. Er beteuert jedoch, dass Silvaren einen guten Überblick über ein Gesamtprojekt hat und weiß was zu tun ist, auch wenn er versucht all diese Dinge selbst zu tun.
+Während Peters Abwesenheit braut Iloril noch ein weiteres Gift.
+
+Des Abends begeben sich die beiden ins Wirtshaus und finden dort Bea und Luise vor. Letztere möchte eine Revanche und sowohl Peter als auch Iloril spielen mit ihr. Jeder von ihnen gewinnt eine Runde und Luise geht zuletzt mit einem verdienten Sieg nach Hause.
+
+# Miruna
+Sagt sie ist Peter den ganzen Tag gefolgt, aber er ist sich sicher, dass er sie alleine im Haus gelassen hat (*zwinker*).

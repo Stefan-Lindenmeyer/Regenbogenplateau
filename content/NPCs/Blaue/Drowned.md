@@ -3,7 +3,6 @@ Als das Wasser im See abgelassen wurde zogen sie sich zurück in den [[Untergrun
 
 Sie beten den [[Zyran Thronn]] an.
 
-
 Sind Mischung zwischen Elemental/Undead
 
 # Aussehen

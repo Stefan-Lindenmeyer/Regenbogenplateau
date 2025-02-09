@@ -1,53 +1,18 @@
-Needs **Alchemy Supplies**
-[[Potions]]
-## Ingredients
+# Ingredients
 ***Types:*** _curative_, _reactive_, _poisonous_, and _exotic_
 ***Rarities:*** _common, uncommon, rare, very rare,_ and _legendary_
 [[Alchemical Ingredients]]
-## Harvesting
-### Foraging
-Takes 8+ hours.
-- Traveling at slow pace in wilderness -> gathering check with disadvantage. 
-- Gathering without traveling -> two checks (without disadvantage).
+A character needs **Alchemical Supplies** to craft alchemical brews
+# Alchemical Brews
+## Potions
+***Types:*** _potion, concoction, oil_ 
+[[Potions]]
 
-**Herbalism Kit** + proficiency -> add your proficiency modifier.
-
-|Roll|Gathered Ingredients|
-|---|---|
-|1-5|1 common|
-|5-10|2 common|
-|10-15|1 common, 1 uncommon|
-|15-20|2 uncommon|
-|20-25|1 uncommon, 1 rare|
-|25+|1 rare, 1 very rare|
-
-Roll d4 for type (if present): 
-1 - curative
-2 - reactive
-3 - poisonous
-4 - exotic (uncommon or above)
-
-### Monster Harvesting
-***Categories:*** _dragon_, _monstrosity_, _elemental_, or _plant_
-
-Corpse must be new (8 hours)
-May have disadvantage or be impossible depending on condition
-
-Make Medicine check.
-
-|Monster CR|Check DC|Gathered Ingredients|
-|---|---|---|
-|1/2|18|1 common|
-|1|19|1 common|
-|2-4|20|2 common|
-|5-8|22|1 uncommon|
-|9-12|24|1 rare|
-|13-16|26|2 rare|
-|16-20|26|1 very rare|
-|20+|28|1 legendary|
+## ???
+***Types:*** _temporary, permanent_ 
 
 ## Poisons
-***Types:*** Contact, Ingested, Inhaled, and Injury
+***Types:*** _contact, ingested, inhaled, and injury_
 [[Poisons]]
 DMG on page 257
 
@@ -61,8 +26,8 @@ DMG on page 257
 #### Combination with standard potion
 Add DC of standard potion to DC of all exotic ingredients
 
-## Increasing Alchemy Skill
-Alchemy skill <= Int or Wis mod.
+# Increasing Alchemy Skill
+Alchemy skill cannot be higher than Int or Wis mod.
 
 You can get Alchemy Skill 1 by... 
 * Completing 20 potions, or...

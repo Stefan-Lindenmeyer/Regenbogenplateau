@@ -1,4 +1,4 @@
-Mitglied der [[Terraner]]
+Mitglied der [[Drohnen]]
 
 ## Persönlichkeit
 

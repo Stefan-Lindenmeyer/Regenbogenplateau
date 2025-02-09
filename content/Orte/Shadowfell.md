@@ -5,3 +5,5 @@ Eine Überlagerung wie keine andere auf dem Plateau, denn diese führt nicht ins
 In der Mitte der Insel befinden sich die Überreste eines Dorfes welches von einem schwarzen Nebel umschlossen ist.
 
 Ein kleiner Fluss fließt hinein und kommt nicht wieder heraus.
+
+In der Überlagerung befindet sich die [[Nebelzone]] und die [[Alte Siedlung]].

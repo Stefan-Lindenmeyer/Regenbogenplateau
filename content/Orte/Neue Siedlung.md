@@ -1,10 +1,10 @@
 
 Das Dorf der [[Artificer]] befindet sich im Norden des Plateaus auf erhöhten Terrassen welche früher oberhalb des Sees waren und deswegen anfangs nicht so versumpft waren. Es war demnach möglich dort stabile Häuser und Keller zu bauen.
 
-[[Karte_iso.jpg]]
 
-![[Dorf.jpg]]
+![Karte Siedlung](https://lh3.googleusercontent.com/d/1J0QBLhAqEf2DUxMYu0LxlaMc892mspeS)
 
+![Regenbogenplateau](https://lh3.googleusercontent.com/d/10vRBH8OiAVdASbUaiYjgUovr7m1wQeN1)
 # Architektur
 Die Häuser wurden aus einem weißen Gestein gebaut welches in dem Steinbruch über dem Dorf gefunden werden kann. Die Architektur ist recht simpel. Rechteckige Grundrisse, mittelgroße Fenster, meist 2 Stockwerke und ein generell flaches Schrägdach aus Ziegeln. Die Wände sind kaum verputzt oder gestrichen, der Mörtel hat eine leichte Regenbogenfarbe da er aus dem Schlamm des Sees gewonnen wurde.
 

@@ -1,5 +1,5 @@
 Priesterin des [[Zyran Thronn]].
-Mitglied von [[Zyrann Thronns Volk]].
+Mitglied von [[Drowned]].
 
 Hat hautenge Kleidung an mit vielen Öffnungen, durch die man ihr Skelett sehen kann.
 Besitzt Haare welche Seegras ähneln.

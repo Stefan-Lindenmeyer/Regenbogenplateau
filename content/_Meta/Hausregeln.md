@@ -16,19 +16,22 @@ Alle Spieler bekommen in den meisten Fällen gleichzeitig, gleich viele XP, auch
 - OneDND Exhaustion (10 Levels, each level gives -1)
 - High ground and Flanking gives +2
 - You can switch out a number of prepared spells equal to your spellcasting modifier in a short rest
-- Better crits: full damage + dice 
-- Help action only with proficiency 
+- Better Crits (for players): full damage of dice + dice 
+- Effect Crits (for non-players): full damage on simple creatures, special effects on more interesting creatures
+- Help action only with proficiency
 - Healing Word and Misty Step as bonus actions (no leveled spell restrictions)
 - Bonus Action Healing potions: use as bonus action = roll dice, use as action = full heal
 - 1 Gold = 100€
 - A downed creature gains one level of exhaustion
 
+
 ## Charakterbau
 
-- Keine Sorlocks
+- Keine Sorlocks (Coffeelocks)
 - Jeder bekommt einen gratis Feat auf Level 0 der mit der Backstory übereinstimmen sollte
 - Artificer Infusion spellwrought tattoo: For spells with a duration longer than instantaneous the tattoo glows while the spell is active and still counts as an active infusion. If the infusion ends, so does the spell effect.
-
+- Wild Shape: Statt einem zweiten HP pool in Wild shape bekommen Druiden die Kreatur HP als Temporäre HP. Dafür verlieren sie ihre Wild Shape nicht wenn sie die temp HP verlieren. Moon Druids können mit ihrem Level 3 feature spell slots zu temp HP umwandeln anstatt normalen HP.
+- Druids Spell list: Haste statt Conjure Animals
   
 
 ## Experimental / Unsure

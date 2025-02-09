@@ -2,7 +2,7 @@ Weiblicher Zwerg welche ihre Schlammgolems als Kinder sieht und deswegen dem Lor
 
 Ist Politikerin/Diplomatin.
 
-Mitglied der [[Terraner]]
+Mitglied der [[Drohnen]]
 ### Handel 
 Drohne wartet vor der Wald Hag Tree Überlagerung auf die Party.
 Bietet ihnen einen Handel an:

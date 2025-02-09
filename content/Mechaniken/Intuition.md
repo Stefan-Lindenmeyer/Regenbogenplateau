@@ -1,13 +1,17 @@
-
 ### Ursprung
-Blut der [[Terraner]] welches durch den [[Illusion Wizard]] in die PCs injiziiert wurde.
+Blut der [[Drohnen]] welches durch den [[Illusion Wizard]] in die PCs injiziert wurde.
 Das Blut / die magischen Fähigkeiten des Blutes kommen anscheinend vom [[Zyran Thronn]]
 
 ### Sammlung
-Aus jedem [[Terraner]] können 3 Dosen nutzbares Blut extrahiert werden wenn man ihn tötet.
+Aus jeder der [[Drohnen]] können 3 Dosen nutzbares Blut extrahiert werden wenn man sie tötet.
 
 ### Injektion 
 Kreaturen können so viele Injektionen am Tag bekommen wie sie wollen, jedoch kriegen sie für jede nach der ersten ein Level of Exhaustion da der Körper überfordert ist sich daran zu gewöhnen.
+
+### Entfernen
+Man kann eine Woche lang jeden Tag ein Level of Exhaustion (durch Blut lassen) auf sich nehmen oder "Lesser Restoration" oder einen ähnlich starken Heileffekt auf sich casten um eine Injektion zu entfernen.
+Man kann auch aggressiver vorgehen und einmal 4 Levels of Exhaustion auf sich nehmen um eine Injektion zu entfernen und dann nur einen Tag warten um die nächste Injektion zu entfernen.
+Ein "Greater Restoration" Cast oder ein ähnlich starker Effekt kann eine Injektion sofort entfernen.
 
 ### Nutzung
 Für jede Injektion bekommt man einen Charge. Wenn diese verbraucht werden, füllen sie sich nach einer langen Rast wieder auf.

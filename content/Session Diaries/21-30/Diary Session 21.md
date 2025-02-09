@@ -1,0 +1,17 @@
+Peter wacht früher auf als die anderen, bereitet Frühstück zu und lehmt dass Aquarium, damit es wasserdicht ist. 
+Nachdem Iloril erwachte, ging er in die Schmiede und arbeitete dort an seiner Rüstung. Er hat Erfolg mit der Brustplatte, kommt aber beim Schild immer noch nicht voran. Währenddessen überlegt er wie er am besten mit Mirunas Dilemma umgeht, sodass alle am Ende glücklich und am Leben sind. Zum Ende wird er von Galinors Tochter, Leona, besucht, welche ihm vermittelt, dass ihr Papa mit ihm über folgende Missionen sprechen möchte.
+Er folgt dem Aufruf und wird kurz von Galinor informiert, dass sie in ca. zwei Tagen erwarten, dass der Meteorit komplett "abgetaut" ist und dass sie in den folgenden Tagen, wenn keine weiteren Komplikationen auftreten, einen weiteren Knotenpunkt verstärken wollen. Er weist sie auf zwei der Knotenpunkte hin und gibt der Party die Wahl sich auf einen vorzubereiten. Bei den POI handelt es sich um den Knoten im schwarz vernebelten Dorf und den in dem Säulenwald, wo der Hunter gerade sein Camp aufgeschlagen hat.
+Danach versucht sich Iloril noch einmal an einem Heiltrank, er vermischt jedoch durch Ablenkung von der aufwachenden Miruna aus Versehen die Zutaten.
+
+Währenddessen wird Miruna im Schlaf erneut in die Unterwasserwelt des Zyrann Thronn transportiert. Dort sieht sie wieder den Kampf des Zyrann Thronn und dem Hunter in der Distanz und sie trifft erneut Filistania, die Priesterin des Zyrann Thronn an. 
+Sie verspricht der Priesterin, dass sie auf der Seite des Zyrann Thronn kämpfen möchte und erfährt, dass Kategwyn im vernebelten Dorf in der Kapelle auf sie wartet um ihnen erneut einen Deal anzubieten. Auf dem Weg dorthin werden sie auf die Mindless treffen, eine Vorstufe der Drowned, welche sie nicht verletzen sollen.
+Während der Konversation tauchen plötzlich um Filistania herum Stachelbälle auf. Die beiden Frauen tauschen verwirrte Blicke aus und die Stachelbälle explodieren, schaden Miruna leicht und Filistania so stark, dass sie die Demiplane verlassen muss.
+Hinter ihr offenbart sich eine weitere Alptraumgestalt des Hunters. Ein männlicher Elf dessen Kleidung und Haut in Blut getränkt ist. Er trägt überall an seinen Gliedmaßen Girlanden und Bänder mit Kugeln, welche lange dünne Stacheln haben. Um seinen Hals hängt ein rautenförmiger Talisman. Er blickt mit seinen roten Augen zu Miruna und spricht sie an.
+Er möchte wissen was sie solange aufhält und er berichtet, dass Asodias anfängt ungeduldig zu werden. Er möchte die Vereinigung nicht länger hinausziehen als nötig.
+Nach kurzem Informationsaustauch (weiß nicht mehr was gesagt wurde, sorry) und der "Zusicherung" dass Miruna "das Treffen auch kaum erwarten kann" endet der Traum.
+
+Die Party frühstückt und Miruna berichtet nach einiger Überredung ihre Erfahrungen mit dem Zyrann Thronn der letzten Tage und offenbart alle Informationen aus dem Traum der Nacht.
+
+Zuletzt besprechen die PCs ihr weiteres Vorgehen. Sie planen vorzutäuschen, dass sie dem Zyrann Thronn helfen indem sie die Artificer betrügen sodass sie die Barriere senken statt stärken. Hierdurch erhoffen sie sich, dass der Zyrann Thronn gestärkt wird und ihnen Ressourcen zur Verfügung stellt, damit sie den Hunter effektiv zusammen bekämpfen können.
+In Wirklichkeit wollen sie die Artificer überreden die Barriere nur temporär zu schwächen, sodass sie später wieder hochgefahren werden kann.
+Danach wollen sie den Zyrann Thronn und seine Gefolgsleute hintergehen und ihn somit auch stark schwächen und das Trankblut von den Drohnen stehlen.
