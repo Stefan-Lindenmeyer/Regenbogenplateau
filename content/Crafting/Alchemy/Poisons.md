@@ -1,15 +1,15 @@
 # Crafting Table
-|          Name          | Ingredients                                       | Crafting Time | Crafting Checks | Critical Failure | DC  | Flawless Success |
-| :--------------------: | :------------------------------------------------ | :-----------: | :-------------: | :--------------: | :-: | :--------------: |
-|  Simple Injury Poison  | 2 *common poisonous*                              |    1 hour     |    2 checks     |    1 Failure     | 4+  |       10+        |
-| Simple Inhaled Poison  | 2 *common poisonous* <br> 1 *common reactive*     |    1 hour     |    2 checks     |    1 Failure     | 5+  |       10+        |
-| Simple Contact Poison  | 2 *common poisonous*                              |    1 hour     |    2 checks     |    1 Failure     | 4+  |       10+        |
-| Simple Ingested Poison | 2 *common poisonous*                              |    1 hour     |    2 checks     |    1 Failure     | 4+  |       10+        |
-|  Potent Injury Poison  | 2 *uncommon poisonous*                            |    1 hour     |    2 checks     |    1 Failure     | 5+  |       12+        |
-| Potent Inhaled Poison  | 2 *uncommon poisonous* <br> 1 *uncommon reactive* |    1 hour     |    2 checks     |    1 Failure     | 6+  |       12+        |
-| Potent Contact Poison  | 2 *uncommon poisonous*                            |    1 hour     |    2 checks     |    1 Failure     | 5+  |       12+        |
-| Potent Ingested Poison | 2 *uncommon poisonous*                            |    1 hour     |    2 checks     |    1 Failure     | 5+  |       12+        |
-|      Drow Poison       | 3 *rare poisonous*                                |    1 hour     |    2 checks     |    1 Failure     | 6+  |       12+        |
+|          Name          | Ingredients          | Crafting Time | Crafting Checks | Critical Failure | DC  | Flawless Success |
+| :--------------------: | :------------------- | :-----------: | :-------------: | :--------------: | :-: | :--------------: |
+|  Simple Injury Poison  |                      |    1 hour     |    2 checks     |    1 Failure     | 4+  |       10+        |
+| Simple Inhaled Poison  |                      |    1 hour     |    2 checks     |    1 Failure     | 5+  |       10+        |
+| Simple Contact Poison  | 2 *common poisonous* |    1 hour     |    2 checks     |    1 Failure     | 4+  |       10+        |
+| Simple Ingested Poison |                      |    1 hour     |    2 checks     |    1 Failure     | 4+  |       10+        |
+|  Potent Injury Poison  |                      |    1 hour     |    2 checks     |    1 Failure     | 5+  |       12+        |
+| Potent Inhaled Poison  |                      |    1 hour     |    2 checks     |    1 Failure     | 6+  |       12+        |
+| Potent Contact Poison  |                      |    1 hour     |    2 checks     |    1 Failure     | 5+  |       12+        |
+| Potent Ingested Poison |                      |    1 hour     |    2 checks     |    1 Failure     | 5+  |       12+        |
+|      Drow Poison       |                      |    1 hour     |    2 checks     |    1 Failure     | 6+  |       12+        |
 
 ##### Drow Poison (Injury)
 *Poison, rare*

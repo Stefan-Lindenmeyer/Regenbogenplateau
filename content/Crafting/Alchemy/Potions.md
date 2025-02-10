@@ -1,40 +1,40 @@
 ## Common
 
-|         Name         | Ingredients                                   | Crafting Time | Crafting Checks | Critical Failure | DC  | Flawless Success |
-| :------------------: | :-------------------------------------------- | :-----------: | :-------------: | :--------------: | :-: | :--------------: |
-|   Alchemical Acid    | 1 *common reactive* <br> 1 *common poisonous* |    1 hour     |    1 checks     |    1 Failure     | 4+  |       10+        |
-|   Alchemical Fire    | 2 *common reactive*                           |    1 hour     |    1 checks     |    1 Failure     | 4+  |       10+        |
-|    Healing Potion    | 2 *common curative*                           |    1 hour     |    1 checks     |    1 Failure     | 4+  |       10+        |
-| Potion of Firebreath | 3 *common reactive*                           |    1 hour     |    2 checks     |    1 Failure     | 5+  |       10+        |
+|         Name         | Ingredients         | Crafting Time | Crafting Checks | Critical Failure | DC  | Flawless Success |
+| :------------------: | :------------------ | :-----------: | :-------------: | :--------------: | :-: | :--------------: |
+|   Alchemical Acid    |                     |    1 hour     |    1 checks     |    1 Failure     | 4+  |       10+        |
+|   Alchemical Fire    |                     |    1 hour     |    1 checks     |    1 Failure     | 4+  |       10+        |
+|    Healing Potion    | 2 *common curative* |    1 hour     |    1 checks     |    1 Failure     | 4+  |       10+        |
+| Potion of Firebreath |                     |    1 hour     |    2 checks     |    1 Failure     | 5+  |       10+        |
 # Uncommon
 
-|            Name             | Ingredients                                                                                      | Crafting Time | Crafting Checks | Critical Failure | DC  | Flawless Success |
-| :-------------------------: | :----------------------------------------------------------------------------------------------- | :-----------: | :-------------: | :--------------: | :-: | :--------------: |
-|   Greater Healing Potion    | 2 *common curative*<br> 1 *uncommon curative*                                                    |    1 hour     |    2 checks     |    1 Failure     | 5+  |       10+        |
-| Potion of Animal Friendship | 1 *common reactive*<br> 1 *common poisonous*<br> 1 *uncommon curative*                           |    1 hour     |    2 checks     |    1 Failure     | 5+  |       10+        |
-|     Potion of Climbing      | 1 *common reactive*<br> 1 *common poisonous*<br> 1 *uncommon reactive*                           |    1 hour     |    2 checks     |    1 Failure     | 5+  |       10+        |
-|      Potion of Poison       | 2 *common poisonous*<br> 2 *uncommon poisonous*                                                  |    1 hour     |    2 checks     |    1 Failure     | 5+  |       10+        |
-|  Potion of Water Breathing  | 2 *common reactive*<br> 1 *common curative*<br> 1 *uncommon poisonous*<br> 1 *uncommon reactive* |    2 hour     |    2 checks     |    1 Failure     | 6+  |       10+        |
+|            Name             | Ingredients | Crafting Time | Crafting Checks | Critical Failure | DC  | Flawless Success |
+| :-------------------------: | :---------- | :-----------: | :-------------: | :--------------: | :-: | :--------------: |
+|   Greater Healing Potion    |             |    1 hour     |    2 checks     |    1 Failure     | 5+  |       10+        |
+| Potion of Animal Friendship |             |    1 hour     |    2 checks     |    1 Failure     | 5+  |       10+        |
+|     Potion of Climbing      |             |    1 hour     |    2 checks     |    1 Failure     | 5+  |       10+        |
+|      Potion of Poison       |             |    1 hour     |    2 checks     |    1 Failure     | 5+  |       10+        |
+|  Potion of Water Breathing  |             |    2 hour     |    2 checks     |    1 Failure     | 6+  |       10+        |
 
 ## Rare
-|          Name           | Ingredients                                                                                   | Crafting Time | Crafting Checks | Critical Failure | DC  | Flawless Success |
-| :---------------------: | :-------------------------------------------------------------------------------------------- | :-----------: | :-------------: | :--------------: | :-: | :--------------: |
-|    Oil of Sharpness     | 2 *uncommon reactive*<br> 2 *rare poisonous*                                                  |    1 hour     |    4 checks     |    1 Failure     | 7+  |       10+        |
-| Potion of Clairvoyance  | 1 *uncommon reactive*<br> 1 *uncommon poisonous*<br> 1 *rare curative*<br> 1 *rare reactive*  |    1 hour     |    3 checks     |    1 Failure     | 6+  |       10+        |
-|  Potion of Diminution   | 1 *uncommon curative*<br> 1 *uncommon poisonous*<br> 1 *rare curative*<br> 1 *rare poisonous* |    1 hour     |    3 checks     |    1 Failure     | 6+  |       10+        |
-| Potion of Gaseous Form  | 1 *uncommon curative*<br> 1 *uncommon reactive*<br> 1 *rare curative*<br> 1 *rare reactive*   |    1 hour     |    3 checks     |    1 Failure     | 7+  |       10+        |
-|    Potion of Growth     | 1 *uncommon curative*<br> 1 *uncommon reactive*<br> 1 *rare curative*<br> 1 *rare reactive*   |    1 hour     |    3 checks     |    1 Failure     | 6+  |       10+        |
-|    Potion of Heroism    | 1 *uncommon curative*<br> 1 *uncommon reactive*<br> 1 *rare curative*<br> 1 *rare reactive*   |    1 hour     |    3 checks     |    1 Failure     | 6+  |       10+        |
-| Potion of Mind Reading  | 1 *uncommon poisonous*<br> 1 *uncommon reactive*<br> 1 *rare poisonous*<br> 1 *rare reactive* |    2 hours    |    3 checks     |    1 Failure     | 6+  |       10+        |
-| Superior Healing Potion | 1 *uncommon curative*<br> 2 *rare curative*                                                   |    2 hour     |    3 checks     |    1 Failure     | 7+  |       10+        |
+|          Name           | Ingredients | Crafting Time | Crafting Checks | Critical Failure | DC  | Flawless Success |
+| :---------------------: | :---------- | :-----------: | :-------------: | :--------------: | :-: | :--------------: |
+|    Oil of Sharpness     |             |    1 hour     |    4 checks     |    1 Failure     | 7+  |       10+        |
+| Potion of Clairvoyance  |             |    1 hour     |    3 checks     |    1 Failure     | 6+  |       10+        |
+|  Potion of Diminution   |             |    1 hour     |    3 checks     |    1 Failure     | 6+  |       10+        |
+| Potion of Gaseous Form  |             |    1 hour     |    3 checks     |    1 Failure     | 7+  |       10+        |
+|    Potion of Growth     |             |    1 hour     |    3 checks     |    1 Failure     | 6+  |       10+        |
+|    Potion of Heroism    |             |    1 hour     |    3 checks     |    1 Failure     | 6+  |       10+        |
+| Potion of Mind Reading  |             |    2 hours    |    3 checks     |    1 Failure     | 6+  |       10+        |
+| Superior Healing Potion |             |    2 hour     |    3 checks     |    1 Failure     | 7+  |       10+        |
 ## Very rare
 
-|          Name          | Ingredients                                                                                       | Crafting Time | Crafting Checks | Critical Failure | DC  | Flawless Success |
-| :--------------------: | :------------------------------------------------------------------------------------------------ | :-----------: | :-------------: | :--------------: | :-: | :--------------: |
-|    Potion of Flying    | 2 *uncommon reactive*<br> 2 *rare curative*<br> 2 *very rare reactive*                            |    2 hours    |    3 checks     |    1 Failure     | 8+  |       10+        |
-| Potion of Invisibility | 2 *uncommon reactive*<br> 2 *rare curative*<br> 1 *very rare reactive*<br> 1 *very rare curative* |    2 hours    |    3 checks     |    1 Failure     | 8+  |       10+        |
-|    Potion of Speed     | 2 *uncommon reactive*<br> 2 *rare reactive*<br> 1 *very rare reactive*<br> 1 *very rare curative* |    2 hour     |    4 checks     |    1 Failure     | 8+  |       10+        |
-| Supreme Healing Potion | 2 *uncommon curative*<br> 2 *rare curative*<br> 2 *very rare curative*                            |    2 hours    |    4 checks     |    1 Failure     | 8+  |       10+        |
+|          Name          | Ingredients | Crafting Time | Crafting Checks | Critical Failure | DC  | Flawless Success |
+| :--------------------: | :---------- | :-----------: | :-------------: | :--------------: | :-: | :--------------: |
+|    Potion of Flying    |             |    2 hours    |    3 checks     |    1 Failure     | 8+  |       10+        |
+| Potion of Invisibility |             |    2 hours    |    3 checks     |    1 Failure     | 8+  |       10+        |
+|    Potion of Speed     |             |    2 hour     |    4 checks     |    1 Failure     | 8+  |       10+        |
+| Supreme Healing Potion |             |    2 hours    |    4 checks     |    1 Failure     | 8+  |       10+        |
 
 # Alchemical Formula
 

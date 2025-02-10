@@ -130,7 +130,7 @@ Jump to [[#Bottom]]
 # Session 28
 **Shadowfell**
 - Metal bars: 5 Platin, 5 Electrum, 9 Silber, 5 Magent
-- Potions: Climbing, Speed, Angelic Reprieve
+- Potions: 3 unknown
 - 500 XP
 
 # Session 29
@@ -141,11 +141,11 @@ Jump to [[#Bottom]]
 # Session 30
 **Shadowfell**
 - Metal bars: 2 Platin, 16 Electrum, 10 Silber
-- Potions: Firebreath, Oil of Sharpness, Invisibility, Speed
+- Potions: 4 unknown
 **Tania**
 - Metal bars: 3 Mithral, 12 Gold, 4 Platin
 - Metal bars: 32 Silber
-- Potions: Clairvoyance, Growth, Angelic Slumber, Alchemical Fire, Growth
+- Potions: 5 unknown
 - 500 XP
 
 
