@@ -1,40 +1,40 @@
 ## Common
 
-|         Name         | Ingredients         | Crafting Time | Crafting Checks | Critical Failure | DC  | Flawless Success |
-| :------------------: | :------------------ | :-----------: | :-------------: | :--------------: | :-: | :--------------: |
-|   Alchemical Acid    |                     |    1 hour     |    1 checks     |    1 Failure     | 4+  |       10+        |
-|   Alchemical Fire    |                     |    1 hour     |    1 checks     |    1 Failure     | 4+  |       10+        |
-|    Healing Potion    | 2 *common curative* |    1 hour     |    1 checks     |    1 Failure     | 4+  |       10+        |
-| Potion of Firebreath |                     |    1 hour     |    2 checks     |    1 Failure     | 5+  |       10+        |
+|         Name         | Ingredients         | Crafting Time | Crafting Checks | DC  |
+| :------------------: | :------------------ | :-----------: | :-------------: | :-: |
+|   Alchemical Acid    |                     |    1 hour     |    1 checks     | 4+  |
+|   Alchemical Fire    |                     |    1 hour     |    1 checks     | 4+  |
+|    Healing Potion    | 2 *common curative* |    1 hour     |    1 checks     | 4+  |
+| Potion of Firebreath |                     |    1 hour     |    2 checks     | 5+  |
 # Uncommon
 
-|            Name             | Ingredients | Crafting Time | Crafting Checks | Critical Failure | DC  | Flawless Success |
-| :-------------------------: | :---------- | :-----------: | :-------------: | :--------------: | :-: | :--------------: |
-|   Greater Healing Potion    |             |    1 hour     |    2 checks     |    1 Failure     | 5+  |       10+        |
-| Potion of Animal Friendship |             |    1 hour     |    2 checks     |    1 Failure     | 5+  |       10+        |
-|     Potion of Climbing      |             |    1 hour     |    2 checks     |    1 Failure     | 5+  |       10+        |
-|      Potion of Poison       |             |    1 hour     |    2 checks     |    1 Failure     | 5+  |       10+        |
-|  Potion of Water Breathing  |             |    2 hour     |    2 checks     |    1 Failure     | 6+  |       10+        |
+|            Name             | Ingredients | Crafting Time | Crafting Checks | DC  |
+| :-------------------------: | :---------- | :-----------: | :-------------: | :-: |
+|   Greater Healing Potion    |             |    1 hour     |    2 checks     | 5+  |
+| Potion of Animal Friendship |             |    1 hour     |    2 checks     | 5+  |
+|     Potion of Climbing      |             |    1 hour     |    2 checks     | 5+  |
+|      Potion of Poison       |             |    1 hour     |    2 checks     | 5+  |
+|  Potion of Water Breathing  |             |    2 hour     |    2 checks     | 6+  |
 
 ## Rare
-|          Name           | Ingredients | Crafting Time | Crafting Checks | Critical Failure | DC  | Flawless Success |
-| :---------------------: | :---------- | :-----------: | :-------------: | :--------------: | :-: | :--------------: |
-|    Oil of Sharpness     |             |    1 hour     |    4 checks     |    1 Failure     | 7+  |       10+        |
-| Potion of Clairvoyance  |             |    1 hour     |    3 checks     |    1 Failure     | 6+  |       10+        |
-|  Potion of Diminution   |             |    1 hour     |    3 checks     |    1 Failure     | 6+  |       10+        |
-| Potion of Gaseous Form  |             |    1 hour     |    3 checks     |    1 Failure     | 7+  |       10+        |
-|    Potion of Growth     |             |    1 hour     |    3 checks     |    1 Failure     | 6+  |       10+        |
-|    Potion of Heroism    |             |    1 hour     |    3 checks     |    1 Failure     | 6+  |       10+        |
-| Potion of Mind Reading  |             |    2 hours    |    3 checks     |    1 Failure     | 6+  |       10+        |
-| Superior Healing Potion |             |    2 hour     |    3 checks     |    1 Failure     | 7+  |       10+        |
+|          Name           | Ingredients | Crafting Time | Crafting Checks | DC  |
+| :---------------------: | :---------- | :-----------: | :-------------: | :-: |
+|    Oil of Sharpness     |             |    1 hour     |    4 checks     | 7+  |
+| Potion of Clairvoyance  |             |    1 hour     |    3 checks     | 6+  |
+|  Potion of Diminution   |             |    1 hour     |    3 checks     | 6+  |
+| Potion of Gaseous Form  |             |    1 hour     |    3 checks     | 7+  |
+|    Potion of Growth     |             |    1 hour     |    3 checks     | 6+  |
+|    Potion of Heroism    |             |    1 hour     |    3 checks     | 6+  |
+| Potion of Mind Reading  |             |    2 hours    |    3 checks     | 6+  |
+| Superior Healing Potion |             |    2 hour     |    3 checks     | 7+  |
 ## Very rare
 
-|          Name          | Ingredients | Crafting Time | Crafting Checks | Critical Failure | DC  | Flawless Success |
-| :--------------------: | :---------- | :-----------: | :-------------: | :--------------: | :-: | :--------------: |
-|    Potion of Flying    |             |    2 hours    |    3 checks     |    1 Failure     | 8+  |       10+        |
-| Potion of Invisibility |             |    2 hours    |    3 checks     |    1 Failure     | 8+  |       10+        |
-|    Potion of Speed     |             |    2 hour     |    4 checks     |    1 Failure     | 8+  |       10+        |
-| Supreme Healing Potion |             |    2 hours    |    4 checks     |    1 Failure     | 8+  |       10+        |
+|          Name          | Ingredients | Crafting Time | Crafting Checks | DC  |
+| :--------------------: | :---------- | :-----------: | :-------------: | :-: |
+|    Potion of Flying    |             |    2 hours    |    3 checks     | 8+  |
+| Potion of Invisibility |             |    2 hours    |    3 checks     | 8+  |
+|    Potion of Speed     |             |    2 hour     |    4 checks     | 8+  |
+| Supreme Healing Potion |             |    2 hours    |    4 checks     | 8+  |
 
 # Alchemical Formula
 
@@ -50,7 +50,7 @@ This sticky, adhesive fluid ignites when exposed to air. As an action, you can t
 ___
 This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged Attack against a creature or object, treating the alchemist's fire as an Improvised Weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
 
-*On critical success:* Creates a flask two flasks of *alchemical fire*.
+*On critical success:* Creates two flasks of *alchemical fire*.
 ##### Greater Healing Potion
 *Potion, uncommon*
 ___
@@ -66,7 +66,7 @@ You regain 2d4 + 2 Hit Points when you drink this potion. The potion's red liqui
 *On critical success:* Creates a *greater healing potion* instead. If you do not know the recipe for *greater healing potion* you may make one free immediate innovation check to learn it.
 
 ##### Oil of Sharpness
-*Oil, very rare*
+*Oil, rare*
 ___
 This clear, gelatinous oil sparkles with tiny, ultrathin silver shards. The oil can coat one slashing or piercing weapon or up to 5 pieces of slashing or piercing ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item is magical and has a +3 bonus to attack and damage rolls.
 

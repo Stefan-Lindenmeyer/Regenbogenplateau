@@ -254,7 +254,14 @@ Zyklus 5: Shopping District & Stealth & Nightwing Bat
 Mindless ausrauben
 Tanias (verlassenes) Haus besuchen
 
-### Session 31
+### ### Session 31
 [10850 XP]
+Sui am Baum Konversation
+Apeshifter holen Nessy
+
+### Session 32
+[11050 XP]
+Gregor in Mahlbach
+Palia vor Banditen retten
 
 # Bottom

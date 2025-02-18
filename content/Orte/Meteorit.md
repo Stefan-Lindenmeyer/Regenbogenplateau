@@ -8,4 +8,4 @@ Einmal im Jahr halten die [[Riesen]] einen Wettstreit wer den Meteoriten bewegen
 
 ### Beschreibung
 Der Meteorit besteht aus einem transparenten sehr schweren Material. Es ähnelt einem großen Ball Glas oder Kristall, jedoch ist das Material magisch und nahezu unzerstörbar und auch nicht leicht mit Magie bewegbar. Der Meteorit hat einen Durchmesser von ca. 5m und wiegt mehr als 160 Tonnen (siehe Glasgewicht).
-Innerhalb des Meteoriten ist eine humanoide Kreatur eingefroren und gut zu sehen. Jedoch besteht sie beinahe vollends aus mechanischen Metallteilen die beinahe wie eine Rüstung aussehen. Hierbei handelt es sich wahrscheinlich um einen [[Warforged]] aus der Warianischen Periode.
+Innerhalb des Meteoriten ist eine humanoide Kreatur eingefroren und gut zu sehen. Jedoch besteht sie beinahe vollends aus mechanischen Metallteilen die beinahe wie eine Rüstung aussehen. Hierbei handelt es sich wahrscheinlich um einen [[Harmon]] aus der Warianischen Periode.

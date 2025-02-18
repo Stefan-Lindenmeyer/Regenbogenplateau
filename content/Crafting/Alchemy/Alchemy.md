@@ -3,6 +3,23 @@
 ***Rarities:*** _common, uncommon, rare, very rare,_ and _legendary_
 [[Alchemical Ingredients]]
 A character needs **Alchemical Supplies** to craft alchemical brews
+
+# Rarity
+A brews rarity is derived from its rarest ingredient.
+
+# Critical Success
+The DC you have to achieve for a Critical success depends on the rarity of the potion if not otherwise stated. (You still have to roll a Nat 6 for a crit success.)
+
+| Rarity    | Critical Success |
+| --------- | :--------------: |
+| Common    |        10        |
+| Uncommon  |        11        |
+| Rare      |        12        |
+| Very Rare |        13        |
+| Legendary |        14        |
+
+# Failure
+All Alchemical Brews have a Critical Failure rate of 1 Failure. If you fail 1 check, the crafting fails and you lose all ingredients.
 # Alchemical Brews
 ## Potions
 ***Types:*** _potion, concoction, oil_ 
@@ -15,16 +32,6 @@ A character needs **Alchemical Supplies** to craft alchemical brews
 ***Types:*** _contact, ingested, inhaled, and injury_
 [[Poisons]]
 DMG on page 257
-
-## Exotic Potions
-- Only exotic ingredients used.
-- Does not need recipe.
-- 1 hour crafting time.
-- DC of all exotic ingredients added
-- 1 check per ingredient
-- Combined effect of exotic ingredients
-#### Combination with standard potion
-Add DC of standard potion to DC of all exotic ingredients
 
 # Increasing Alchemy Skill
 Alchemy skill cannot be higher than Int or Wis mod.

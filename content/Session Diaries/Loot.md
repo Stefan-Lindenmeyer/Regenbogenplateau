@@ -148,5 +148,14 @@ Jump to [[#Bottom]]
 - Potions: 5 unknown
 - 500 XP
 
+# Session 31
+**Sui**
+- 4 Wisteria Blütenstränge
+
+# Session 32
+**Mahlbach**
+- Riumgeode
+- 5 Wurfmesser
+- Longsword
 
 # Bottom

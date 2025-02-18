@@ -1,3 +1,10 @@
+# 18.02.2025
+- Removed "Exotic Ingredients" and "Exotic potions" from [[Alchemical Ingredients]] to streamline [[Alchemy]]
+- Removed "Critical Failure" and "Flawless Success" from all potions tables and made it a note in [[Alchemy]] 
+- Updated [[Loot]] Session 31 & 32
+- Updated [[Timeline]] Session 31 & 32
+- Added [[Andere]] in Kreaturen
+
 # 09.02.2025
 - Updated [[Loot]] Session 30
 - Updated [[Timeline]] Session 30
@@ -12,6 +19,7 @@
 - Added text to [[Shadowfell]], [[Meria Baumhaus]], [[Obsidian Spider Nest]], [[Schutzzauberbäume]], [[Spelljammer Friedhof]]
 - Added [[Alte Siedlung]] & [[Trankblutwelt]]
 - Renamed Terraner and Zyrann Thronns Volk into [[Drohnen]] and [[Drowned]] and changed some info about them
+
 # 19.01.2025
 - Updated [[Loot]] Session 29
 - Updated [[Timeline]] Session 29
