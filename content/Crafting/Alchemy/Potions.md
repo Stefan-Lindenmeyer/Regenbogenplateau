@@ -1,12 +1,17 @@
 ## Common
 
+Critical Success: 10+
+
 |         Name         | Ingredients         | Crafting Time | Crafting Checks | DC  |
 | :------------------: | :------------------ | :-----------: | :-------------: | :-: |
 |   Alchemical Acid    |                     |    1 hour     |    1 checks     | 4+  |
 |   Alchemical Fire    |                     |    1 hour     |    1 checks     | 4+  |
+|       Antidote       |                     |    1 hour     |    2 checks     | 5+  |
 |    Healing Potion    | 2 *common curative* |    1 hour     |    1 checks     | 4+  |
 | Potion of Firebreath |                     |    1 hour     |    2 checks     | 5+  |
 # Uncommon
+
+Critical Success: 11+
 
 |            Name             | Ingredients | Crafting Time | Crafting Checks | DC  |
 | :-------------------------: | :---------- | :-----------: | :-------------: | :-: |
@@ -17,6 +22,9 @@
 |  Potion of Water Breathing  |             |    2 hour     |    2 checks     | 6+  |
 
 ## Rare
+
+Critical Success: 12+
+
 |          Name           | Ingredients | Crafting Time | Crafting Checks | DC  |
 | :---------------------: | :---------- | :-----------: | :-------------: | :-: |
 |    Oil of Sharpness     |             |    1 hour     |    4 checks     | 7+  |
@@ -28,6 +36,8 @@
 | Potion of Mind Reading  |             |    2 hours    |    3 checks     | 6+  |
 | Superior Healing Potion |             |    2 hour     |    3 checks     | 7+  |
 ## Very rare
+
+Critical Success: 13+
 
 |          Name          | Ingredients | Crafting Time | Crafting Checks | DC  |
 | :--------------------: | :---------- | :-----------: | :-------------: | :-: |
@@ -43,7 +53,7 @@
 ___
 This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged Attack against a creature or object, treating the alchemist's acid as an Improvised Weapon. On a hit, the target takes 2d4 acid damage.
 
-*On critical success:* Creates a flask two flasks of *alchemical acid*.
+*On critical success:* Creates two flasks of *alchemical acid*.
 
 ##### Alchemical Fire
 *Concoction, common*
@@ -51,6 +61,15 @@ ___
 This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged Attack against a creature or object, treating the alchemist's fire as an Improvised Weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
 
 *On critical success:* Creates two flasks of *alchemical fire*.
+
+##### Antidote
+*Potion, common*
+___
+Description
+
+Removes the poisoned condition from a creature drinking the Antidote.
+*On critical success:* Creates two bottles of *antidote*.
+
 ##### Greater Healing Potion
 *Potion, uncommon*
 ___

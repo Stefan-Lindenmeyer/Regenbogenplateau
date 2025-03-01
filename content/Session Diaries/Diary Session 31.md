@@ -1,0 +1,13 @@
+Die Party hat ihr Ziel im Blick und betritt die Insel im Fluss auf welcher ein imposanter Baum mit hängenden lila Blüten und üppiger Vegetation die umgebende Dunkelheit zurückhält.
+Als sie die Gegend untersuchen hören sie eine Stimme, die nur einer von ihnen wirklich versteht. Für die anderen raschelt die Stimme wie die Blätter und Gräser der Umgebung.
+Peter unterhält sich mit der Stimme welche sich als Fey Geist namens Sui herausstellt.
+Sie lebt seit Ewigkeiten bereits in dem Baum und berichtet von ihrer Einsamkeit.
+Sie erzählt ihnen von der Seele welche in ihrem Baum lebt, und dass diese sehr verschlossen, wütend und traurig ist und nicht mit Sui kommunizieren will.
+Die Party mutmaßt, dass es sich hierbei um einen Teil von Merias Seele handelt.
+Sui möchte ihnen ein Geschenk machen, da sie ihr Gesellschaft leisten. Sie lässt ein paar Zweige herab und löst vier Blütenstränge davon. Von diesen behauptet sie, dass sie Schutz vor der Dunkelheit geben solange man sie bei sich trägt. Sie wünschte sie könnte mehr geben, jedoch ist ihre magische Energie knapp weil ein Golem oft zu ihrem Baum kommt und ihre Essenzen stiehlt. Wenn die Party gegen ihn vorgeht, kann sie mehr Energie erzeugen und somit mehreren Leuten den Zugang zu ihr gewähren.
+Iloril experimentiert mit den Kräften der Blüten und stellt fest, dass diese an sie persönlich gebunden sind, und dass er die Blüten seinem Homunculus mitgeben kann, jedoch kann er dann nicht mehr davon profitieren.
+Nachdem sie Sui zugesichert haben, dass sie sich um den Golem kümmern, gehen sie zurück in das Dorf um Bericht zu erstatten.
+Auf dem Weg dorthin sehen sie wie mehrere Dutzend riesige Insekten auf sie zufliegen. Sie versuchen wegzurennen, was sich als fruchtlos erweist. Nessy bemerkt, dass viele der Insekten recht affenartige Körperteile haben und dass eines der Insekten sehr viel größer ist als die anderen.
+Sie umringen Nessy und ihr Anführer landet in der Mitte, direkt vor ihr und verwandelt sich in einen riesigen Affen. Er stellt sich vor als Mabalu, der Avatar des Affengotts, und berichtet, dass sie auf der Suche nach Carmei sind einer Forscherin der Apeshifter, welche wollen, dass die ganze Welt an ihrer Affigkeit teilhaben kann. Hierzu studieren sie verschiedenste Kreaturen, um sich in sie zu verwandeln. Es scheint als hätte Nessy das Buch in dem Carmei all ihre Nachforschungen festgehalten hat von ihrer Familie geerbt. 
+Nach einiger weiterer Erklärung ihres Vorhabens schlägt Mabalu vor, dass Nessy ihnen beitritt, woraufhin sie enthusiastisch zustimmt und auf dem Rücken des riesigen Affeninsekts vom Plateau reitet.
+Die anderen blicken ihr mit sehsüchtigen Blicken hinterher und machen sich auf um ins Dorf zu kommen.

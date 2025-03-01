@@ -12,11 +12,11 @@ The DC you have to achieve for a Critical success depends on the rarity of the p
 
 | Rarity    | Critical Success |
 | --------- | :--------------: |
-| Common    |        10        |
-| Uncommon  |        11        |
-| Rare      |        12        |
-| Very Rare |        13        |
-| Legendary |        14        |
+| Common    |       10+        |
+| Uncommon  |       11+        |
+| Rare      |       12+        |
+| Very Rare |       13+        |
+| Legendary |       14+        |
 
 # Failure
 All Alchemical Brews have a Critical Failure rate of 1 Failure. If you fail 1 check, the crafting fails and you lose all ingredients.
@@ -27,6 +27,12 @@ All Alchemical Brews have a Critical Failure rate of 1 Failure. If you fail 1 ch
 
 ## ???
 ***Types:*** _temporary, permanent_ 
+Requires Alchemy Skill 1 to craft
+Requires Alchemy Skill 2 to innovate
+
+## ????
+Requires Alchemy Skill 2 to craft
+Requires Alchemy Skill 3 to innovate
 
 ## Poisons
 ***Types:*** _contact, ingested, inhaled, and injury_

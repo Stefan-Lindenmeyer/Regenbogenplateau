@@ -1,3 +1,10 @@
+# 01.03.2025
+- Added Antidote to [[Potions]]
+- Added Skill gates to [[Alchemy#???]]
+- Added [[Diary Session 31]]
+- Added [[Diary Session 32]]
+- Added [[Ring of Soul Connection]]
+
 # 18.02.2025
 - Removed "Exotic Ingredients" and "Exotic potions" from [[Alchemical Ingredients]] to streamline [[Alchemy]]
 - Removed "Critical Failure" and "Flawless Success" from all potions tables and made it a note in [[Alchemy]] 
