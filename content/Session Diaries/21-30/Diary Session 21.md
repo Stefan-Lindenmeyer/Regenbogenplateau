@@ -12,6 +12,7 @@ Nach kurzem Informationsaustauch (weiß nicht mehr was gesagt wurde, sorry) und 
 
 Die Party frühstückt und Miruna berichtet nach einiger Überredung ihre Erfahrungen mit dem Zyrann Thronn der letzten Tage und offenbart alle Informationen aus dem Traum der Nacht.
 
-Zuletzt besprechen die PCs ihr weiteres Vorgehen. Sie planen vorzutäuschen, dass sie dem Zyrann Thronn helfen indem sie die Artificer betrügen sodass sie die Barriere senken statt stärken. Hierdurch erhoffen sie sich, dass der Zyrann Thronn gestärkt wird und ihnen Ressourcen zur Verfügung stellt, damit sie den Hunter effektiv zusammen bekämpfen können.
-In Wirklichkeit wollen sie die Artificer überreden die Barriere nur temporär zu schwächen, sodass sie später wieder hochgefahren werden kann.
-Danach wollen sie den Zyrann Thronn und seine Gefolgsleute hintergehen und ihn somit auch stark schwächen und das Trankblut von den Drohnen stehlen.
+Zuletzt besprechen die PCs ihr weiteres Vorgehen. Sie planen vorzutäuschen, dass sie dem Zyrann Thronn helfen indem sie die Artificer betrügen sodass sie die Barriere senken statt stärken im Austausch für ein Versprechen, dass seine Streitkräfte keine der Dorfbewohner und Meria angreifen und auch dort niemanden stationieren. Hierdurch erhoffen sie sich, dass der Zyrann Thronn gestärkt wird und ihnen Ressourcen zur Verfügung stellt, damit sie den Hunter effektiv zusammen bekämpfen können.
+In Wirklichkeit wollen sie die Artificer überreden die Barriere nur temporär zu schwächen um die Hilfe gegen den Hunter zu bekommen, sodass sie später wieder hochgefahren werden kann.
+Danach wollen sie den Zyrann Thronn, und die Drones die er ihnen zur Verfügung gestellt hat, hintergehen und ihn somit auch stark schwächen und das Trankblut von den Drohnen stehlen.
+Weiterhin wollen sie die Mindless im schwarzen Nebel auf irgendeine Art einzäunen oder von der Gruppe Artificer fernhalten wenn diese dorthin kommt um die Barriere zu modifizieren da die Party währenddessen mit dem Hunter beschäftigt sein wird.

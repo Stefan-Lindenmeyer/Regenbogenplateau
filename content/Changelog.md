@@ -1,3 +1,5 @@
+# -
+- Expanded Info in [[Diary Session 21]]
 # 01.03.2025
 - Added Antidote to [[Potions]]
 - Added Skill gates to [[Alchemy#???]]
