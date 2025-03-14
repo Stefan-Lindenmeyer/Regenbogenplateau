@@ -4,6 +4,7 @@
 - Move [[Loot]] into Session Diaries
 - Added [[Diary Session 33]]
 - Added [[Diary Session 34]]
+- Added [[Meria x Harmon]]
 - Updated [[Timeline]] Session 33 & 34 & 35
 - Updated [[Loot]] Session 34 & 35
 # 01.03.2025
