@@ -26,7 +26,6 @@ All Alchemical Brews have a Critical Failure rate of 1 Failure. If you fail 1 ch
 [[Potions]]
 
 ## ???
-***Types:*** _temporary, permanent_ 
 Requires Alchemy Skill 1 to craft
 Requires Alchemy Skill 2 to innovate
 
@@ -55,3 +54,4 @@ You can get Alchemy skill 3 by...
 * Completing 10 legendary potions, or...
 * Inventing a legendary potion recipe.
 
+TBD: You can get Alchemy skill 4 by...

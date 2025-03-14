@@ -209,7 +209,7 @@ Lange Rast
 ### Session 24 cont.
 Galinor Nessy vorstellen
 Zu Meteor gehen
-Kampf mit Warforged & Scharfscshütze & Armadilloochsen
+Kampf mit Warforged & Scharfschütze & Armadilloochsen
 ### Session 25
 [6890 XP | Level 5]
 Konversation mit Harmon über seine Herkunft
@@ -254,7 +254,7 @@ Zyklus 5: Shopping District & Stealth & Nightwing Bat
 Mindless ausrauben
 Tanias (verlassenes) Haus besuchen
 
-### ### Session 31
+### Session 31
 [10850 XP]
 Sui am Baum Konversation
 Apeshifter holen Nessy
@@ -264,4 +264,38 @@ Apeshifter holen Nessy
 Gregor in Mahlbach
 Palia vor Banditen retten
 
+### Session 33
+[11111 XP]
+Harmon Gebietstour
+Peter trifft Gregor am Handelshaus
+Harmon geht zu Meria
+Party besucht Aricor und Lirion
+Iloril craftet
+
+### Session 34
+[11200 XP]
+Abends trinken und schwangere Frauen nerven
+Harmon erzählt über Meria Gespräch
+Lange Rast
+# Tag 14
+
+### Session 34 cont.
+Gregor Insanity in Nebelzone
+Sui weist den Weg
+Suche nach dem Potion Golem
+Potion golem kampf
+
+### Session 35
+[12000 XP]
+Gregor findet Alchemy Stash
+Sui Bericht erstatten
+Planen ZT & Hunter
+Nebeldorf und Schiffsfriedhof erkunden
+Meria besuchen
+Wurzeln untersuchen
+Lange Rast
+
+# Tag 15
+### Session 35 cont.
+Meria Zone of Truth Gespräch
 # Bottom

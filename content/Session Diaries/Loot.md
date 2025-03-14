@@ -158,4 +158,14 @@ Jump to [[#Bottom]]
 - 5 Wurfmesser
 - Longsword
 
+# Session 34
+**Sui**
+- 1 Wisteria Blütenstrang (Gregor)
+**Potion Golem**
+- Uncommon omnityped catalyst
+- Brown potion mixture
+
+# Session 35
+**Shadowfell**
+- Alchemical Ingredients: 9 common (4 curative, 5 reactive), 8 uncommon (4 curative, 4 reactive), 3 rare (2 curative, 1 poisonous)
 # Bottom

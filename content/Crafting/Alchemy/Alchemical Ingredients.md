@@ -1,12 +1,12 @@
 # Rarities
 There are five rarities of ingredients: *common*, *uncommon*, *rare*, *very rare* and *legendary*
-
 # Types
 There are 3 common types, that most potions can be made out of. If an ingredient falls into one category, it can generally be use as a substitute in a recipe for others of the same type.
 The types are: curative, reactive, poisonous
 # Catalyst
 A catalyst can substitute an ingredient of lower rarity and not be used up in the recipe. Or it can substitute an ingredient of the same rarity and be used up.
 Example: An uncommon reactive catalyst can be used as a common reactive ingredient without being destroyed.
+Only one catalyst can be used in each recipe.
 # Harvesting
 ## Foraging
 Takes 8+ hours.

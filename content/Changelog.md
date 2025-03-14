@@ -1,5 +1,11 @@
-# -
+# 14.03.2025
 - Expanded Info in [[Diary Session 21]]
+- Added "only one per recipe"-rule to catalysts [[Alchemical Ingredients]]
+- Move [[Loot]] into Session Diaries
+- Added [[Diary Session 33]]
+- Added [[Diary Session 34]]
+- Updated [[Timeline]] Session 33 & 34 & 35
+- Updated [[Loot]] Session 34 & 35
 # 01.03.2025
 - Added Antidote to [[Potions]]
 - Added Skill gates to [[Alchemy#???]]

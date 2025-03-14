@@ -1,0 +1,16 @@
+Nachdem Nessy erfolgreich entführt wurde und die Party zum Dorf zurückgekehrt ist um zu rasten gibt Peter Harmon eine kleine Tour des Gebiets. Leider kommen sie zusammen nicht sehr viel weiter als bis zum Handelshaus. Dort begegnen sie einem Paladin namens Gregor, welcher von Nael Ladrian als Verstärkung geschickt worden ist. Peter und Gregor erkennen sich zuerst nicht, obwohl sie sich schon einmal getroffen haben aber nach kurzer Zeit geht ihnen doch ein Licht auf.
+Sie gehen zurück ins Dorf und verabschieden Harmon für den Tag weil er einen Ausflug in den Wald vornimmt um die Hag zu treffen.
+
+Im Dorf trifft Gregor auf Iloril, welcher an seiner Schmiedekunst gearbeitet hat, und Miruna, welche sich weiterhin ausruht, und zusammen gehen sie zu Galinor um ihm Bericht zu erstatten. Dies verläuft ohne große Probleme, jedoch kommt Gregor nicht zu Wort, was aver positiv ist, da er nicht lügen kann und somit seinen Auftraggeber nicht preisgibt.
+Daraufhin besuchen die drei Lirion um sich über seine Forschung der Elektrokraken zu informieren. Sie finden einen der Kraken komplett zerschnitten und zerstört vor und Lirion berichtet erfreut über seine Erkenntisse. Er schlägt vor, dass die Kraken im Kampf entweder zum ändern des Schadenstyps benutzt werden können, oder, dass sie einem erhöhte Ausweichfähigkeiten geben können. Weiterhin stellt er fest, dass sie einen Einfluss auf magische Geräte haben und deren Funktion unterdrücken. Somit könnten die Kraken eventuell in der Entwicklung von magischen Maschinen oder in der Alchemie nützlich sein. Dies erfordert aber noch längere Forschung.
+Danach gehen sie zu Aricor um die Untersuchungsergebnisse des Regenbogenblutes zu erfahren. Diese sind wie folgt:
+- Magisches Blut welches Magie natürlich aus der Umgebung aufnimmt und schubartig abgeben kann.
+- Scheint ein wenig lebendig zu sein / eigenen Willen zu haben aber unsicher wie genau das funktioniert.
+- Hat verschiedenste Aspekte und Layer, jeder hat einen eigenen Magietyp. Genauere Untersuchung könnte Wochen oder Monate dauern und bräuchte mehrere frische Proben in der Zeit und am besten mit höherem Regenbogengehalt.
+- Vermischt sich mit dem normalen Blut, aber eher wie eine Emulsion anstatt ein homogenes Gemisch.
+- Wenn so eine Substanz oft und regelmäßig geerntet werden kann könnte man sie vermarkten, als Magie für die Massen oder als Treibstoff für magische Geräte.
+- Weiterhin könnte man hiermit eventuell die Synchronisation von Körper und magischer Prothese erhöhen.
+Iloril stimmt zu ihm regelmäßig weitere Blutproben zu geben und auf Anfrage nimmt sich auch Gregor Blut ab um Aricors Wissensdurst zu stehlen.
+
+Zuletzt sehen sie bei Elitre nach dem Rechten. Sie berichtet, dass es ihr gut geht und dass ihr Mann erst einmal mit der Situation zurechtkommen muss bis sie wieder ordentlich zusammenleben oder -arbeiten können. Sie möchte ultimativ aber trotzdem ihr Heim verlassen. Hierbei fragt sie nach Miruna und ist sehr traurig über die Neuigkeiten ihrer Situation, wünscht ihr aber gute Besserung. Mit ihrer Forschung ist sie nicht viel weiter gekommen, da sie nur limitierte Zeit am Tag wach sein kann.
+Die Party verabschiedet sich und geht in die Taverne.
