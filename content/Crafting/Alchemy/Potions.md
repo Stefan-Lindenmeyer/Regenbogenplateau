@@ -25,26 +25,28 @@ Critical Success: 11+
 
 Critical Success: 12+
 
-|          Name           | Ingredients | Crafting Time | Crafting Checks | DC  |
-| :---------------------: | :---------- | :-----------: | :-------------: | :-: |
-|    Oil of Sharpness     |             |    1 hour     |    4 checks     | 7+  |
-| Potion of Clairvoyance  |             |    1 hour     |    3 checks     | 6+  |
-|  Potion of Diminution   |             |    1 hour     |    3 checks     | 6+  |
-| Potion of Gaseous Form  |             |    1 hour     |    3 checks     | 7+  |
-|    Potion of Growth     |             |    1 hour     |    3 checks     | 6+  |
-|    Potion of Heroism    |             |    1 hour     |    3 checks     | 6+  |
-| Potion of Mind Reading  |             |    2 hours    |    3 checks     | 6+  |
-| Superior Healing Potion |             |    2 hour     |    3 checks     | 7+  |
+|            Name            | Ingredients | Crafting Time | Crafting Checks | DC  |
+| :------------------------: | :---------- | :-----------: | :-------------: | :-: |
+|      Oil of Sharpness      |             |    1 hour     |    4 checks     | 7+  |
+|   Potion of Clairvoyance   |             |    1 hour     |    3 checks     | 6+  |
+|    Potion of Diminution    |             |    1 hour     |    3 checks     | 6+  |
+|   Potion of Gaseous Form   |             |    1 hour     |    3 checks     | 7+  |
+|      Potion of Growth      |             |    1 hour     |    3 checks     | 6+  |
+|     Potion of Heroism      |             |    1 hour     |    3 checks     | 6+  |
+|   Potion of Mind Reading   |             |    2 hours    |    3 checks     | 6+  |
+|  Superior Healing Potion   |             |    2 hour     |    3 checks     | 7+  |
+| Potion of Angelic Reprieve |             |    4 hours    |    3 checks     | 7+  |
 ## Very rare
 
 Critical Success: 13+
 
-|          Name          | Ingredients | Crafting Time | Crafting Checks | DC  |
-| :--------------------: | :---------- | :-----------: | :-------------: | :-: |
-|    Potion of Flying    |             |    2 hours    |    3 checks     | 8+  |
-| Potion of Invisibility |             |    2 hours    |    3 checks     | 8+  |
-|    Potion of Speed     |             |    2 hour     |    4 checks     | 8+  |
-| Supreme Healing Potion |             |    2 hours    |    4 checks     | 8+  |
+|           Name            | Ingredients | Crafting Time | Crafting Checks | DC  |
+| :-----------------------: | :---------- | :-----------: | :-------------: | :-: |
+|     Potion of Flying      |             |    2 hours    |    3 checks     | 8+  |
+|  Potion of Invisibility   |             |    2 hours    |    3 checks     | 8+  |
+|      Potion of Speed      |             |    2 hour     |    4 checks     | 8+  |
+|  Supreme Healing Potion   |             |    2 hours    |    4 checks     | 8+  |
+| Potion of Angelic Slumber |             |    6 hours    |    4 checks     | 8+  |
 
 # Alchemical Formula
 

@@ -92,8 +92,10 @@ Jump to [[#Bottom]]
 **Corvus**
 - 3 Dosen Regenbogenblut
 - Sending Implantat Miruna
+
 **Spelljammer**
 - Spelljammer Helm "abgegeben"
+
 **Lager**
 - Brennbares Öl
 - Brennbarer Alkohol
@@ -130,7 +132,7 @@ Jump to [[#Bottom]]
 # Session 28
 **Shadowfell**
 - Metal bars: 5 Platin, 5 Electrum, 9 Silber, 5 Magent
-- Potions: 3 unknown
+- Potions:  Climbing, Speed, Angelic Reprieve
 - 500 XP
 
 # Session 29
@@ -141,11 +143,12 @@ Jump to [[#Bottom]]
 # Session 30
 **Shadowfell**
 - Metal bars: 2 Platin, 16 Electrum, 10 Silber
-- Potions: 4 unknown
+- Potions: Firebreath, Oil of Sharpness, Invisibility, Speed
+
 **Tania**
 - Metal bars: 3 Mithral, 12 Gold, 4 Platin
 - Metal bars: 32 Silber
-- Potions: 5 unknown
+- Potions: Clairvoyance, Growth, Angelic Slumber, Alchemical Fire, Growth
 - 500 XP
 
 # Session 31
@@ -161,6 +164,7 @@ Jump to [[#Bottom]]
 # Session 34
 **Sui**
 - 1 Wisteria Blütenstrang (Gregor)
+
 **Potion Golem**
 - Uncommon omnityped catalyst
 - Brown potion mixture
@@ -168,4 +172,18 @@ Jump to [[#Bottom]]
 # Session 35
 **Shadowfell**
 - Alchemical Ingredients: 9 common (4 curative, 5 reactive), 8 uncommon (4 curative, 4 reactive), 3 rare (2 curative, 1 poisonous)
+
+# Session 36
+**Harvesting in Shadowfell**
+- Alchemical Ingredients: 3 common (2 curative, 1 reactive), 2 uncommon (1 poison,  1 curative)
+
+**Kategwyn**
+Verlieren (Siehe [[#Session 30]]):
+- Metal bars: 3 Mithral, 12 Gold, 4 Platin
+- Metal bars: 32 Silber
+- Potions: Clairvoyance, Growth, Angelic Slumber, Alchemical Fire, Growth
+Bekommen:
+- 1 Dosis Regenbogenblut
+- 1 Potion of Growth
+
 # Bottom

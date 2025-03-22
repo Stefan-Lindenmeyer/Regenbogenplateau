@@ -298,4 +298,12 @@ Lange Rast
 # Tag 15
 ### Session 35 cont.
 Meria Zone of Truth Gespräch
+
+### Session 36
+[12300 XP]
+Planen ZT & Hunter
+Mit Perlstein experimentieren
+Verhandlungen mit Kategwyn
+Sui Post-Deal Diskussion & weiter planen
+
 # Bottom

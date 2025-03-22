@@ -19,6 +19,9 @@ All base materials have two difficulties associated with them:
 
 There are additional optional techniques that can be applied to add modifiers to a weapon that it would not normally have. These are _optional_ and increase the difficulty of the craft, but make it a special item with unique nonstandard properties. These techniques cannot be applied without knowing them. They must be taught, learned, or innovated before they can be used, and even once known add difficulty to the craft (there is no penalty modifier for these, because they cannot be used without having the technique known)
 
+## Innovation
+Smithing can only be learned by practicing. You cannot innovate a recipe for a smithing object.
+
 ## Increasing Blacksmithing Skill
 
 You start with Blacksmithing Skill 0.

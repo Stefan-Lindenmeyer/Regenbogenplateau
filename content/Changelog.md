@@ -1,3 +1,11 @@
+# -
+- Updated [[Timeline]] Session 36
+- Updated [[Loot]] Session 36
+- Added [[Diary Session 35]]
+- Added [[Diary Session 36]]
+- Added [[Naels Brief an Gregor]]
+- Added Electrum in [[Smithing Objects]]
+- Removed ability to innovate smithing objects
 # 14.03.2025
 - Expanded Info in [[Diary Session 21]]
 - Added "only one per recipe"-rule to catalysts [[Alchemical Ingredients]]

@@ -68,5 +68,6 @@
 | ----------------- | ------------------------------------- | ------------- | --------------- | ---------------- | :-: | ---------------- |
 | Wondrous Figurine | 1 _ingot_                             | 8 hours       | 8 checks        | 2 Failures       | 7+  | 14+              |
 | Mechanical Toy    | 2 _metal plates_ <br>5 _metal shafts_ | 3 hours       | 3 checks        | 3 Failures       | 4+  | 7+               |
+| 2 Electrum ingot  | 1 *gold ingot*<br>1 *silver ingot*    | 1 hour        | 1 check         | 3 Failures       | 5+  | 8+               |
 
 
