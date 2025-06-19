@@ -5,13 +5,13 @@ Nach der kurzen Rast läuft Miruna eine kurze Distanz von den Schiffen weg - die
 Als die drei wieder zurückkommen, kommt plötzlich einer der Geleemänner aus dem Boden und greift sie an.
 Sie liefern sich einen Kampf mit ihm bei dem Peter den meisten Schaden machte, schlagen ihn K.O., fesseln ihn und rasten dann noch einmal kurz ein wenig.
 Als er aufwacht, befragen sie ihn zu diversen Themen.
-Er sagt ihnen, dass er hier hergekommen ist, um die Schmetterlinge zu kontrollieren, und dass er für den Lorion Narex und zum Spaß kämpft.
-Er erzählt ihnen dass der Lorion Narex eine Maschine ist und an die Oberfläche kommen möchte, um diese nach seinen Wünschen umzuformen.
+Er sagt ihnen, dass er hier hergekommen ist, um die Schmetterlinge zu kontrollieren, und dass er für den Zyrann Thronn und zum Spaß kämpft.
+Er erzählt ihnen dass der Zyrann Thronn eine Maschine ist und an die Oberfläche kommen möchte, um diese nach seinen Wünschen umzuformen.
 Sie erfahren weiterhin, dass noch mehr wie er Untergrund leben und dorthin gedrängt wurden als das Wasser im Gebiet ablief.
-Er gibt Preis, dass in Zukunft noch mehr Anhänger des Lorion Narex an die Oberfläche kommen, um gegen die Bewohner dort vorzugehen.
-Er behauptet, dass sie noch viel stärker werden könnten, wenn sie mehr Blut des Lorion Narex in sich aufnehmen.
+Er gibt Preis, dass in Zukunft noch mehr Anhänger des Zyrann Thronn an die Oberfläche kommen, um gegen die Bewohner dort vorzugehen.
+Er behauptet, dass sie noch viel stärker werden könnten, wenn sie mehr Blut des Zyrann Thronn in sich aufnehmen.
 Um so länger die Unterhaltung stattfindet, umso misstrauischer wird der Gefangene gegenüber der Party.
-Zuletzt versucht Miruna über eine magisch in seinen Kopf versandte Nachricht vorzugeben der Lorion Narex zu sein und ihn anzuweisen sie zu ihm zu führen.
+Zuletzt versucht Miruna über eine magisch in seinen Kopf versandte Nachricht vorzugeben der Zyrann Thronn zu sein und ihn anzuweisen sie zu ihm zu führen.
 Das geht jedoch sehr schief und wird direkt durchschaut, er beschuldigte Iloril, den er sowieso schon nicht mochte, dass er ein Lügner ist und die Party niemals vom Lorion Narex anerkannt wird.
 Seinen Namen erfahren sie nie.
 

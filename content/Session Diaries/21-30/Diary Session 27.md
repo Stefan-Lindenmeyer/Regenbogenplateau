@@ -41,3 +41,4 @@ Nessy folgt den Aktionen der anderen, leicht verwirrt durch den Einfluss des Neb
 |        |                                       | 13 - Lost Item (Schwert)     |
 
 275% Reward Chance
+-> 3 Rewards

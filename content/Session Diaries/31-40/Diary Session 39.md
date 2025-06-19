@@ -1,0 +1,41 @@
+Die Party lässt Tira mit Aimia im Haus zurück und begibt sich auf den Weg zu Galinors Büro. 
+Iloril castet auf dem Weg Detect Magic und bemerkt, dass der Regen leicht magisch ist.
+Im Büro treffen sie auf Rolen, Eldrin und Galinor, welche sie zugleich aus dem Dorf führen.
+Sie begeben sich auf eine kleine dicht bewachsene Insel auf einem der Seen unterhalb des Dorfes und bitten sie einen durch die Vegetation kaum sichtbaren Stein zur Seite zu schieben.
+Hinter dem Stein offenbart sich ein ca. 100m langer Tunnel welcher einige Runen an den Wänden angebracht hat die beginnen zu leuchten, wenn man sich ihnen nähert. Iloril untersucht diese während sie den Gang lang gehen.
+Am Ende des Gangs ist ein kleiner runder Saal vorzufinden. In dessen Mitte steht ein massiver steinerner Tisch auf einem runden Podest. Hinter diesem Tisch verlassen 6 weitere Gänge den Raum.
+Galinor verlangt von der Party, dass sie den Steintisch um 90 Grad drehen. Zu dritt schaffen sie das und das Podest fängt an in den Boden zu fahren und die sieben Anwesenden mitzunehmen.
+
+Unten angekommen streckt sich vor ihnen ein Raum in die Unendlichkeit mit unzähligen Kristallgolems welche in Reih und Glied auf die Befehle ihrer Meister warten. Bei näherer Untersuchung lässt sich feststellen, dass alle dieser Golems verschiedensten Rassen angehören und durch die Kristallisierung ihre Körper effektiv perfekt konserviert wurden. Iloril lässt seinen Homunculus ein wenig in eine Richtung fliegen um die Grenzen des Raumes auszutesten, er stößt jedoch nach kurzer Zeit auf eine unsichtbare Wand.
+Galinor verlangt, dass der Steintisch zurück in seine Ausgansposition gebracht wird. Die Party zögert kurz, folgt aber seinen Anweisungen und die steinerne Säule macht sich wieder auf nach oben.
+Rolen versichert ihnen, dass sie wieder sicher hochkommen werden wenn alles gut läuft.
+Die drei Führer erzählen kurz, dass sie jetzt in den Katakomben der Ladrian Familie sind und sich weiter hinten die Gräber der früheren Mitglieder der Familie befinden. Sie erläutern, dass sie die Golems hier kontrollieren können und offenbaren auf Nachfrage ein Set an Runen auf ihren Torsos, welches den Lichtrunen aus dem Gang ähnelt, mit denen sie anscheinend Macht über sie haben. Sie behaupten, dass die Runen kurz nach ihrer Geburt an ihnen angebracht wurden, um ihr Erbgut zu verändern.
+
+Dann möchten die drei von der Party einen Bericht über ihre kürzlichen Erkenntnisse erhalten. Diese erzählt ihnen so knapp wie möglich die Erlebnisse und Gefahren denen sie in den letzten Tagen ausgesetzt waren, erwähnen jedoch noch nicht die Verhandlungen die sie schon getätigt haben. Weiterhin verschweigen sie Aimias Besuch. Die Halbelfen wollen wissen, ob die Party einen weiteren Plan hat wie sie die Barriere verstärken und die Blauen ausrotten können. Diese schlägt jedoch vor in diplomatische Verhandlungen mit ihnen zu treten, da sie aufgrund von ihren bisherigen Begegnungen mit ihnen das Gefühl haben dass dies möglich ist. Weiterhin plädieren sie, dass es hilfreich wäre mehr Informationen über sie zu haben falls es zu einem Kampf kommt.
+Die Halbelfen sehen drei Probleme in diesem Vorschlag. 
+Erstens, Lebensraum. Die Blauen sind ganz offensichtlich nicht mit der Menge ihres momentanen Lebensraums zufrieden, wo sie doch vorher den ganzen See hatten, und auf der Oberfläche ist nicht genügend Platz für eine Expansion der Halbelfen und der Drowned. 
+Zweitens, Radikale. Die Radikale Partei gegen welche die Party bis jetzt gekämpft hat, greift sehr schnell zu Gewalt und es scheint nicht als würden sie mit ihren Werten übereinstimmen können. Diese Partei wäre eine konstante Gefahr wenn man sie nicht aus dem Weg räumt.
+Drittens, der Maschinengott. Die Drowned und Drones beten eine Maschine im Untergrund an. Nach den Berichten der Party stellt diese bewusst gewordene Maschine ein großes unabschätzbares Risiko dar, nicht zuletzt wegen den uralten Berichten über die Kriegsführung mit solchen Maschinenwesen und die fanatische Verehrung der Drones dieses "Gottes".
+Die Party kontert all diese Sorgen mit dem Punkt, dass man nicht genügend darüber wisse, dass Informationen Macht sind, und dass man nach Verhandlungen immer noch zur Waffe greifen kann.
+Die Halbelfen stimmen einem Treffen an einem für sie vorteilhaften Ort zu, solange die Party ihr möglichstes tut um deren Sicherheit zu garantieren. Währenddessen pausieren sie ihre Pläne die Barriere zu verstärken da dies sowieso noch nicht ohne großes Risiko möglich ist.
+
+Hierauf spricht die Party an, dass sie Pläne haben Meria zurück in ihre ursprüngliche Gestalt zu verwandeln. Die Halbelfen halten dies für eine Unmöglichkeit aber haben nichts dagegen wenn sie es schaffen. Sie stimmen auch zu vorerst einmal jegliche negative Interaktionen mit ihr zu unterlassen.
+
+Nachdem das weitere Vorgehen soweit geplant ist, führen die Halbelfen sie tiefer in die Katakomben. Sie begeben sich in einer Zickzacklinie dorthin, was komisch auf die Party wirkt und auf Nachfrage später erklärt wird.
+Galinor schiebt eine unsichtbare Wand zur Seite welche sich wie ein Spiegel verhält und sie treten in einen langen breiten Gang mit Glassärgen rechts und links welche von verschiedenen handwerklichen Meisterwerken umgeben sind. Zusätzlich dazu stehen 2 Holzsärge direkt neben dem Eingang. In den Särgen sind die Körper von Halbelfen zu sehen welche aussehen als würden sie lediglich schlafen und nicht schon seit tausenden von Jahren tot sein.
+Die Party wird zum Ende des Ganges geführt wo ein leerer Sarg umgeben von alchemistischen Geräten stand.
+Galinor sagt, dies wäre der Sarg von Erevan Ladrian, dem einstigen König des Landes was. Iloril erinnert sich, dass dieser ein Genie der Alchemie war, seine größten Erkenntnisse jedoch geheim gehalten hatte und zuletzt als Nekromant befunden wurde, weswegen seine Familie für mehrere hundert Jahre exiliert wurde und jemand anderes an die Macht kam.
+Peter witzelt, dass Galinor den Sarg als Ruhestätte benutzen könnte und muss sich darauf mit einem empörten Blick von ihm abgeben. Es scheint als würde Galinor den König in höchsten Respekt halten und seinen Kommentar als fast schon ketzerisch ansehen.
+Iloril sieht sich das leere Grab näher an, kann aber nichts ungewöhnliches feststellen.
+
+Nun zieht Galinor einen Vorhang zur Seite, der ein aufrecht stehendes Skelett offenbart. Diese ist aus Knochen zusammengebaut welche nicht zu 100% zusammenpassen und einer Wirbelsäule aus magentafarbenem Metall.
+Galinor erklärt, dass sie mit diesem Artefakt zusammen die Hag kontrollieren und dass jeder seinen Teil dazu beigetragen hat und zeigt auf die Prothesen seines linken Daumens und Zeigefingers. Hinter dem Skelett liegen weitere Artefakte aus dem selben Metall von welchen er berichtet, dass sie nicht funktionieren oder sie nicht die Vorraussetzungen für deren Funktion herausgefunden haben.
+Nachdem die drei Halbelfen der Party nun alle ihre Geheimnisse offenbart hat, verlangen sie von ihren Gästen die selbe Geste.
+
+Zuerst einmal übernimmt Gregor das Wort und beweist ihnen mit einem magischen Tattoo auf seiner Hand dass er ein Paladin of Devotion ist, was Eldrin verifiziert, und dass er somit die Wahrheit sprechen muss.
+Er berichtet, dass ein gewisser Nael Ladrian ihr Auftraggeber ist. Daraufhin sind die drei Halbelfen zunächst empört. Jedoch berichtet Gregor, dass Nael ein Nekromant ist und dass er daraufhin arbeiten möchte dass diese in einem gewissen Maß wieder akzeptiert wird. Das besänftigt die Halbelfen und gibt ihnen Hoffnung für ihre Zukunft.
+Beide Parteien stimmen zu, dass ihre Partnerschaft sehr viel besser verlaufen wäre, wenn sie direkt ihre Informationen offenbart hätten, verstehen aber auch, dass dies gefährlich gewesen wäre.
+
+Zuletzt berichtet die Party noch über ihre Treffen mit Thandorin und Aimia und die Halbelfen halten sie an, nicht deren Fantasien zu unterstützen, und ein Auge auf sie zu halten.
+
+Beim Verlassen des Mausoleums zeigt Rolen auf, dass der unendliche Raum nur ein mit sehr vielen magischen Spiegeln ausgestattetes Gangsystem ist und dass nur ca. ein dutzend Golems hier stehen und nicht aberhunderte. Er ist froh, dass die Partymitglieder nicht zu einem von den Golems werden mussten.

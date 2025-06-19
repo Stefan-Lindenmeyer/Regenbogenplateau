@@ -5,7 +5,7 @@ Ilorils Homunculus sucht aus der Luft einen alternativen Weg und findet einen, a
 Peter sieht von einer Erhöhung aus einen Weg unter einem Überhang.
 Miruna durchsucht die Taschen von Navir und findet einen Handelsbrief der von Galinor kommt.
 Peter erschreckt Navir.
-Sie warten bis er wieder zu bewusstsein kommt und ihnen noch ein paar Fragen beantwortet.
+Sie warten bis er wieder zu Bewusstsein kommt und ihnen noch ein paar Fragen beantwortet.
 Der Kutscher fährt mit Navir zurück den Berg hinunter.
 Die Party trifft auf dem Weg auf ein Dickicht welches Iloril mit Äxten durchschneidet.
 Sie treffen auf eine Klippe. 

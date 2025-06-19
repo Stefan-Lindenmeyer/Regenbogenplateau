@@ -1,8 +1,20 @@
-# -
-- Updated [[Timeline]] Session 36
-- Updated [[Loot]] Session 36
+
+# 19.06.2025
+- Updated [[Timeline]] Session 39-44
+- Updated [[Loot]] Session 39-43
+- Added [[Diary Session 39]]
+- Added [[Diary Session 40]]
+- Added [[Diary Session 41]]
+- Added [[Diary Session 42]]
+- Added [[Mud Golem]]
+- Updated [[Fallen Hunters]]
+# 15.05.2025
+- Updated [[Timeline]] Session 36-38
+- Updated [[Loot]] Session 36-38
 - Added [[Diary Session 35]]
 - Added [[Diary Session 36]]
+- Added [[Diary Session 37]]
+- Added [[Diary Session 38]]
 - Added [[Naels Brief an Gregor]]
 - Added Electrum in [[Smithing Objects]]
 - Removed ability to innovate smithing objects

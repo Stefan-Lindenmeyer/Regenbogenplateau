@@ -306,4 +306,65 @@ Mit Perlstein experimentieren
 Verhandlungen mit Kategwyn
 Sui Post-Deal Diskussion & weiter planen
 
+### Session 37
+[12800 XP]
+Säulenwald untersuchen
+Gegen Toadmen kämpfen
+In Hunter Lair schleichen
+
+### Session 38
+[13250 XP]
+Training & Crafting im Dorf
+Aimia bittet um Hilfe
+Lange Rast
+
+# Tag 16
+
+### Session 38 cont.
+Tests mit Regenbogenstein
+Tira & Aimia Konfrontation
+### Session 39
+[13500 XP]
+Katakomben besuchen
+Geheimnisse offenbaren (Erevan, Auftraggeber Ladrian, Thandorin, Kontrolle Hag)
+
+### Session 40
+[13900 XP | Level 6]
+Blaupausen aus Nebelzone holen
+Blaupausen im Dorf untersuchen und herstellen
+Lange Rast
+
+# Tag 17
+
+### Session 40 cont.
+Training
+
+### Session 41
+[14200 XP]
+Infusionen und Waffen craften
+Iloril trifft Zyrann Thronn in Traumwelt
+# Tag 18
+
+### Session 41 cont.
+Vorbereitung für Verhandlungen mit Drowned
+Verhandlungen mit Drowned
+Ausarbeiten des Vertrags
+### Session 42
+[15200 XP]
+Niederschreiben und Vorstellen des Vertragsvorschlags
+Friedenseid schwören
+Lange Rast
+# Tag 19-21
+### Session 42 cont.
+Rüstung und Waffen schmieden
+Trainieren mit Klipp
+### Session 43
+[15800 XP]
+Informationen sammeln über Hunter
+
+# Tag 22
+### Session 44
+[16000 XP]
+THE HUNT ENDS TODAY
+
 # Bottom

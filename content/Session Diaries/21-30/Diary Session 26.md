@@ -19,7 +19,8 @@ Sie präparieren hierauf eine Ruine für eine kurze Rast welche sie erfolgreich 
 Nach ein paar weiteren kleinen Herausforderungen (siehe [[#Cycle 2]]) begegnen sie einer Gruppe von 6 Mindless welche aus dem Nebel auf sie zugelaufen kommen. Sie versuchen zuerst sie aufzuhalten und zu überzeugen sie nicht anzugreifen, jedoch schaffen sie es nicht zu allen von den verstandshungrigen Kreaturen durchzudringen und es kommt zum Kampf 
 
 ## Appendix - Einflüsse auf die PCs
-Please reference [[Nebelzone]] for more info on effects
+Please reference [[Benebeltes Dorf]] for more info on effects
+(Accuracy not guaranteed)
 #### Cycle 1
 
 | Name   | Insanity                           | Impediment             |

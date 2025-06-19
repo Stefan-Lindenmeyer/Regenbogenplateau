@@ -182,8 +182,49 @@ Verlieren (Siehe [[#Session 30]]):
 - Metal bars: 3 Mithral, 12 Gold, 4 Platin
 - Metal bars: 32 Silber
 - Potions: Clairvoyance, Growth, Angelic Slumber, Alchemical Fire, Growth
+
 Bekommen:
 - 1 Dosis Regenbogenblut
 - 1 Potion of Growth
+
+# Session 37
+**Toadmen**
+8x DC 19 Investigation for 1 common poisonous ingredient each
+Crude weapons and darts, made from plants, stones and other animal materials
+
+# Session 38
+**Schmiede**
+- Greataxe (geschmiedet von Iloril)
+
+# Session 40
+**Shadowfell**
+- Blaupausen
+
+# Session 41
+**Kategwyn**
+-  2 Dosen Regenbogenblut
+
+# Session 42
+**Schmiede**
+- Splint Armor (geschmiedet von Iloril für Iloril)
+- Halberd (geschmiedet von Iloril für Harmon)
+
+# Session 43
+**Innovation**
+- Potion of Angelic Reprieve Recipe
+
+**Gathering on Plateau**
+- 2 uncommon reactive
+- 2 uncommon poisonous
+- 2 common curative
+- 3 uncommon curative
+- 1 rare poisonous
+- 1 common poisonous
+
+**Meria**
+- 3 Greater Healing Potions
+
+**Kaldrin**
+- 1 Healing Potion
 
 # Bottom
