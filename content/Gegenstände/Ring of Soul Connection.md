@@ -11,7 +11,7 @@ Die generelle Funktion des Rings ist Seelen mit einem Ort oder einem Körper zu 
 Alle mit der Einschränkung der Regeln des Rings:
 Man kann nur eine Kreatur für jeden Spell targeten.
 Man kann Spare the Dying "at will" casten
-Man kann einen leveled Spell pro Tag casten ohne einen Spell slot zu verbrauchen.
+Man kann einen leveled Spell pro Tag casten ohne einen Spell slot oder Materialkomponenten zu verbrauchen.
 Man kann alle leveled Spells mit Spell slots oder vergleichbarer Energie casten.
 Um den nächsten Tier/ein höheres Level permanent freizuschalten, muss man einen Spell slot äquivalenten Levels reinstecken.
 Momentan ist der Ring auf Level 3.

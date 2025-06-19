@@ -13,29 +13,29 @@ Critical Success: 10+
 
 Critical Success: 11+
 
-|            Name             | Ingredients | Crafting Time | Crafting Checks | DC  |
-| :-------------------------: | :---------- | :-----------: | :-------------: | :-: |
-|   Greater Healing Potion    |             |    1 hour     |    2 checks     | 5+  |
-| Potion of Animal Friendship |             |    1 hour     |    2 checks     | 5+  |
-|     Potion of Climbing      |             |    1 hour     |    2 checks     | 5+  |
-|      Potion of Poison       |             |    1 hour     |    2 checks     | 5+  |
-|  Potion of Water Breathing  |             |    2 hour     |    2 checks     | 6+  |
+|            Name             | Ingredients                                                            | Crafting Time | Crafting Checks | DC  |
+| :-------------------------: | :--------------------------------------------------------------------- | :-----------: | :-------------: | :-: |
+|   Greater Healing Potion    | 2 *common curative*<br>1 *uncommon curative*<br>_Recipe still unknown_ |    1 hour     |    2 checks     | 5+  |
+| Potion of Animal Friendship |                                                                        |    1 hour     |    2 checks     | 5+  |
+|     Potion of Climbing      |                                                                        |    1 hour     |    2 checks     | 5+  |
+|      Potion of Poison       |                                                                        |    1 hour     |    2 checks     | 5+  |
+|  Potion of Water Breathing  |                                                                        |    2 hour     |    2 checks     | 6+  |
 
 ## Rare
 
 Critical Success: 12+
 
-|            Name            | Ingredients | Crafting Time | Crafting Checks | DC  |
-| :------------------------: | :---------- | :-----------: | :-------------: | :-: |
-|      Oil of Sharpness      |             |    1 hour     |    4 checks     | 7+  |
-|   Potion of Clairvoyance   |             |    1 hour     |    3 checks     | 6+  |
-|    Potion of Diminution    |             |    1 hour     |    3 checks     | 6+  |
-|   Potion of Gaseous Form   |             |    1 hour     |    3 checks     | 7+  |
-|      Potion of Growth      |             |    1 hour     |    3 checks     | 6+  |
-|     Potion of Heroism      |             |    1 hour     |    3 checks     | 6+  |
-|   Potion of Mind Reading   |             |    2 hours    |    3 checks     | 6+  |
-|  Superior Healing Potion   |             |    2 hour     |    3 checks     | 7+  |
-| Potion of Angelic Reprieve |             |    4 hours    |    3 checks     | 7+  |
+|            Name            | Ingredients                                 | Crafting Time | Crafting Checks | DC  |
+| :------------------------: | :------------------------------------------ | :-----------: | :-------------: | :-: |
+|      Oil of Sharpness      |                                             |    1 hour     |    4 checks     | 7+  |
+|   Potion of Clairvoyance   |                                             |    1 hour     |    3 checks     | 6+  |
+|    Potion of Diminution    |                                             |    1 hour     |    3 checks     | 6+  |
+|   Potion of Gaseous Form   |                                             |    1 hour     |    3 checks     | 7+  |
+|      Potion of Growth      |                                             |    1 hour     |    3 checks     | 6+  |
+|     Potion of Heroism      |                                             |    1 hour     |    3 checks     | 6+  |
+|   Potion of Mind Reading   |                                             |    2 hours    |    3 checks     | 6+  |
+|  Superior Healing Potion   |                                             |    2 hour     |    3 checks     | 7+  |
+| Potion of Angelic Reprieve | 2 *uncommon poisonous*<br>3 *rare curative* |    4 hours    |    3 checks     | 7+  |
 ## Very rare
 
 Critical Success: 13+

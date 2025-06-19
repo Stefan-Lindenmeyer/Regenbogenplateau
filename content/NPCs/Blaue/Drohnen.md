@@ -1,6 +1,6 @@
 Untergruppe der [[Drowned]]
 
-Sind meist fanatische Verfechter des Willens des Lorion Narex (deren Name für den [[Zyran Thronn]])
+Sind meist fanatische Verfechter des Willens des Lorion Narex (deren Name für den [[Zyrann Thronn]])
 Können sich trotz Schutzzauber mit viel Schwierigkeit an der Oberfläche bewegen (Durch geterraformte Tunnel nach oben kommen)
 
 ## Aussehen
@@ -10,4 +10,4 @@ An mehreren Stellen des Körpers ersetzen mechanische Bauteile die Haut, Knochen
 ### Mitglieder
 [[Illusion Wizard]]
 [[Pirate Brawler]]
-[[Minion Summoner]]
+[[Minion Diplomat]]

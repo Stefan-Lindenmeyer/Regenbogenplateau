@@ -11,7 +11,7 @@ Frühstück und Bericht von Traum (Aimia geschockt am Tisch)
 Party baut Zelt mit Tisch & Stühlen auf und bringen Ressourcen
 Iloril erzählt Galinor von Traum
 Drones teleportieren sich her
-[[Verhandlungen]]:
+Verhandlungen:
 Iloril Vorschlag Struktur:
 	Eingangsgespräche
 	Essen

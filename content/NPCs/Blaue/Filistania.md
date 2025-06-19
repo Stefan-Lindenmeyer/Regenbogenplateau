@@ -1,4 +1,4 @@
-Priesterin des [[Zyran Thronn]].
+Priesterin des [[Zyrann Thronn]].
 Mitglied von [[Drowned]].
 
 Hat hautenge Kleidung an mit vielen Öffnungen, durch die man ihr Skelett sehen kann.

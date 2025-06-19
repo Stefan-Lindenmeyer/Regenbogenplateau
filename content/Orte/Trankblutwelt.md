@@ -1,4 +1,4 @@
-Eine Art Traumwelt oder Demiplane die vom [[Zyran Thronn]] erschaffen wurde.
+Eine Art Traumwelt oder Demiplane die vom [[Zyrann Thronn]] erschaffen wurde.
 Wenn man Regenbogenblut in sich trägt, kann man die Demiplane mit variierender Schwierigkeit besuchen. Wenn man gerade eine Dosis davon injiziiert bekommen hat, ist es garantiert, dass man über Nacht zumindest mental dort hin transportiert wird.
 
 Verschiedene Steine und Inseln fliegen in mathematischen Formen und Formationen durch den Himmel

@@ -1,7 +1,7 @@
 Lebten früher im See.
 Als das Wasser im See abgelassen wurde zogen sie sich zurück in den [[Untergrund]] welcher immer noch geflutet ist und sind jetzt nicht gut auf die neuen Bewohner des Plateaus zu sprechen.
 
-Sie beten den [[Zyran Thronn]] an.
+Sie beten den [[Zyrann Thronn]] an.
 
 Sind Mischung zwischen Elemental/Undead
 

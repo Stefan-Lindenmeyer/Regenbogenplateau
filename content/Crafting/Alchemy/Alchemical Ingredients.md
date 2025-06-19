@@ -10,8 +10,8 @@ Only one catalyst can be used in each recipe.
 # Harvesting
 ## Foraging
 Takes 8+ hours.
-- Traveling at slow pace in wilderness -> gathering check with disadvantage. 
-- Gathering without traveling -> two checks (without disadvantage).
+- Traveling at slow pace in wilderness -> one gathering check with disadvantage. 
+- Gathering without traveling -> two checks.
 
 **Herbalism Kit** + proficiency -> add your proficiency modifier.
 

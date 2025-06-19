@@ -8,6 +8,16 @@
 - Added [[Diary Session 42]]
 - Added [[Mud Golem]]
 - Updated [[Fallen Hunters]]
+- Added [[Friedensvertrag]]
+- Added [[Vertragswaren]]
+- Added [[Galinors 5-Punkte-Plan]]
+- Minor adjustements to multiple diaries and [[A Courtly Discussion]]
+- Added ingredients in [[Potions]]
+- Added "no material cost" rule in [[Ring of Soul Connection]]
+- Added [[Earth Priest]]
+- Added [[Teleportation Quartermaster]]
+- Adjusted [[Minion Diplomat]]
+- Adjusted [[Peter Nightmare Form]]
 # 15.05.2025
 - Updated [[Timeline]] Session 36-38
 - Updated [[Loot]] Session 36-38

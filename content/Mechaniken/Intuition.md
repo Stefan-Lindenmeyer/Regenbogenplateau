@@ -1,6 +1,7 @@
+(Auch bekannt unter Regenbogenblut)
 ### Ursprung
 Blut der [[Drohnen]] welches durch den [[Illusion Wizard]] in die PCs injiziert wurde.
-Das Blut / die magischen Fähigkeiten des Blutes kommen anscheinend vom [[Zyran Thronn]]
+Das Blut / die magischen Fähigkeiten des Blutes kommen anscheinend vom [[Zyrann Thronn]]
 
 ### Sammlung
 Aus jeder der [[Drohnen]] können 3 Dosen nutzbares Blut extrahiert werden wenn man sie tötet.
