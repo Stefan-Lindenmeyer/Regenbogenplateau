@@ -11,7 +11,7 @@ Every entity has a center of mass.
 If this center of mass crosses the boundary, the entity gets transported to the realm they belong to.
 If part or the whole of the body would be inside a solid object or entity after transporting, the object or entity with less mass will get pushed to the nearest empty space where it would fit and takes ***1d8 bludgeoning damage for every foot*** traveled this way.
 ### Soul Entities
-Soul Entities cannot be owned by other Soul Entities. Their ownership cannot be transferred except if they give up their souls and become objects. This does not mean they die, just that their soul left their body and they are no longer in control of the soul.
+Soul Entities cannot be owned directly by other Soul Entities. Their ownership cannot be transferred except if they give up their souls and thus become similar in function to Object Entities. This does not mean they die, just that their soul left their body and they are no longer in direct control of the soul.
 
 ### Object Entities
 Object Entities are free entities.
