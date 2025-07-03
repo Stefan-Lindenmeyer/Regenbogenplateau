@@ -1,4 +1,13 @@
-
+# 03.07.2025
+- Updated [[Loot]] Session 44-45
+- Updated [[Timeline]] Session 44-45
+- Added [[The Hunter]]
+- Added [[Einsame Lügen]]
+- Added [[Diary Session 43]]
+- Added [[Diary Session 44]]
+- Added [[Diary Session 45]]
+- Added [[Talisman of Painful Luck]]
+- Added [[Chain of Command]]
 # 19.06.2025
 - Updated [[Timeline]] Session 39-44
 - Updated [[Loot]] Session 39-43

@@ -1,0 +1,4 @@
+Einer der [[Schutzzauberbäume]] im [[Säulenwald]] in dem sich [[Asodias]] mit den Fallen Hunters aufhält
+
+Ist verzaubert von Asodias mit Plant Growth und Hallucinatory Terrain
+Die Pfeiler sehen aus wie Blumenfelder mit schwarzen Rosenbüschen, das Wasser sieht aus wie schwarzrotes Blut in welchem Schwärme von kleinen Fischen schwimmen. Der Pfeiler und die Ranken und Lianen präsentieren sich als uralter Fruchtbaum an dessen Ästen blass pinke Früchte hängen in welchen man fötusartige Kreaturen ausmachen kann. Die Früchte geben ein schwaches Licht ab welches das komplette Gebiet durchzieht. Aus diesen kann Asodias neue Familiars schlüpfen lassen.

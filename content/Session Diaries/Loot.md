@@ -227,4 +227,17 @@ Crude weapons and darts, made from plants, stones and other animal materials
 **Kaldrin**
 - 1 Healing Potion
 
+# Session 44
+**Fallen Hunters**
+- Chain of Command
+- Talisman of Painful Luck
+- 5 1d8 Shortswords (Adamantine, Silver, Electrum, Mithral, Platinum)
+
+# Session 45
+**Gathering on Plateau**
+- 5 common curative
+- 2 common poisonous
+- 3 uncommon reactive
+- 1 uncommon curative
+
 # Bottom

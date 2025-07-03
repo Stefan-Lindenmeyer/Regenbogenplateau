@@ -365,6 +365,23 @@ Informationen sammeln über Hunter
 # Tag 22
 ### Session 44
 [16000 XP]
+Miruna wacht auf
+# Tag 23
+### Session 44 cont.
 THE HUNT ENDS TODAY
+Hunter Monolog & Kampf & Conclusion
+
+### Session 45
+[18000 XP]
+Rückblickendes Gespräch über Miruna
+Bericht im Dorf
+Iloril schleicht in Obsidianhöhle um allein zu sein
+Gregor und Harmon folgen ihm gestaffelt
+Lange Rast
+
+# Tag 24
+### Session 45 cont.
+Alle kommen wieder hoch und frühstucken
+Trankzutaten sammeln und verbrauen
 
 # Bottom
