@@ -12,6 +12,7 @@ Notable examples include:
 - The 30 year siege of Telendor where he furthered the research on elixirs greatly
 - The absorption of the agricultural paradise of Homestead with zero casualties on both sides
 - The defense of the great planar gate in Rellheim against an invading Aboleth, which was only possible due to a now unknown alchemical technique Erevan developed but never published
+
 Everthing seemed to be going great, but disaster was not far from Erevan. After making Cliffort, the personal castle of the Ladrian family, the Main Base of Operations for the alchemy division it got attacked again by the same perpetrators that killed Erevans old man. They were out for revenge and eradicated most of his kin, including the current ruler Eldan, during a family gathering. At the last moment Erevan averted disaster and pushed back valiantly against the invaders, though many suspect it was his work in the first place since he was now the heir to the throne and he took it gladly. The only other survivor was his cousin, the son of the King, Boreal. But due to his young age and severe health problems after the attack, he could not ascend to his once destined position. The castle was destroyed in the process and never rebuilt due to a multitude of factors.
 
 ### Prosperous Rule
