@@ -240,4 +240,11 @@ Crude weapons and darts, made from plants, stones and other animal materials
 - 3 uncommon reactive
 - 1 uncommon curative
 
+# Session 47
+**Shadowfell**
+- Scroll of Feather Falling
+- Scroll of Remove Curse
+- Scroll of Find Steed
+- 2 Scrolls of Warding Bond
+- Scroll of Cure Wounds
 # Bottom

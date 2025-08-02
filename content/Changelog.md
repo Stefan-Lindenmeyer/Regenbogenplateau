@@ -1,3 +1,10 @@
+# 02.08.2025
+- Updated [[Timeline]] Session 46-47
+- Updated [[Loot]] Session 47
+- Added [[Diary Session 46]]
+- Added [[Diary Session 47]]
+- Added [[Historical Personalities - Erevan Ladrian]]
+
 # 03.07.2025
 - Updated [[Loot]] Session 44-45
 - Updated [[Timeline]] Session 44-45

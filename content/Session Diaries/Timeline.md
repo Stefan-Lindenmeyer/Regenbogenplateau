@@ -384,4 +384,23 @@ Lange Rast
 Alle kommen wieder hoch und frühstucken
 Trankzutaten sammeln und verbrauen
 
+# Tag 25
+### Session 46
+[18300 XP]
+(Peter Spieler abwesend)
+Galinor Bericht erstatten
+Mit Silvaren in Nebelzone und zu Spelljammer gehen
+Bei Meria Barrierenabschwächungstrank abholen
+### Session 47
+[18500 XP]
+(Peter Spieler abwesend)
+Trank von Meria erhalten & Galinor geben
+Lange Rast
+
+# Tag 26
+
+### Session 47 cont.
+Expedition in Shadowfell
+Kampf mit Dummies
+Kontrollraum untersuchen
 # Bottom
