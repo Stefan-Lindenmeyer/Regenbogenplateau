@@ -1,3 +1,6 @@
+---
+title: 7 - Thalorins Grab
+---
 Die PCs steigen hinab mit modifiziertem Lift von Thalorin
 Sie bemerken, dass es wärmer wird, umso mehr sie nach unten steigen.
 Unten angekommen, finden sie das verlassene Camp von Thalorin.

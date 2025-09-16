@@ -1,3 +1,6 @@
+---
+title: 6 - Berichterstattung & Neue Quest
+---
 Die Party kommt zurück zu ihrem Gefangenen und bemerkt, dass dieser keine Lebenszeichen von sich gibt, außer das Summen, was sie auch schon im Kampf von ihm gehört haben. 
 Sie entscheiden ihn zu köpfen, worauf hin das Summen aufhört.
 Sie diskutieren kurz, was sie Galinor erzählen, während Peter Miruna fesselt, um seine Knotenkünste zu demonstrieren.

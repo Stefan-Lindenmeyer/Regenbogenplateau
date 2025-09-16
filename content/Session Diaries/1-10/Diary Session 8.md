@@ -1,3 +1,6 @@
+---
+title: 8 - Begegnungen im Dorf
+---
 Während Iloril beim Schmied ist, reden Miruna und Peter mit Corvus und liefern Thalorins Leiche ab.
 Corvus erzählt ihnen über die Blauen, dass sie Untote sind und durch die Regenbogenflüssigkeit und das Leben im Wasser verändert wurden und das durchsichtige blaue Fleisch entwickelt haben, welches dem eines Elementaren ähnelt. Weiterhin berichtet er, dass die Prothesen mit verschiedenen Kanälen ausgestattet sind und wenn das Regenbogenblut dort durch fließt, kann ein magischer Effekt hervorgerufen werden. Er bietet an, jemanden mit so einer Prothese auszustatten, wenn er das Blut dazu hätte. 
 Peter geht und Miruna bleibt noch ein wenig um über ihre Vergangenheit und andere Dimensionen mit Corvus zu sprechen. Dieser hat direkt erkannt dass sie nicht von hier ist.

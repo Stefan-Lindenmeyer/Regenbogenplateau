@@ -1,3 +1,6 @@
+---
+title: 9 - Frauen & Träume
+---
 Die Party trifft sich bei Corvus und erzählt ihm, dass sie das Blut haben und den Vorschlag gerne annehmen würden, zumindest Iloril. Corvus installiert den Prototypen an Ilorils Bein, spritzt ihm noch eine Dosis des Regenbogenblutes und er prüft draußen ob die Sprungprothese funktioniert. Das tut sie auch, aber nicht so gut wie erhofft.
 Corvus nimmt die Prothese wieder ab und schlägt Iloril vor, dass er sich einen eigenen Effekt überlegen soll, welchen er dann anfertigen kann.
 Danach zeigt Peter Miruna den Regenbogeschlamm den er gefunden hat. Iloril untersucht ob er magisch ist, ist er, bevor Miruna den Regenbogenstein hineinfallen lässt woraufhin nichts weiter passiert.

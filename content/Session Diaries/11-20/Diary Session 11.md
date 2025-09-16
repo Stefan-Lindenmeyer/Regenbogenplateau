@@ -1,3 +1,6 @@
+---
+title: 11 - Besuch bei Meria
+---
 Die Party geht zu den Spelljammern und lässt dort Iloril den Bericht für Galinor zu Ende schreiben während die anderen die Gegend untersuchen, aber nichts interressantes finden.
 
 Danach gehen sie tiefer in den Wald in Richtung des großen Baumes. Sie begegnen Geisterfischen und interagieren kurz mit ihnen, bis Miruna den Regenbogenstein aus ihrer Tasche holt und die Fische sie angreifen. Sie besiegen die Fische mit Verlust von BobFredBitteMach. Während des Kampfes beschwört Peter zum ersten Mal seine Spektralarme über welche Miruna ihn danach ausfragt während Iloril kurz rastet.

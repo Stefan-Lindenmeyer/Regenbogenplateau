@@ -403,4 +403,36 @@ Lange Rast
 Expedition in Shadowfell
 Kampf mit Dummies
 Kontrollraum untersuchen
+
+### Session 48
+[19000 XP]
+Ankunft Klippenfeste
+Kampf mit Kohl
+Zurück zu Sui
+Lange Rast
+# Tag 27
+### Session 49
+[19300 XP]
+Ins Schloss zurück
+Mit Kohl und Annely reden
+Mittagsmeeting anfangen
+### Session 50
+[19700 XP]
+Mittagsmeeting
+Kampf mit Wissenswächter Golem
+Gespräch mit Espektra
+### Session 51
+[19700 XP]
+Oghmas Kapelle untersuchen
+Haupthalle untersuchen
+Turmtreppenhaus untersuchen
+Bücherei untersuchen
+Kampf mit ???
+Kurze Rast
+Begegnung mit Streichlingen
+Leiche zu Kapelle bringen
+Flut zusehen
+# Tag 28
+### Session 52
+[19700 XP]
 # Bottom

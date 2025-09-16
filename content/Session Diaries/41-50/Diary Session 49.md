@@ -1,0 +1,19 @@
+---
+title: 49 - Zweite Chance
+---
+Gregor wacht auf und merkt an, dass er einen schlechten Traum hatte in dem er von einem Geisterzwerg erschlagen wurde.
+Die anderen witzeln ein wenig darüber und dann diskutieren sie die Situation und die Pläne welche sie nun im Schloss verfolgen wollen.
+Ihr Ansatz lässt sich auf einen Satz herunterbrechen: "Wir wurden von Ladrian Familie angeheuert um Nekromantie vor Inquisitoren zu verstecken."
+Um ca 9 Uhr betreten sie den Schlossgrund und können hören, dass der Botenjunge gerade mit dem Zwerg in den Ställen eine Konversation führt.
+Peter schleicht sich an das Gebäude an und belauscht sie. Er erfährt, dass der Bote nicht weiß, wer der Assassine war, aber, dass alle defensiven Maßnahmen von ihm umgangen wurden und die gesamte Situation recht unerwartet war.
+Währenddessen begutachtet Iloril das Schloss mit seinem Familiar von außen und sieht in ein paar Fenster hinein. Er entdeckt einen schlafenden Mann im höchsten Turm und ein Fenster welches im Inneren durch Rohre und Leitungen verdeckt ist. Während sie dort herumschleichen macht Harmon ein recht lautes Geräusch welches Iloril durch seinen Familiar überdeckt und Peter abdämpft, sodass der Aufmerksam gewordene Sicherheitschef in die falsche Richtung blickt und somit nichts bemerkt.
+Nach einem weiteren kurzen Flüstergespräch entscheiden sie sich den Zwerg erneut zu konfrontieren, diesmal mit einem besseren Plan.
+Sie überzeugen ihn, mithilfe von Gregors nekromantischem Artefakt und der (Halb-)Wahrheit, dass sie von der Ladrian Familie geschickt wurden um die nekromantischen Artefakte auf dem Plateau vor der Inquisition beschützen sollen.
+Kohl glaubt ihnen vorläufig, möchte aber trotzdem, dass der Ring von jemandem untersucht wird den sie in Kürze treffen. Er führt sie in die Waffenkammer, wo nach kurzer Zeit eine junge hübsche Dame die Treppe runter kommt.
+Sie trägt ein langes blaues Kleid mit komplexen Mustern welches sich oben sich an ihre Körperform anschmiegt und von welchem der Rock abtrennbar zu sein scheint. Darunter verbirgt sich eine Arbeitshose.
+Ihre langen offenen braunen Haare verstecken beinahe die Zahnradohrringe die an ihre sanft leuchtenden mechanischen Tattoos um ihre Augen anschließen.
+Iloril, abgelenkt von ihrer Schönheit, bemerkt nicht, dass sie zunächst traurig erscheint und mit Kohl über etwas sprechen möchte, bevor sie eine neutrale Fassade aufsetzt als sie die anderen sieht.
+Kohl stellt sie als Schlossherrin Lady Annely Chromargan vor und beteuert ihre Fähigkeiten mit Arkaner Maschinerie. Sie sieht sich Gregors Schmuckstück mit kritischem Auge an während sie nach oben auf die Schlossmauern gehen und dort die Verteidigungsgeräte kontrollieren. Derweil stellt sich die Party Kohl vor, damit er einen Eindruck von ihren Fähigkeiten bekommt, um sie optimal in die Defensivpläne einzuarbeiten.
+Iloril soll Testweise eines der Geräte untersuchen und seine Funktion feststellen. Durch die uralte Technik kann er nur oberflächliche Eigenschaften feststellen was Annely nicht gerade beeindruckt, jedoch ausreicht um Kohl zufriedenzustellen.
+Annely bestätigt, dass es sich bei dem Ring um ein mächtiges nekromantisches Artefakt handelt und gibt es zurück.
+Danach leiten Kohl und Annely sie zum Vormittagsmeeting in der Haupthalle in dem das weitere Vorgehen besprochen werden soll. Iloril untersucht kurz die riesige mechanische Uhr welche eine der Wände komplett einnimmt und dreimal so schnell läuft wie sie eigentlich sollte und Peter fragt Annely nach der Funktion des Uhrwerks. Sie finden somit heraus, dass die Uhr mit den defensiven Maßnahmen auf der Wand verbunden ist und generell für den Schutz vor der Inquisition und anderen Eindringlingen verantwortlich ist.

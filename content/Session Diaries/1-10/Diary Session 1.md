@@ -1,3 +1,6 @@
+---
+title: 1 - Mysterium in Mahlbach
+---
 Sie kommen in Mahlbach gegen Abend an.
 Der Kutscher berichtet dass er hier schon einmal war und gibt einen beinahe korrekten Namen des Gastwirts.
 Sie gehen in das Gasthaus und bestellen 3 Räume für sich und den Kutscher.

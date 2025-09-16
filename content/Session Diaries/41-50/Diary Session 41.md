@@ -1,3 +1,6 @@
+---
+title: 41 - Verhandlungen
+---
 Neue Infusions: Gutes Schild(Iloril), Leuchtschwert(Gregor), Boots of Winding Path(Gregor)
 Galinor fragt Gregor nach Funktion Zone of Truth
 Iloril Halberd Innovation Fail und spritzt Trankblut

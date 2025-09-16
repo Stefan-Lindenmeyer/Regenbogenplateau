@@ -1,3 +1,6 @@
+---
+title: 4 - Spelljammer Friedhof
+---
 Miruna wacht als Erstes auf, sammelt Zutaten und erstellt einige Brandbomben.
 Peter bereitet schmackhafte Schmetterlingsburger zum Frühstück zu.
 Dann ziehen sie los, um noch einmal die Schmetterlinge aufzusuchen und ihnen zu folgen, wenn sie sich zurückziehen.

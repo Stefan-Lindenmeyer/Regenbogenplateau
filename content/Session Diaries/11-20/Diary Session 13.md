@@ -1,3 +1,6 @@
+---
+title: 13 - Eskorte & Fallen Hunter Kampf
+---
 Last time on DeeEnDee:
 Miruna besucht morgens Scintilla, Tira und Rolen und unterhält sich über diverse Dinge mit ihnen. Im Gespräch mit Tira findet sie heraus dass die Beziehung zwischen ihr und Meria etwas kompliziert ist unter anderem weil Tira schon immer abenteuern wollte aber die Kinder nicht aus dem Wald hinaus durften. In der Konversation mit Rolen in der Bibliothek, wirkt er sehr viel zurückhaltender als zuvor, spricht aber den Grund dafür nicht an. Miruna bemerkt auch die schiefen Blicke die sie von den anderen Artificern zugeworfen bekommt.
 Gegen Mittag wartet sie dann in der Nähe von Elitres und Althirs Haus bis Althir und Elowen dieses verlassen. Sie schleicht sich durch das Gebüsch in den Garten hinter dem Haus und verbirgt sich mit Illusionen während sie mit kleinen Schwierigkeiten das Schloss knackt und zur Hintertür hineinhuscht.

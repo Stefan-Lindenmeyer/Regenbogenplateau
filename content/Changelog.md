@@ -1,3 +1,26 @@
+# 17.09.2025
+- Updated [[Timeline]] Session 48-50
+- Added [[Questübersicht]]
+- Added [[Oghmas Knowledge Warden]]
+- Added [[Klippenfeste Weissagungen]]
+- Added [[Klippenfeste - Geschichten über Erevan]]
+- Added [[Knowledge Warden Description]]
+- Added Diaries 
+	- [[Diary Session 48]]
+	- [[Diary Session 49]]
+	- [[Diary Session 50]]
+- Added Klippenfeste NPCs 
+	- [[Boreal Ladrian]]
+	- [[Botenjunge]]
+	- [[Espektra Strahlig]]
+	- [[Eul Schimmer]]
+	- [[Han-Iro Zaisha]]
+	- [[Kohl Schwarz]]
+	- [[Annely Chromargan]]
+	- [[Liannae & Erevan]]
+	- [[Marin Culpris]]
+	- [[Prankster]]
+- Changed titles of Diaries 1-13, 41, 48-50
 # 02.08.2025
 - Updated [[Timeline]] Session 46-47
 - Updated [[Loot]] Session 47

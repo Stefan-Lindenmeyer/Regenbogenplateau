@@ -1,0 +1,21 @@
+- Geburt in Seitenfamilie der Ladrians
+- 100 Jahre Studium von Tränken, Kräutern und Arkanen Zirkeln unter diversen Tutoren
+- Trat Militär bei als Heiler
+- Schneller Aufstieg durch exzellente Performance
+- Gründet und leitet eigene Trankdivision welche für Alchemieunterstützung zuständig ist
+- Hilft massiv in den Abberation Wars
+- Verlegt Hauptsitz der Trankdivision in die Klippenfeste
+- Gith und Trifles greifen Klippenfeste an während Erevan, Boreal und der König dort sind. Sie schaffen es mit viel Mühe den König zu töten, werden jedoch soweit zurückgeschlagen durch die Stärke von Erevans neuester Errungenschaft, Alchemical Runes, dass sie ihm einen Deal vorschlagen. Sie greifen nicht mehr an und verteidigen das Land gegen die Abberations und er liefert ihnen Forschung und Sklaven. Erevan geht darauf ein.
+- Er wird König, heiratet Liannae und kriegt ein Kind(Bayonetta) mit ihr
+- Währenddessen veranstaltet er regelmäßig das Fertility Festival
+- Er weitet auch die Trankversorgung mit vielen Steuergeldern auf den Populus aus, hält jedoch seine Runentechnik größtenteils geheim.
+- Elizabeth wird geboren
+- Haus XXX plottet die Ladrian Familie zu stürzen und wird daraufhin assassiniert
+- Elizabeth wird mit Hime schwanger, versucht Erevan zur Rede zur stellen wegen dem Massaker, wird gefangen genommen bis ihre Tochter geboren wird und dann an die Githyanki als Sklavin verkauft und wird zu Aurora
+- Erevan findet Nekromonk Artefakte und untersucht einige von ihnen. Er forscht auch an Hybriden Kreaturen mit der AlienDNA die sie von den Abberations noch übrig haben (Die meisten Abbs wurden von Gith enfernt, da die Leute sie nicht vertragen haben)
+- Evarnes Haus ersetzt XXX
+- Aurora kommt zurück und erstellt Barriere. Versucht Erevan zu töten, scheitert aber an Hofmagiern und überwältigendem Einfluss des Elder Kraken. Sie kommt ins Gefängnis mit der Antimagiekrone der Nekromönche.
+- Erevan bemerkt seine Fragilität und erforscht unter Hochdruck eine Möglichkeit unsterblich zu werden. Die Nekromönch Artefakte sind hierbei seine beste Anlaufstelle. Er kann seine Regierung kaum noch aufrecht erhalten dadurch dass die Hälfte der Population fehlt, er massive Löcher im Staatshaushalt erzeugt hat mit den Trankausgaben und da er kaum noch anwesend ist um zu regieren. 
+- Ein Coup findet statt nachdem Aurora mysteriöserweise aus dem Gefängnis ausgebrochen ist und Erevan getötet hat. Erevan wird als Nekromant gebrandmarkt und seine Familie ins Exil geschickt.
+- Erevan hat es mit seinen Alchemical Runes und Nekromonk Artefakten geschafft seinen Verstand für die Zukunft zu speichern vor seinem Tod
+- Boreal hat das Plateau und die Klippenfeste geflutet damit niemand an seinen Verstand und seine Forschung kommt bis der richtige Zeitpunkt gekommen ist.

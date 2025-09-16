@@ -1,3 +1,6 @@
+---
+title: 2 - Blauer Empfang
+---
 Party kommt in Höhle an die eingestürzt ist.
 Sie finden Navir, einen Händler, seine Beine sind verschüttet und er ist kaum bei Bewusstsein.
 Sie räumen ihn frei und geben ihm Medizin.

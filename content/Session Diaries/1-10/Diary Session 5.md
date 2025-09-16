@@ -1,3 +1,6 @@
+---
+title: 5 - Zyrann Thronn
+---
 Die Party legt eine kurze Rast im Schiff ein.
 Iloril experimentiert mit seiner Rüstung, um sie aufzuwerten.
 Miruna setzt sich auf den Stuhl und fällt in eine Trance und entdeckt magische Fähigkeiten in ihrem Inneren, ist aber sehr "verwirrt".

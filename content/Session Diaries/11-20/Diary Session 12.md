@@ -1,3 +1,6 @@
+---
+title: 12 - Dorfspionage
+---
 Als sie im Dorf ankommen gehen sie direkt zu Galinor um den gewünschten Bericht bei ihm abzugeben.
 Dort angekommen gibt er ihnen einen neuen Auftrag. Am nächsten Tag wollen die Männer im Wald einen der Knotenpunkte (Großer Baum in Überlagerung mit dem Feywild) der Schutzzauber mit ihrer Technologie verstärken. Hierzu benötigen sie eine Eskorte da sie Widerstand der Natur erwarten. Galinor bezahlt sie im Voraus für den Auftrag (15 Silber) und verspricht eine weitere Belohnung, sollte die Mission erfolgreich verlaufen. Hierzu fragt er die PCs was für Verlangen sie haben.
 - Iloril: Schiff aufbereiten / (Materialien)

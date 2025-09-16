@@ -1,3 +1,6 @@
+---
+title: 3 - Ankunft am Plateau
+---
 Party läuft Weg weiter und unterhält sich über den Tod.
 Sie kommen an Kreuzung, ein Weg führt nach unten und einer nach oben
 Sie gehen nach unten zurück in die eingestürzte Höhle.

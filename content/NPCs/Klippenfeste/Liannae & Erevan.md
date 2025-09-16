@@ -1,0 +1,1 @@
+Liannae ist eine politisch gewiefte Spielerin und auch gute Schauspielerin 
