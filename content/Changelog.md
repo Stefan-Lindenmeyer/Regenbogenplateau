@@ -1,3 +1,14 @@
+# 23.10.2025
+- Updated [[Timeline]] Session 51-55
+- Updated [[Loot]] Session 48-55
+- Added Diaries 
+	- [[Diary Session 51]]
+	- [[Diary Session 52]]
+	- [[Diary Session 53]]
+	- [[Diary Session 54]]
+	- [[Diary Session 55]]
+- Updated map in [[Regenbogenplateau]]
+- Updated [[Questübersicht]]
 # 17.09.2025
 - Updated [[Timeline]] Session 48-50
 - Added [[Questübersicht]]

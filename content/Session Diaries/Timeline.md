@@ -434,5 +434,37 @@ Leiche zu Kapelle bringen
 Flut zusehen
 # Tag 28
 ### Session 52
-[19700 XP]
+[20700 XP]
+Artificer aus Überlagerung eskortieren
+Lange Rast
+Kohl und Annely erneut sprechen
+Bücherei 2 Bücher finden
+Lombi antreffen
+Mittagsmeeting
+Durch Tunnel aus Kapelle in Dunkelheit schwimmen
+Küche untersuchen
+Staff Quarters ignorieren
+Revenant bekämpfen
+### Session 53
+[21000 XP]
+Kohl über Revenant fragen
+Eul suchen
+Boreal ausfragen
+Annely und Marin ausfragen
+### Session 54
+[21750 XP]
+Knowledge Warden Kampf - Staff Quarters
+Staff Quarters untersuchen und Geheimtür finden
+Klippenfeste Scouting
+Peter durch Hindernisparcours
+### Session 55
+[22250 XP]
+Talor holt sie bei Sui ab
+Steinsäulenwellen untersuchen
+Körperteile Golems besiegen
+Klippenfeste Scouting
+Gedichtswettbewerb
+
+### Session 56
+[23000 XP | Level 7]
 # Bottom

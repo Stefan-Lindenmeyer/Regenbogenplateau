@@ -247,4 +247,13 @@ Crude weapons and darts, made from plants, stones and other animal materials
 - Scroll of Find Steed
 - 2 Scrolls of Warding Bond
 - Scroll of Cure Wounds
+
+# Session 52
+**Klippenfeste Bücherei**
+2 Bücher (Sylvan für Anfänger & Beste Beleidigungen in 120 Sprachen)
+
+# Session 54
+**Klippenfeste**
+Speisekammer - Ancient Chicken
+Staff Quarters - Glass Flower Pot
 # Bottom

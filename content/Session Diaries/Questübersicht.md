@@ -50,9 +50,6 @@ Sie möchte ihre Mutter und ihre Schwestern befreien, wenn möglich die Männer 
 ## Fähigkeiten der Artificer
 Einige der Halbelfen im Dorf haben kuriose Fähigkeiten, andere ungewöhnliche Persönlichkeitseigenheiten, teilweise äußerst beeinträchtigend für die Person.
 Woher kommen all diese und was bedeutet das für die Zukunft.
-## Eskorte ins Shadowfell 
-Eine kleine Gruppe von Artificern untersucht ob das alte Dorf im Shadowfell noch wertvolle Ressourcen hält um diese zu bergen und den Drowned dort den Lebensraum zu eröffnen.
-Hierzu ist eine Eskorte notwendig die sie vor Gefahren beschützt.
 ## Wissenschaftliche Forschung
 Iloril stellt Forschungen mit dem regenbogenfarbigen Perlstein an welcher die Überlagerungen hervorruft.
 Ist das alles was der Stein kann oder hat er noch andere Anwendungsbereiche?
@@ -88,3 +85,8 @@ ___
 ## Krakenzähmen leicht gemacht 
 
 ## Nessys Affige Abenteuer
+
+## Eskorte ins Shadowfell 
+Eine kleine Gruppe von Artificern untersucht ob das alte Dorf im Shadowfell noch wertvolle Ressourcen hält um diese zu bergen und den Drowned dort den Lebensraum zu eröffnen.
+Hierzu ist eine Eskorte notwendig die sie vor Gefahren beschützt.
+Die Artificer hat erfolgreich das dorf untersucht und sich wieder zurückgezogen.
