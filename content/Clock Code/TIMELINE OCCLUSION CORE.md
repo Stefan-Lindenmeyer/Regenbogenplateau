@@ -107,7 +107,7 @@ PROPAGATE_FIELD {
 FOR EACH i, living_biological_major_entity l IN volume {
 	IF l.state.existence != EXPIRED {
 		project l.state INTO Ψ.mesh[i];
-		apply error correction from (Reference[1]) (SOUL-ANCHOR);
+		apply error correction from (Reference[1]);
 		assign t_ref to l.internal_time
 	}
 }
