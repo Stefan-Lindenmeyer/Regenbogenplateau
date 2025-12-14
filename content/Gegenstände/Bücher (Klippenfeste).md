@@ -20,11 +20,11 @@
 | Extraplanare korruptive Magie | Auflistung verschiedener Abberations sowie andere Chaoskräfte ausserhalb der Material Plane die signifikanten negativen Einfluss auf Materie und Lebewesen (Körper, Geist & Seele) hat. |
 
 # Mathematik (Sektion 8)
-| Titel                                  | Inhalt                                                                                                           | Grund                                                                         |
-| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| Göttliche Geometrie (Band I bis LXVII) | Sammlung von universellen Prinzipen die man im Universum beobachten kann mit im Hinblick auf göttlichen Einfluss | Boreals Interesse an Geometrie und Glaube (Foreshadowing ZT = Boreal vestige) |
-| Logische Mathematik                    | Verschiedene logische Funktionen und wie man sie in größeren Konstrukten einsetzen kann                          | Einfluss von Mathematik auf Runen                                             |
-| Der finanzielle Blick                  | Riesige Kollektion von Finanzmagazinen und Publikationen der letzten 100 Jahre                                   | Boreals Finanzwissen                                                          |
+| Titel                                  | Inhalt                                                                                                           |
+| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Göttliche Geometrie (Band I bis LXVII) | Sammlung von universellen Prinzipen die man im Universum beobachten kann mit im Hinblick auf göttlichen Einfluss |
+| Logische Mathematik                    | Verschiedene logische Funktionen und wie man sie in größeren Konstrukten einsetzen kann                          |
+| Der finanzielle Blick                  | Riesige Kollektion von Finanzmagazinen und Publikationen der letzten 100 Jahre                                   |
 
 # Artifice (Sektion 11)
 
