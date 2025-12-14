@@ -256,4 +256,8 @@ Crude weapons and darts, made from plants, stones and other animal materials
 **Klippenfeste**
 Speisekammer - Ancient Chicken
 Staff Quarters - Glass Flower Pot
+
+# Session 59
+**Klippenfeste**
+Bücherei - Alchemiebücher
 # Bottom

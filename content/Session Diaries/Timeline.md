@@ -467,4 +467,26 @@ Gedichtswettbewerb
 
 ### Session 56
 [23000 XP | Level 7]
+Mit Marin über Aurora sprechen
+Knowledge Warden Kampf - Hall?
+Garten Streich
+### Session 57
+[24000 XP]
+Mit Espektra über Aurora sprechen
+Mit Revenant sprechen über Flut
+Tode & Erdbeben beobachten
+Lange Rast
+# Tag 29
+### Session 58
+[25000 XP]
+Gregor und Iloril Level Up
+Annely wird von Revenant angegriffen im Gespräch
+Sicherheitspatrouille durch Schloss
+### Session 59
+[26000 XP]
+Alchemiebücher lesen
+Paladine übernehmen Sicherheitschefrolle
+Espektra Bericht erstatten
+Todesmemory
+Vormittagsversammlung
 # Bottom
