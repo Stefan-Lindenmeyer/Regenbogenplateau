@@ -25,12 +25,12 @@ All Alchemical Brews have a Critical Failure rate of 1 Failure. If you fail 1 ch
 ***Types:*** _potion, concoction, oil_ 
 [[Potions]]
 
-## ???
+## Elixirs
 Requires Alchemy Skill 1 to craft
 Requires Alchemy Skill 2 to innovate
 
-## ????
-Requires Alchemy Skill 2 to craft
+## Alchemical Runes
+Requires Alchemy Skill 2 to craft*
 Requires Alchemy Skill 3 to innovate
 
 ## Poisons
@@ -46,7 +46,7 @@ You can get Alchemy Skill 1 by...
 * being taught for one week by someone with Alchemy skill 3 or higher.
 
 You can get Alchemy Skill 2 by... 
-* Completing 50 rare or rarer potions after achieving Alchemy Skill 1, or... 
+* Completing 50 rare or rarer potions/elixirs, or... 
 * Inventing 10 potion recipes.
 
 You can get Alchemy skill 3 by...

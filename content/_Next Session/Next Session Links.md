@@ -4,8 +4,6 @@
 
 [[Looted Potions]] still unsolved
 
-[[Historical Personalities - Erevan Ladrian]]
-
 # SPOILER - DO NOT CLICK UNLESS INSTRUCTED
 
-Platzhalter
+[[Necrovault]]

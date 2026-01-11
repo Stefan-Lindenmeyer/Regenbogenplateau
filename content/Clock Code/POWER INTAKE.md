@@ -1,11 +1,11 @@
 ```
 /* POWER INTAKE
- * Subsystem: Infinity Rune Interface
+ * Subsystem: Eternal Rune Interface
  * Module ID: PWR-06
  * Scope: Continuous alchemical power acquisition and distribution
  */
 
-POWER_SOURCE = ALCHEMICAL_INFINITY_RUNE;
+POWER_SOURCE = ALCHEMICAL_ETERNAL_RUNE;
 MAX_OUTPUT  = theoretical_infinity;
 
 /* ─────────────────────────────

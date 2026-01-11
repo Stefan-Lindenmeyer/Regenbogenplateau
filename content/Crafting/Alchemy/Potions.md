@@ -8,18 +8,18 @@ Critical Success: 10+
 |   Alchemical Fire    |                     |    1 hour     |    1 checks     | 4+  |
 |       Antidote       |                     |    1 hour     |    2 checks     | 5+  |
 |    Healing Potion    | 2 *common curative* |    1 hour     |    1 checks     | 4+  |
-| Potion of Firebreath |                     |    1 hour     |    2 checks     | 5+  |
+| Potion of Firebreath | 3 *common reactive* |    1 hour     |    2 checks     | 5+  |
 # Uncommon
 
 Critical Success: 11+
 
-|            Name             | Ingredients                                                            | Crafting Time | Crafting Checks | DC  |
-| :-------------------------: | :--------------------------------------------------------------------- | :-----------: | :-------------: | :-: |
-|   Greater Healing Potion    | 2 *common curative*<br>1 *uncommon curative*<br>_Recipe still unknown_ |    1 hour     |    2 checks     | 5+  |
-| Potion of Animal Friendship |                                                                        |    1 hour     |    2 checks     | 5+  |
-|     Potion of Climbing      |                                                                        |    1 hour     |    2 checks     | 5+  |
-|      Potion of Poison       |                                                                        |    1 hour     |    2 checks     | 5+  |
-|  Potion of Water Breathing  |                                                                        |    2 hour     |    2 checks     | 6+  |
+|            Name             | Ingredients                                  | Crafting Time | Crafting Checks | DC  |
+| :-------------------------: | :------------------------------------------- | :-----------: | :-------------: | :-: |
+|   Greater Healing Potion    | 2 *common curative*<br>1 *uncommon curative* |    1 hour     |    2 checks     | 5+  |
+| Potion of Animal Friendship |                                              |    1 hour     |    2 checks     | 5+  |
+|     Potion of Climbing      |                                              |    1 hour     |    2 checks     | 5+  |
+|      Potion of Poison       |                                              |    1 hour     |    2 checks     | 5+  |
+|  Potion of Water Breathing  |                                              |    2 hour     |    2 checks     | 6+  |
 
 ## Rare
 
