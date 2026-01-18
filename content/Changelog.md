@@ -1,10 +1,12 @@
-# -
+# 18.01.2026
 - Updated [[Timeline]] Session 60
 - Updated [[Loot]] Session 59-60
 - Added Firebreath [[Potions]] recipe
 - Added [[Alchemy]] category names
 - Added Psionics Books to [[Bücher (Klippenfeste)]]
 - Added [[Necrovault]]
+- Added [[The Land Remembers]]
+- Added [[Ghost Boons]]
 # 13.12.2025
 - Updated [[Timeline]] Session 56-59
 - Updated [[Loot]] Session 59
