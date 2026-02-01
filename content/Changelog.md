@@ -1,3 +1,9 @@
+# 01.02.2026
+- Updated [[Timeline]] Session 61-63
+- Updated [[Loot]] Session 61-63
+- Updated [[Questübersicht]]
+- Fixed typos in [[The Land Remembers]]
+
 # 18.01.2026
 - Updated [[Timeline]] Session 60
 - Updated [[Loot]] Session 59-60

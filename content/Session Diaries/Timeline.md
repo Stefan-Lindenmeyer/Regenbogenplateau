@@ -489,4 +489,34 @@ Paladine übernehmen Sicherheitschefrolle
 Espektra Bericht erstatten
 Todesmemory
 Vormittagsversammlung
+
+### Session 60
+[27000 XP]
+Boreals Kunst untersuchen
+Uhr untersuchen
+Annely näher kommen
+Annely Wahrheit sagen
+Trankzutaten sammeln
+Annely sexen
+Harmon berichtet über Eul
+
+### Session 61
+[28000 XP]
+Annely Verabschiedung
+
+# Tag 30
+### Session 61 cont.
+Revenant Kampf & entfluchen
+
+# Tag 31
+### Session 62
+[30000 XP]
+Schlossgeister konfrontieren
+
+## Session 63
+[32000 XP]
+Im Dorf schmieden und brauen
+# Tag 32
+## Session 63 cont.
+Labor betreten und untersuchen
 # Bottom

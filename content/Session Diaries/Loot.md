@@ -260,4 +260,38 @@ Staff Quarters - Glass Flower Pot
 # Session 59
 **Klippenfeste**
 Bücherei - Alchemiebücher
+
+# Session 60
+**Klippenfeste**
+- 9 common reactive
+
+# Session 61
+**Iloril brauen**
+- 5+1 Firebreath potions
+- 3+1 Healing potions
+- 1+1 Injury poisons
+- 1 Contact poison
+- 1 Ingest poison
+
+# Session 62
+**Gathering on Plateau**
+- 2 common reactive
+- 1 common curative
+- 2 uncommon poisonous
+- 1 uncommon reactive
+- 1 rare curative
+
+# Session 63
+**Gathering on Plateau**
+- 2 uncommon curative
+- 1(+3?) uncommon reactive
+- 1 rare reactive
+**Laboratory**
+- Soul Amplifier
+- Soul Synchronizer
+- Soul Infuser
+- Soul Channeler
+- Psionics Prototype
+- Concentrate of Experience
+- 4 Potion of Angelic Slumber
 # Bottom
