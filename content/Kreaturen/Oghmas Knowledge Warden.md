@@ -21,8 +21,8 @@ _Medium Construct (abberation), lawful neutral_
 Special Traits
  
 - **Hover** - Ignores difficult terrain and moves silently over the ground.
-- **Isolation Lock** - Locks down the current area so that the only way to leave is to defeat the warden or by passing a DC 25 Con save
-- **Database** - Keeps a database of all attacks that have hit it. When it gets hit by an attack, it automatically gets Tier 1. This database persists between loops. (Das zentrale Auge beobachtet jede kleinste Bewegung die du während deines Angriffes machst und dokumentiert diese in einem Strom aus Runen welche von der Mitte in die Kugeln nach aussen fliessen.)
+- **Isolation Lock** - Locks down the current area so that the only way to leave is to defeat the warden or by passing a DC 25 Con save.
+- **Database** - Keeps a database of all attacks that have hit it. When it gets hit by an attack, it automatically gets Tier 1. This database persists between loops.
 	Tier 1 - Attack was registered.
 	Tier 2 - The attack has advantage against the warden but it has advantage on _Refine Simulation_.
 	Tier 3 - Immediately after the attack hits the warden, it can taunt the attacker (DC 16 Wis save) to repeat the attack next time it would use an attack if possible. It cannot taunt on an attack that was taunted.

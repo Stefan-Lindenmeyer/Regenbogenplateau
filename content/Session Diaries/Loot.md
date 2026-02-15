@@ -286,6 +286,7 @@ Bücherei - Alchemiebücher
 - 2 uncommon curative
 - 1(+3?) uncommon reactive
 - 1 rare reactive
+
 **Laboratory**
 - Soul Amplifier
 - Soul Synchronizer

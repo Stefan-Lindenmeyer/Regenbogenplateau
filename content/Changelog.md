@@ -1,3 +1,7 @@
+# 15.02.2026
+- Updated [[Ghost Boons]]
+- Added [[Fazit - Kontinuierliche Effekte Alchemistischer Runen]]
+
 # 01.02.2026
 - Updated [[Timeline]] Session 61-63
 - Updated [[Loot]] Session 61-63
