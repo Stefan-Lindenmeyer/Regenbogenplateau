@@ -516,6 +516,7 @@ Schlossgeister konfrontieren
 ## Session 63
 [32000 XP]
 Im Dorf schmieden und brauen
+
 # Tag 32
 ## Session 63 cont.
 Labor betreten und untersuchen
