@@ -520,4 +520,59 @@ Im Dorf schmieden und brauen
 # Tag 32
 ## Session 63 cont.
 Labor betreten und untersuchen
+
+## Session 64
+[34000 XP]
+Labor fertig untersuchen
+Verhör Prank
+Planen wie man die Probleme der Schlossgeister lösen kann um Boons zu bekommen
+
+## Session 65
+Espektra Boon
+Eul Boon
+
+# Tag 33
+## Session 66
+Peter level up mit Wild Magic
+Gregor level up durch Traum
+Iloril schmiedet Full Plates
+Trinken im Wirtshaus
+Erdbeben
+Leute aus eingestürzten Häusern retten
+Meria Auftrag geben Tränke von Eul zu brauen
+
+# Tag 34
+
+## Session 67
+Iloril Gespräch mit Filistania & Kategwyn über Funkstille
+Meeting mit Kategwyn mit Infos über Situation von ZT
+Gregor schmiedet Pläne zur Dorfverteidigung
+## Session 68
+Verteidigungspläne mit Galinor absprechen
+Absprache mit
+	Aricor - Magiekristalle
+	Lirion, Falion, Selvain - Augments
+	Elowen - Siege Defense
+	Eiravan, Lyandros - Schiff reparieren
+
+## Session 69
+Meria informieren
+Elitre informieren
+Peter besiegt seine Nightmare Form
+Gregor sagt Galinor, dass er Leute unterrichten will
+
+# Tag 35
+## Session 69 cont.
+Corin führt Party zu Göttertelefon und zeigt Konstruktionsmelodie
+## Session 70
+Telefonat mit Zyrann Thronn
+## Session 71
+Craften & Zutaten sammeln
+# Tag 36
+
+## Session 71 cont.
+Aimia Gespräch
+Elitre & Spelljammer
+Ritualtrank von Hag holen
+Training & Dorfhilfe
 # Bottom

@@ -24,6 +24,7 @@ Kategorie: Major Sidequest
 Status: Auf Eis bis Party Gebiet verlässt
 Die Situation mit Elitre und Althir, ihrem Mann, ist gelöst.
 Elitre möchte die Welt bereisen und dort Forschungen und Experimente anstellen.
+Elitre ist dem Spelljammer beigetreten und hat gelernt Magie in ihn hinein zu leiten
 ## Hag oder Dryade?
 Kategorie: Major Quest
 Status: Auf Eis bis ZT besiegt
@@ -40,8 +41,10 @@ Es wird ein neutrales Gebiet erschaffen in dem sich beide Parteien austauschen k
 ## Maschinengott
 Kategorie: Major Quest
 Status: Pausiert
-Der Zyrann Thronn möchte seinen Einfluss ausweiten und mehr Gefolgsleute rekrutieren.
-Darunter die Dorfbewohner und auch Iloril welche er mit Versprechen von Macht überzeugen will.
+~~Der Zyrann Thronn möchte seinen Einfluss ausweiten und mehr Gefolgsleute rekrutieren.
+Darunter die Dorfbewohner und auch Iloril welche er mit Versprechen von Macht überzeugen will.~~
+Der Zyrann Thronn baut sich einen neuen Körper in seiner Demiplane aus den Magent-Artefakten aus dem Schloss und hält seit mehreren Tagen Funkstille zu den Drowned.
+Nach einem Anruf mit dem ZT haben die Spieler vorerst seine Unterstützung gewonnen. Seinen alten Körper müssen sie allerdings trotzdem noch bekämpfen, damit der ZT sich entwickeln kann, und da der Körper auf Autopilot steht.
 ## Wild Magic Sorceress
 Kategorie: Minor Sidequest
 Status: Meditationsroutine
@@ -53,6 +56,8 @@ Kategorie: Major Sidequest
 Status: Schiff wird repariert
 Ein intakter Spelljammer lässt sich im Wald des Plateaus finden. Dieser wurde den Artificern übergeben.
 Das Schiff benötigt lediglich ein paar Reparaturen der Hülle und eine Energiequelle um es wieder flugbereit zu machen.
+Das Schiff ist nun soweit repariert und bräuchte nur noch Energie und einen Piloten.
+Für Energie sorgt Elitre.
 
 ## Thandorins Kritik
 Kategorie: Major Quest
@@ -67,6 +72,7 @@ Status: Auf Eis bis ZT besiegt
 Aimia weiß, dass ihre Mutter eine Hag ist, ist aber überzeugt, dass sie von den Dorfbewohnern gefoltert wird.
 Nachdem sie eine Woche lang von ihnen eingesperrt wurde und somit die Gefühle ihrer Mutter noch besser verstehen kann ist sie entkommen und hält sich nun im Haus der Party auf, wo sie denkt, dass sie versteckt ist.
 Sie möchte ihre Mutter und ihre Schwestern befreien, wenn möglich die Männer bestrafen und vom Plateau entkommen.
+Aimia stellt Heiltränke für den kommenden Kampf her.
 
 ## Fähigkeiten der Artificer
 Kategorie: Major Sidequest
@@ -84,12 +90,13 @@ Ist das alles was der Stein kann oder hat er noch andere Anwendungsbereiche?
 Kategorie: Personal Quest
 Status: -
 Iloril hat von seinem Vater eine Blaupause erhalten ohne Kommentar um was es sich handelt.
-Im Vault des Schlosses lag ein Gerät welches zum Hervorrufen von psionischen Kräften konstruiert wurde. Ein Teil der Blaupause ist extrem ähnlich zu diesem. Als Iloril es intersucht, hat er eine Vision aus seiner Kindheit, in der er in die Maschine aus der Blaupause gesetzt wurde und starke Kopfschmerzen hatte. 
+Im Vault des Schlosses lag ein Gerät welches zum Hervorrufen von psionischen Kräften konstruiert wurde. Ein Teil der Blaupause ist extrem ähnlich zu diesem. Als Iloril es untersucht, hat er eine Vision aus seiner Kindheit, in der er in die Maschine aus der Blaupause gesetzt wurde und starke Kopfschmerzen hatte. 
 ## Peters Albtraum
 Kategorie: Personal Quest
 Status: -
 Peter kann sich mit einer Rassel in ein Albtraummonster verwandeln das er effektiv nicht kontrollieren kann.
 Wieso kann er das und lässt es sich für immer wegschließen? Oder will er sich die Kraft zu nutze machen und lernen sie zu leiten?
+Peter hat seine Albtraumseite besiegt und unter Kontrolle gebracht
 ## Gregors Artefakt
 Kategorie: Personal Quest
 Status: -

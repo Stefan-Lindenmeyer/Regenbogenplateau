@@ -295,4 +295,16 @@ Bücherei - Alchemiebücher
 - Psionics Prototype
 - Concentrate of Experience
 - 4 Potion of Angelic Slumber
+
+# Session 71
+**Gathering on Plateau**
+Common
+- 2 curative
+- 3 reactive
+- 1 poisonous
+
+Uncommon
+- 1 curative
+- 2 reactive
+- 2 poisonous
 # Bottom
