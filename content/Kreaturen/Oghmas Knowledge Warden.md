@@ -1,7 +1,7 @@
 _Medium Construct (abberation), lawful neutral_
 
 **Armor Class** 18 (otherworldly alloy)  
-**Hit Points** >150
+**Hit Points** 150
 **Speed** fly 40 ft. (hover)
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
@@ -35,7 +35,7 @@ Special Traits
 
 ACTIONS
 
-**Multiattack.** Attack half as many times as other attacks hit you since the end of your last turn.
+**Multiattack.** Attack half as many times as other attacks hit you since the end of your last turn. (Min. of one)
 
 **Replay attack.** Use one of the attacks stored in the database.
 	Tier 1 - Do not add your proficiency bonus.
@@ -49,7 +49,7 @@ ACTIONS
 
 BONUS ACTION
 
-**Reverse Engineering.** Rewind your memory audibly and visibly and produce effects you have recorded recently. Use any ability, spell, etc. that has been used since the end of your last turn
+**Reverse Engineering.** Rewind your memory audibly and visibly and produce effects you have recorded recently. Use any action or bonus action that does not have an attack roll and has been used since the end of your last turn
 
 ---
 
